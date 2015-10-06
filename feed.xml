@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://williamstome.github.io//feed.xml" />
 <link rel="alternate" type="text/html" href="http://williamstome.github.io/" />
-<updated>2015-10-06T12:27:09-04:00</updated>
+<updated>2015-10-06T13:01:28-04:00</updated>
 <id>http://williamstome.github.io//</id>
 <author>
   <name>Tom Williams</name>
@@ -54,7 +54,7 @@ You gratefully take the glass from Bottender, then raise an eyebrow and ask,&lt;
 
 &lt;p&gt;One of the goals of the field of Human-Robot Interaction is to make human-robot interaction as &lt;em&gt;natural&lt;/em&gt; as possible. In part, this means making humans feel comfortable, and not, say, creeped out. For example,  the theory of the &lt;a href=&quot;https://en.wikipedia.org/wiki/Uncanny_valley&quot;&gt;“Uncanny Valley”&lt;/a&gt;, which suggests that humans are creeped out by robots (or other agents) that look very close to human but are slightly “off” provides us with design suggestions for building less creepy robots.&lt;br /&gt;&lt;br /&gt;
 &lt;img src=&quot;http://i.imgur.com/nz9sGMk.gif&quot; alt=&quot;Uncanny Valley&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
-One of my tertiary research interests involves whether there is an “uncanny valley of actions”, that is, are there certain robot &lt;em&gt;behaviors&lt;/em&gt; that may be useful to the robot, but should be avoided because they creep people out. One possible action in the uncanny valley of actions is robot telepathy. As seen in the situation above, robots don’t need to communicate to communicate with each other verbally, and instead can simply communicate over WiFi.&lt;/p&gt;
+One of my tertiary research interests involves whether there is an “uncanny valley of actions”, that is, are there certain robot &lt;em&gt;behaviors&lt;/em&gt; that may be useful to the robot, but should be avoided because they creep people out. One possible action in the uncanny valley of actions is robot telepathy. As seen in the situation above, robots don’t need to communicate with each other verbally, and instead can simply communicate over WiFi.&lt;/p&gt;
 
 &lt;p&gt;On the one hand, there’s nothing particularly insidious about this. For one thing, it’s pretty similar to humans just texting each other. Furthermore, it’s obviously much more efficient than driving up to each other and communicating through speech. On the other hand, telepathy is regarded as a “supernatural” ability which would be eerie if performed by humans, and thus it might not be unreasonable to expect that in certain situations it might seem eerie when performed by robots.&lt;/p&gt;
 
