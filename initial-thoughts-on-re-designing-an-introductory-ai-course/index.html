@@ -1,0 +1,822 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Initial Thoughts on (Re)designing an Introductory AI Course &#8211; williamstome</title>
+<meta name="description" content="A month or so ago, I was accepted to the Tufts GIFT (Graduate Institute for Teaching) program">
+<meta name="keywords" content="ai, teaching, pedagogy">
+
+
+
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="Initial Thoughts on (Re)designing an Introductory AI Course">
+<meta name="twitter:description" content="A month or so ago, I was accepted to the Tufts GIFT (Graduate Institute for Teaching) program">
+<meta name="twitter:site" content="@williamstome">
+<meta name="twitter:creator" content="@williamstome">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="http://williamstome.github.io//images/features/AIMA.png">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Initial Thoughts on (Re)designing an Introductory AI Course">
+<meta property="og:description" content="A month or so ago, I was accepted to the Tufts GIFT (Graduate Institute for Teaching) program">
+<meta property="og:url" content="http://williamstome.github.io//initial-thoughts-on-re-designing-an-introductory-ai-course/">
+<meta property="og:site_name" content="williamstome">
+
+
+
+
+
+<link rel="canonical" href="http://williamstome.github.io//initial-thoughts-on-re-designing-an-introductory-ai-course/">
+<link href="http://williamstome.github.io//feed.xml" type="application/atom+xml" rel="alternate" title="williamstome Feed">
+<link rel="author" href="http://plus.google.com/+112738925898757865574?rel=author">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://williamstome.github.io//assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+	<script src="http://williamstome.github.io//assets/js/vendor/html5shiv.min.js"></script>
+	<script src="http://williamstome.github.io//assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="http://williamstome.github.io//assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<link href='//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700%7CPT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://williamstome.github.io//favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="http://williamstome.github.io//favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="http://williamstome.github.io//images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://williamstome.github.io//images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://williamstome.github.io//images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://williamstome.github.io//images/apple-touch-icon-144x144-precomposed.png">
+
+</head>
+
+<body class="post">
+
+<!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+
+<div class="navigation-wrapper">
+	<div class="site-name">
+		<a href="http://williamstome.github.io/">williamstome</a>
+	</div><!-- /.site-name -->
+	<div class="top-navigation">
+		<nav role="navigation" id="site-nav" class="nav">
+		    <ul>
+		        
+					    
+					        
+					    
+					    <li><a href="http://williamstome.github.io//about/" >About</a></li>
+					  
+					    
+					        
+					    
+					    <li><a href="http://williamstome.github.io//posts/" >Posts</a></li>
+					  
+					    
+					        
+					    
+					    <li><a href="http://williamstome.github.io//feed.xml" >RSS</a></li>
+					  
+					    
+					        
+					        
+					    <li><a href="http://hrilab.tufts.edu/~twilliam/" target="_blank">Author</a></li>
+					  
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
+
+
+  <div class="image-wrap">
+  <img src=
+    
+      "http://williamstome.github.io//images/features/AIMA.png"
+    
+  alt="Initial Thoughts on (Re)designing an Introductory AI Course feature image">
+  
+    <span class="image-credit">Photo Credit: <a href="">Artificial Intelligence- A Modern Approach</a></span>
+  
+  </div><!-- /.image-wrap -->
+
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    
+
+
+
+	<img src="https://en.gravatar.com/userimage/26616054/e6f3322a7a49fe676683654ec3dbafce.jpg?size=200" class="bio-photo" alt="Tom Williams bio photo">
+
+<h3>Tom Williams</h3>
+<p>Graduate Researcher in Human-Robot Interaction and Natural-Language Dialogues</p>
+<a href="mailto:williams@cs.tufts.edu" class="author-social" target="_blank"><i class="fa fa-envelope-square"></i> Email</a>
+<a href="http://scholar.google.com/citations?user=qg_aiScAAAAJ" class="author-social" target="_blank"><i class="fa fa-graduation-cap"></i> Scholar</a>
+<a href="http://researchgate.net/profile/Tom_Williams19" class="author-social" target="_blank"><i class="fa fa-graduation-cap"></i> ResearchGate</a>
+<a href="http://www.mendeley.com/profiles/tom-williams23" class="author-social" target="_blank"><i class="fa fa-flask"></i> Mendeley</a>
+<a href="http://linkedin.com/in/williamstome" class="author-social" target="_blank"><i class="fa fa-linkedin-square"></i> LinkedIn</a>
+<a href="http://github.com/williamstome" class="author-social" target="_blank"><i class="fa fa-github"></i> Github</a>
+
+<a href="http://lastfm.com/user/williamstome" class="author-social" target="_blank"><i class="fa fa-music"></i> Last.fm</a>
+<!-- -->
+<a href="http://twitter.com/williamstome" class="author-social" target="_blank"><i class="fa fa-twitter-square"></i> Twitter</a>
+<a href="http://plus.google.com/112738925898757865574" class="author-social" target="_blank"><i class="fa fa-google-plus-square"></i> Google+</a>
+
+
+
+
+
+
+
+
+
+  </div>
+  <article class="post">
+    <div class="headline-wrap">
+      
+        <h1><a href="http://williamstome.github.io//initial-thoughts-on-re-designing-an-introductory-ai-course/" rel="bookmark" title="Initial Thoughts on (Re)designing an Introductory AI Course">Initial Thoughts on (Re)designing an Introductory AI Course</a></h1>
+      
+    </div><!--/ .headline-wrap -->
+    <style media="screen" type="text/css" >
+
+.meta-wrapper{
+		border: 1px solid #888;
+		border-width: 2px 0;
+		color: #4e4e4e;
+		text-transform: uppercase;
+		margin: 0px 0px 20px 0px
+}
+
+.inline{display:inline}
+
+.tag_list_in_post{
+	display: inline;
+	padding: 0 0 0 30px;
+}
+
+
+.tag_list{
+	padding-bottom: 50px;
+}
+
+.tag_list_item{
+	font-family: "PT Sans Narrow",sans-serif;
+}
+	
+.tag_list_link{
+	color: #4e4e4e;
+	font-size: 18px;
+	font-variant: small-caps;
+	padding: 0 6px;
+	text-transform: lowercase;
+}
+
+.tag_list_link:hover{
+	color: #888;
+}
+</style>
+
+<div class="meta-wrapper">
+<ul class="tag_list_in_post">
+
+<li class="inline tag_list_item">
+<a class="tag_list_link" href="/tag/ai"> ai </a>
+</li>
+
+<li class="inline tag_list_item">
+<a class="tag_list_link" href="/tag/teaching"> teaching </a>
+</li>
+
+<li class="inline tag_list_item">
+<a class="tag_list_link" href="/tag/pedagogy"> pedagogy </a>
+</li>
+
+</ul>
+</div>
+
+    <div class="article-wrap">
+      <p>A month or so ago, I was accepted to the Tufts GIFT (Graduate
+Institute for Teaching) program, which is comprised of (1) a
+<em>learning</em> portion in which I’ll spend three weeks taking classes on
+teaching pedagogy, (2) a <em>design</em> portion, in which I’ll be
+working with Professor Anselm Blumer to redesign portions of Tufts’
+“Introduction to Artificial Intelligence” course, and (3) a <em>teaching</em>
+portion, in which I’ll teach some number of lectures (I’m hoping
+eight) for the redesigned course.</p>
+
+<p>While I haven’t yet undergone the <em>learning</em> portion yet, I’ve been
+eager to start brainstorming how I might change the class. 
+One complaint many (including myself) have with how the course is
+currently structured is that it is has very little of what would be
+considered “Modern” AI. In fact, 40% of the class is focused on logic,
+which, as I’ll show later, is quite a lot. This led me to formulate
+my first goal:</p>
+
+<blockquote>
+  <p><em>Classical</em> and <em>Modern</em> AI should be given approximately equal
+weight.</p>
+</blockquote>
+
+<p>Another complaint many (including myself) have with how the course is
+currently structured is that the course currently seems to just follow
+the progression of the textbook, chapter by chapter, without
+sufficient motivation for each new topic. This led me to
+formulate my second goal:</p>
+
+<blockquote>
+  <p>Each topic should build off the previous topic in some meaningful
+way. When discussing each new topic, students should have to consider
+how it compares to the previous topics studied.</p>
+</blockquote>
+
+<p>By thinking about the course in light of these two goals, I
+realized that the course material could be nicely organized in the
+following way:</p>
+
+<ul>
+  <li>First, there are a set of foundational topics (e.g., <em>Search</em> and <em>Constraint Satisfaction</em>) that (I believe) sit outside of the Classical/Modern divide</li>
+  <li>Second, all the topics I’d like to cover in Classical and Modern AI can be categorized as knowledge representation, inference, or decision making.</li>
+</ul>
+
+<table rules="groups">
+  <thead>
+    <tr>
+      <th style="text-align: left"> </th>
+      <th style="text-align: left">Classical AI</th>
+      <th style="text-align: left">Modern AI</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Knowledge Representation</td>
+      <td style="text-align: left">First order Logic, Ontologies</td>
+      <td style="text-align: left">Bayes Nets and Markov Models</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Inference</td>
+      <td style="text-align: left">First order Logical Inference</td>
+      <td style="text-align: left">Exact and Approximate Inference</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Decision Making</td>
+      <td style="text-align: left">Classical Planning</td>
+      <td style="text-align: left">Utility Theory and Markov Decision Processes</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>By adding seven classes to the schedule on modern inference and decision
+making, cutting six classes on classical knowledge representation
+and decision making, and cutting a single class on Foundations, I
+constructed the following schedule, which achieves my two goals. I’m
+especially excited about the lesson on 
+<a href="http://homes.cs.washington.edu/~pedrod/papers/mlj05.pdf">Markov Logic Nets</a>, 
+a topic which beautifully ties together Classical and Modern AI.</p>
+
+<table rules="groups">
+  <thead>
+    <tr>
+      <th style="text-align: left">Supertopic</th>
+      <th style="text-align: left">Topic</th>
+      <th style="text-align: left">Subtopic</th>
+      <th style="text-align: left">Old</th>
+      <th style="text-align: left">New</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Foundations -1</td>
+      <td style="text-align: left">Intro</td>
+      <td style="text-align: left">Introduction</td>
+      <td style="text-align: left">1-2</td>
+      <td style="text-align: left">1-2</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Foundations</td>
+      <td style="text-align: left">Search</td>
+      <td style="text-align: left">Uninformed Search</td>
+      <td style="text-align: left">3</td>
+      <td style="text-align: left">3</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Foundations</td>
+      <td style="text-align: left">Search</td>
+      <td style="text-align: left">Heuristic Search</td>
+      <td style="text-align: left">4</td>
+      <td style="text-align: left">4</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Foundations</td>
+      <td style="text-align: left">Search</td>
+      <td style="text-align: left">Local Search</td>
+      <td style="text-align: left">4</td>
+      <td style="text-align: left">5</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Foundations</td>
+      <td style="text-align: left">Search</td>
+      <td style="text-align: left">ND Actions</td>
+      <td style="text-align: left">5</td>
+      <td style="text-align: left">6</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Foundations</td>
+      <td style="text-align: left">Search -1</td>
+      <td style="text-align: left">Partial Observations</td>
+      <td style="text-align: left">6</td>
+      <td style="text-align: left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Foundations</td>
+      <td style="text-align: left">CSPs</td>
+      <td style="text-align: left">CSPs</td>
+      <td style="text-align: left">9</td>
+      <td style="text-align: left">7</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Foundations</td>
+      <td style="text-align: left">CSPs</td>
+      <td style="text-align: left">Constraint Prop</td>
+      <td style="text-align: left">10</td>
+      <td style="text-align: left">8</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Foundations</td>
+      <td style="text-align: left">Search</td>
+      <td style="text-align: left">Adversarial Search</td>
+      <td style="text-align: left">7</td>
+      <td style="text-align: left">9</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Classical AI -6</td>
+      <td style="text-align: left">KR -5</td>
+      <td style="text-align: left">FOL</td>
+      <td style="text-align: left">11-15,17</td>
+      <td style="text-align: left">10</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Classical AI</td>
+      <td style="text-align: left">KR</td>
+      <td style="text-align: left">FOL</td>
+      <td style="text-align: left">16</td>
+      <td style="text-align: left">11</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Classical AI</td>
+      <td style="text-align: left">Inf</td>
+      <td style="text-align: left">FOL Inf</td>
+      <td style="text-align: left">18</td>
+      <td style="text-align: left">12</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Classical AI</td>
+      <td style="text-align: left">Inf</td>
+      <td style="text-align: left">FOL Inf</td>
+      <td style="text-align: left">19</td>
+      <td style="text-align: left">13</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Classical AI</td>
+      <td style="text-align: left">KR</td>
+      <td style="text-align: left">Ontologies</td>
+      <td style="text-align: left">24</td>
+      <td style="text-align: left">14</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Classical AI</td>
+      <td style="text-align: left">DM -1</td>
+      <td style="text-align: left">Classical Planning</td>
+      <td style="text-align: left">20-22</td>
+      <td style="text-align: left">15</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Classical AI</td>
+      <td style="text-align: left">DM</td>
+      <td style="text-align: left">Hierarchical Planning</td>
+      <td style="text-align: left">-</td>
+      <td style="text-align: left">16</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Classical AI</td>
+      <td style="text-align: left">DM</td>
+      <td style="text-align: left">Other Planning Topics</td>
+      <td style="text-align: left">23</td>
+      <td style="text-align: left">17</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Modern AI +7</td>
+      <td style="text-align: left">KR  +1</td>
+      <td style="text-align: left">Back to Bayesics</td>
+      <td style="text-align: left">25</td>
+      <td style="text-align: left">18</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Modern AI</td>
+      <td style="text-align: left">KR</td>
+      <td style="text-align: left">Bayes Nets</td>
+      <td style="text-align: left">26</td>
+      <td style="text-align: left">19</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Modern AI</td>
+      <td style="text-align: left">Inf +3</td>
+      <td style="text-align: left">Exact Inference</td>
+      <td style="text-align: left">-</td>
+      <td style="text-align: left">20</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Modern AI</td>
+      <td style="text-align: left">Inf</td>
+      <td style="text-align: left">Approx. Inference</td>
+      <td style="text-align: left">-</td>
+      <td style="text-align: left">21</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Modern AI</td>
+      <td style="text-align: left">Inf</td>
+      <td style="text-align: left">MCs and HMMs</td>
+      <td style="text-align: left">-</td>
+      <td style="text-align: left">22</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Modern AI</td>
+      <td style="text-align: left">KR</td>
+      <td style="text-align: left">Markov (Logic) Nets</td>
+      <td style="text-align: left">-</td>
+      <td style="text-align: left">23</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Modern AI</td>
+      <td style="text-align: left">DM +3</td>
+      <td style="text-align: left">Utility Theory</td>
+      <td style="text-align: left">-</td>
+      <td style="text-align: left">24</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Modern AI</td>
+      <td style="text-align: left">DM</td>
+      <td style="text-align: left">MDPs</td>
+      <td style="text-align: left">-</td>
+      <td style="text-align: left">25</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Modern AI</td>
+      <td style="text-align: left">DM</td>
+      <td style="text-align: left">POMDPs</td>
+      <td style="text-align: left">-</td>
+      <td style="text-align: left">26</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="comparison-to-other-schools">Comparison to Other Schools</h2>
+
+<p>The first question you might ask is whether my proposed cuts are
+justified. To examine this, I looked at a random sampling of
+universities whose syllabi I could easily find, and looked at the
+percentage of the semester each university spent on Foundations
+(Search and CSPs), Classical AI (Planning and Logic), and
+Modern AI (Probabilistic Graphical Models and Markov Decision Processes).</p>
+
+<table rules="groups">
+  <thead>
+    <tr>
+      <th style="text-align: left">University</th>
+      <th style="text-align: left">Total Lectures</th>
+      <th style="text-align: left">Search</th>
+      <th style="text-align: left">CSPs</th>
+      <th style="text-align: left">Planning</th>
+      <th style="text-align: left">Logic</th>
+      <th style="text-align: left">PGMs</th>
+      <th style="text-align: left">MDPs</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Dartmouth</td>
+      <td style="text-align: left">27</td>
+      <td style="text-align: left">0.19</td>
+      <td style="text-align: left">0.07</td>
+      <td style="text-align: left">0</td>
+      <td style="text-align: left">0.22</td>
+      <td style="text-align: left">0.30</td>
+      <td style="text-align: left">0</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">MIT</td>
+      <td style="text-align: left">23</td>
+      <td style="text-align: left">0.13</td>
+      <td style="text-align: left">0.13</td>
+      <td style="text-align: left">0</td>
+      <td style="text-align: left">0</td>
+      <td style="text-align: left">0.09</td>
+      <td style="text-align: left">0</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Stanford</td>
+      <td style="text-align: left">20</td>
+      <td style="text-align: left">0.15</td>
+      <td style="text-align: left">0.1</td>
+      <td style="text-align: left">0</td>
+      <td style="text-align: left">0.15</td>
+      <td style="text-align: left">0.15</td>
+      <td style="text-align: left">0.05</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">OSU</td>
+      <td style="text-align: left">31</td>
+      <td style="text-align: left">0.06</td>
+      <td style="text-align: left">0</td>
+      <td style="text-align: left">0</td>
+      <td style="text-align: left">0.06</td>
+      <td style="text-align: left">0.26</td>
+      <td style="text-align: left">0</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">WPI</td>
+      <td style="text-align: left">26</td>
+      <td style="text-align: left">0.08</td>
+      <td style="text-align: left">0.04</td>
+      <td style="text-align: left">0.04</td>
+      <td style="text-align: left">0.04</td>
+      <td style="text-align: left">0.19</td>
+      <td style="text-align: left">0.04</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">U of Maine</td>
+      <td style="text-align: left">28</td>
+      <td style="text-align: left">0.21</td>
+      <td style="text-align: left">0.04</td>
+      <td style="text-align: left">0.14</td>
+      <td style="text-align: left">0.21</td>
+      <td style="text-align: left">0.07</td>
+      <td style="text-align: left">0</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Northeastern</td>
+      <td style="text-align: left">29</td>
+      <td style="text-align: left">0.10</td>
+      <td style="text-align: left">0.03</td>
+      <td style="text-align: left">0.03</td>
+      <td style="text-align: left">0.14</td>
+      <td style="text-align: left">0</td>
+      <td style="text-align: left">0</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Columbia</td>
+      <td style="text-align: left">24</td>
+      <td style="text-align: left">0.21</td>
+      <td style="text-align: left">0.04</td>
+      <td style="text-align: left">0.08</td>
+      <td style="text-align: left">0.25</td>
+      <td style="text-align: left">0.13</td>
+      <td style="text-align: left">0</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Berkeley</td>
+      <td style="text-align: left">28</td>
+      <td style="text-align: left">0.11</td>
+      <td style="text-align: left">0.07</td>
+      <td style="text-align: left">0</td>
+      <td style="text-align: left">0</td>
+      <td style="text-align: left">0.29</td>
+      <td style="text-align: left">0.04</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Georgia Tech</td>
+      <td style="text-align: left">32</td>
+      <td style="text-align: left">0.13</td>
+      <td style="text-align: left">0.03</td>
+      <td style="text-align: left">0.06</td>
+      <td style="text-align: left">0.03</td>
+      <td style="text-align: left">0.13</td>
+      <td style="text-align: left">0.06</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">CMU</td>
+      <td style="text-align: left">23</td>
+      <td style="text-align: left">0.04</td>
+      <td style="text-align: left">0.0</td>
+      <td style="text-align: left">0.04</td>
+      <td style="text-align: left">0</td>
+      <td style="text-align: left">0.22</td>
+      <td style="text-align: left">0.09</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">U Washington</td>
+      <td style="text-align: left">27</td>
+      <td style="text-align: left">0.22</td>
+      <td style="text-align: left">0</td>
+      <td style="text-align: left">0</td>
+      <td style="text-align: left">0.04</td>
+      <td style="text-align: left">0.37</td>
+      <td style="text-align: left">0.07</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Cornell</td>
+      <td style="text-align: left">16</td>
+      <td style="text-align: left">0.31</td>
+      <td style="text-align: left">0</td>
+      <td style="text-align: left">0</td>
+      <td style="text-align: left">0.125</td>
+      <td style="text-align: left">0</td>
+      <td style="text-align: left">0</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: left">AVG</td>
+      <td style="text-align: left">~26</td>
+      <td style="text-align: left">0.15</td>
+      <td style="text-align: left">0.05</td>
+      <td style="text-align: left">0.03</td>
+      <td style="text-align: left">0.10</td>
+      <td style="text-align: left">0.17</td>
+      <td style="text-align: left">0.03</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Tufts (Proposed)</td>
+      <td style="text-align: left">26</td>
+      <td style="text-align: left">0.19</td>
+      <td style="text-align: left">0.08</td>
+      <td style="text-align: left">0.12</td>
+      <td style="text-align: left">0.19</td>
+      <td style="text-align: left">0.23</td>
+      <td style="text-align: left">0.08</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Tufts (Current)</td>
+      <td style="text-align: left">26</td>
+      <td style="text-align: left">0.23</td>
+      <td style="text-align: left">0.08</td>
+      <td style="text-align: left">0.15</td>
+      <td style="text-align: left">0.38</td>
+      <td style="text-align: left">0.08</td>
+      <td style="text-align: left">0</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>This showed that Tufts currently spends slightly more time than
+average on Foundations, <strong>four times as much time</strong> on Classical AI,
+and 40% as much time on Modern AI. You’ll notice that percentages for
+most schools falls far short of 100%. This is mainly because most
+other schools spend a portion of their AI class on <em>Machine Learning</em>,
+another facet of Modern AI, which we’re explicitly looking to avoid
+since we have an entire course devoted to the basics of Machine
+Learning. I think it’d be fair to say that we thus spend closer to
+20% as much time as other schools on Modern AI once Machine Learning
+is taken into account.</p>
+
+<h2 id="outlook">Outlook</h2>
+
+<p>How much I’ll actually be able to modify the course syllabus is still
+up in the air, but I’m hoping I’ll be able to bring it significantly closer
+to my ideal. I’m guessing that MDPs, POMDPs, HMMs and Hierarchical
+planning might get the axe in order to add back some of my cuts to the
+(egregiously long, in my opinion) section on First Order Logic. Only
+time will tell. As this syllabus evolves I’ll post regular
+updates. And, as always, I’d welcome feedback on this course layout.</p>
+
+      <hr />
+      <footer role="contentinfo">
+        <div class="article-author-bottom">
+          
+
+
+
+	<img src="https://en.gravatar.com/userimage/26616054/e6f3322a7a49fe676683654ec3dbafce.jpg?size=200" class="bio-photo" alt="Tom Williams bio photo">
+
+<h3>Tom Williams</h3>
+<p>Graduate Researcher in Human-Robot Interaction and Natural-Language Dialogues</p>
+<a href="mailto:williams@cs.tufts.edu" class="author-social" target="_blank"><i class="fa fa-envelope-square"></i> Email</a>
+<a href="http://scholar.google.com/citations?user=qg_aiScAAAAJ" class="author-social" target="_blank"><i class="fa fa-graduation-cap"></i> Scholar</a>
+<a href="http://researchgate.net/profile/Tom_Williams19" class="author-social" target="_blank"><i class="fa fa-graduation-cap"></i> ResearchGate</a>
+<a href="http://www.mendeley.com/profiles/tom-williams23" class="author-social" target="_blank"><i class="fa fa-flask"></i> Mendeley</a>
+<a href="http://linkedin.com/in/williamstome" class="author-social" target="_blank"><i class="fa fa-linkedin-square"></i> LinkedIn</a>
+<a href="http://github.com/williamstome" class="author-social" target="_blank"><i class="fa fa-github"></i> Github</a>
+
+<a href="http://lastfm.com/user/williamstome" class="author-social" target="_blank"><i class="fa fa-music"></i> Last.fm</a>
+<!-- -->
+<a href="http://twitter.com/williamstome" class="author-social" target="_blank"><i class="fa fa-twitter-square"></i> Twitter</a>
+<a href="http://plus.google.com/112738925898757865574" class="author-social" target="_blank"><i class="fa fa-google-plus-square"></i> Google+</a>
+
+
+
+
+
+
+
+
+
+        </div>
+        <p class="byline"><strong>Initial Thoughts on (Re)designing an Introductory AI Course</strong> was published on <time datetime="2015-05-07T00:00:00-04:00">May 07, 2015</time> and last modified on <time datetime="2015-05-07">May 07, 2015</time>.</p>
+      </footer>
+    </div><!-- /.article-wrap -->
+  
+    <section id="disqus_thread"></section><!-- /#disqus_thread -->
+  
+  </article>
+</div><!-- /#main -->
+
+<div class="footer-wrap">
+  <div class="related-articles">
+  <h4>You might also enjoy <small class="pull-right">(<a href="http://williamstome.github.io//posts/">View all posts</a>)</small></h4>
+    <ul>
+    
+      <li><a href="http://williamstome.github.io//is-robot-telepathy-acceptable/" title="Is Robot Telepathy Acceptable?">Is Robot Telepathy Acceptable?</a></li>
+    
+      <li><a href="http://williamstome.github.io//teaching-philosophy/" title="Teaching Philosophy">Teaching Philosophy</a></li>
+    
+      <li><a href="http://williamstome.github.io//learning-objectives-for-an-introductory-ai-course/" title="Learning Objectives for an Introductory AI Course">Learning Objectives for an Introductory AI Course</a></li>
+    
+    </ul>
+    <hr />
+  </div><!-- /.related-articles -->
+  <footer>
+    
+
+<span>&copy; 2015 Tom Williams. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/">Minimal Mistakes</a> theme.</span>
+
+  </footer>
+</div><!-- /.footer-wrap -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://williamstome.github.io//assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://williamstome.github.io//assets/js/scripts.min.js"></script>
+
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  var _gaq = _gaq || [];
+  var pluginUrl = 
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-43501910-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+  
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'williamstome'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+	        
+
+</body>
+</html>
