@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://williamstome.github.io//feed.xml" />
 <link rel="alternate" type="text/html" href="http://williamstome.github.io/" />
-<updated>2015-10-06T13:04:18-04:00</updated>
+<updated>2015-10-06T13:05:45-04:00</updated>
 <id>http://williamstome.github.io//</id>
 <author>
   <name>Tom Williams</name>
@@ -68,7 +68,7 @@ In one condition, when participants entered the room, they observed the two robo
 After the experiment, we gave participants surveys in which they were asked to assess the robots on a wide variety of scales, including how creepy or unsettling they believed the robots’ behavior to be.&lt;br /&gt;&lt;br /&gt;
 &lt;img src=&quot;../images/telepathy/experiment_big.png&quot; alt=&quot;Experiment Setup&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
 What were our results? Well, as I said before, we actually ran a “set” of experiments. These experiments only differed with regards to what kind of robot interacted with them originally, and what kind of robot played the role of the “charging robot”; the second experiment merely flipped these roles. 
-After the first experiment, we did not find a significant difference in perceived creepiness between the two conditions, as reported in our &lt;a href=&quot;http://hrilab.tufts.edu/~twilliam/pubs/?p=williams2014telepathy&quot;&gt;2014 RO-MAN paper&lt;/a&gt;. However, when analyzing the combined data from both experiments, we found that people found the robots to be significantly more creepy or unsettling in the “covert” (i.e., telepathic) condition than in the “verbal” condition. The results of this full analysis is due to be published in the Journal of Human-Robot Interaction in their next issue, a preprint of which can be found &lt;a href=&quot;http://hrilab.tufts.edu/~twilliam/pubs/?p=williams2015jhri&quot;&gt;here&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;
+After the first experiment, we did not find a significant difference in perceived creepiness between the two conditions, as reported in our &lt;a href=&quot;http://hrilab.tufts.edu/~twilliam/pubs/?p=williams2014telepathy&quot;&gt;2014 RO-MAN paper&lt;/a&gt;. However, when analyzing the combined data from both experiments, we found that people rated the robots to be significantly more creepy or unsettling in the “covert” (i.e., telepathic) condition than in the “verbal” condition. The results of this full analysis is due to be published in the Journal of Human-Robot Interaction in their next issue, a preprint of which can be found &lt;a href=&quot;http://hrilab.tufts.edu/~twilliam/pubs/?p=williams2015jhri&quot;&gt;here&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;
 &lt;img src=&quot;../images/telepathy/creepy.png&quot; alt=&quot;Creepiness&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
 Now, as I’ve mentioned, this finding won’t apply in all cases. As we discuss in the JHRI article, there are a wide variety of considerations which might make robot telepathy more or less acceptable.&lt;/p&gt;
 
