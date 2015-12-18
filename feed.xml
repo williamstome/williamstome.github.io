@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://williamstome.github.io//feed.xml" />
 <link rel="alternate" type="text/html" href="http://williamstome.github.io/" />
-<updated>2015-12-18T16:55:58-05:00</updated>
+<updated>2015-12-18T17:00:13-05:00</updated>
 <id>http://williamstome.github.io//</id>
 <author>
   <name>Tom Williams</name>
@@ -27,9 +27,10 @@
     <uri>http://williamstome.github.io/</uri>
     <email>williams@cs.tufts.edu</email>
   </author>
-  <content type="html">&lt;p&gt;&lt;strong&gt;Warning: Less than Serious Material Ahead&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Happy Holidays!&lt;br /&gt;
+  <content type="html">&lt;p&gt;&lt;strong&gt;Warning: Less than Serious Material Ahead&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;  &lt;br /&gt;
+Happy Holidays!&lt;br /&gt;
+&lt;br /&gt;  &lt;br /&gt;
 This year has marked large changes in the HRI Lab: this semester, our
 lab lost one member (to graduation! good for him, sad for us) and
 gained &lt;strong&gt;eight&lt;/strong&gt;. Six new grad students started this semester, one
@@ -72,24 +73,24 @@ Nothing’s changed in your code&lt;br /&gt;
 Nothing’s changed in your code&lt;/p&gt;
 
 &lt;h3 id=&quot;pm---anger&quot;&gt;10:00 PM - Anger&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Tune: Santa Claus is Coming to Town&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;You better not crash&lt;br /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;em&gt;Tune: Santa Claus is Coming to Town&lt;/em&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+You better not crash&lt;br /&gt;
 You better not die&lt;br /&gt;
 You better not break&lt;br /&gt;
-I’m telling you why&lt;/p&gt;
-
-&lt;p&gt;ONR is coming to lab&lt;/p&gt;
-
-&lt;p&gt;They’ve gotta be wowed&lt;br /&gt;
+I’m telling you why&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+ONR is coming to lab&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+They’ve gotta be wowed&lt;br /&gt;
 They’ve gotta be stunned&lt;br /&gt;
 They’re gonna decide&lt;br /&gt;
-Whose project to fund&lt;/p&gt;
-
-&lt;p&gt;ONR is coming to lab&lt;/p&gt;
-
-&lt;p&gt;These processes keep sleeping&lt;br /&gt;
+Whose project to fund&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+ONR is coming to lab&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+These processes keep sleeping&lt;br /&gt;
 There must be some mistake&lt;br /&gt;
 You can’t find java library?!&lt;br /&gt;
 JUST COMPILE FOR GOODNESS SAKE!&lt;/p&gt;
