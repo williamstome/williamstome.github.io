@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://williamstome.github.io//feed.xml" />
 <link rel="alternate" type="text/html" href="http://williamstome.github.io/" />
-<updated>2015-12-18T17:01:12-05:00</updated>
+<updated>2015-12-18T17:03:35-05:00</updated>
 <id>http://williamstome.github.io//</id>
 <author>
   <name>Tom Williams</name>
@@ -35,25 +35,25 @@ This year has marked large changes in the HRI Lab: this semester, our
 lab lost one member (to graduation! good for him, sad for us) and
 gained &lt;strong&gt;eight&lt;/strong&gt;. Six new grad students started this semester, one
 more just joined an will be starting next month, and we acquired a new
-staff programmer.&lt;/p&gt;
-
-&lt;p&gt;Anyone who knows me well knows that I love to sing. It should thus be
+staff programmer.&lt;br /&gt;
+&lt;br /&gt;
+Anyone who knows me well knows that I love to sing. It should thus be
 no surprise that I was thrilled to learn that two of my new labmates
 sing! I was even able to recruit one of them to join my a cappella
-group, &lt;a href=&quot;https://www.facebook.com/OutofRangeACappella/&quot;&gt;Out of Range&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;For our lab holiday party, my advisor decided that the lab band
+group, &lt;a href=&quot;https://www.facebook.com/OutofRangeACappella/&quot;&gt;Out of Range&lt;/a&gt;.
+&lt;br /&gt;
+For our lab holiday party, my advisor decided that the lab band
 (BA$H!, comprised of my advisor on bass and keyboard, our lab manager
 on drums, our postdoc on guitar, and myself on vocals) would perform a
 few songs. So, I figured, as long as I was singing, there might as
-well be some a cappella action thrown in too!&lt;/p&gt;
-
-&lt;p&gt;I thus put together an arrangement of holiday carols,
+well be some a cappella action thrown in too!&lt;br /&gt;
+&lt;br /&gt;
+I thus put together an arrangement of holiday carols,
 themed around an obviously fictitious scenario in which our lab has to
 pull together a demo for a funding agency and things go horribly
-wrong.&lt;/p&gt;
-
-&lt;p&gt;Enjoy!&lt;/p&gt;
+wrong.&lt;br /&gt;
+&lt;br /&gt;
+Enjoy!&lt;/p&gt;
 
 &lt;h2 id=&quot;the-five-stages-of-grief-an-hri-lab-christmas-carol&quot;&gt;The Five Stages of Grief: An HRI Lab Christmas Carol&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Scene: It’s Sunday night, and the grad students are busy at work in
@@ -62,10 +62,9 @@ given in the morning, but the robots have mysteriously stopped
 working&lt;/em&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;pm---denial&quot;&gt;8:00 PM - Denial&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Tune: Silent Night&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Silent Nao, Soundless Nao&lt;br /&gt;
+&lt;p&gt;&lt;em&gt;Tune: Silent Night&lt;/em&gt;&lt;br /&gt;
+&lt;br /&gt;
+Silent Nao, Soundless Nao&lt;br /&gt;
 Working any second now&lt;br /&gt;
 Nothing’s changed here, no code’s been revised&lt;br /&gt;
 Why’d you stop when Matthias arrived&lt;br /&gt;
@@ -73,8 +72,7 @@ Nothing’s changed in your code&lt;br /&gt;
 Nothing’s changed in your code&lt;/p&gt;
 
 &lt;h3 id=&quot;pm---anger&quot;&gt;10:00 PM - Anger&lt;/h3&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;em&gt;Tune: Santa Claus is Coming to Town&lt;/em&gt;&lt;br /&gt;
+&lt;p&gt;&lt;em&gt;Tune: Santa Claus is Coming to Town&lt;/em&gt;&lt;br /&gt;
 &lt;br /&gt;
 You better not crash&lt;br /&gt;
 You better not die&lt;br /&gt;
@@ -93,54 +91,51 @@ ONR is coming to lab&lt;br /&gt;
 These processes keep sleeping&lt;br /&gt;
 There must be some mistake&lt;br /&gt;
 You can’t find java library?!&lt;br /&gt;
-JUST COMPILE FOR GOODNESS SAKE!&lt;/p&gt;
-
-&lt;p&gt;You better not crash&lt;br /&gt;
+JUST COMPILE FOR GOODNESS SAKE!&lt;br /&gt;
+&lt;br /&gt;
+You better not crash&lt;br /&gt;
 You better not die&lt;br /&gt;
 You better not break&lt;br /&gt;
-I’m telling you why&lt;/p&gt;
-
-&lt;p&gt;ONR is coming to lab&lt;/p&gt;
+I’m telling you why&lt;br /&gt;
+&lt;br /&gt;
+ONR is coming to lab&lt;/p&gt;
 
 &lt;h3 id=&quot;am---bargaining&quot;&gt;12:00 AM - Bargaining&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Tune: It Came Upon a Midnight Clear&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;I need to finish, it’s midnight here&lt;br /&gt;
+&lt;p&gt;&lt;em&gt;Tune: It Came Upon a Midnight Clear&lt;/em&gt;
+&lt;br /&gt;
+I need to finish, it’s midnight here&lt;br /&gt;
 Please help me fix all of these bugs (damn bugs!)&lt;br /&gt;
 I’ll buy a case of your fav’rite beer&lt;br /&gt;
-I’ll give you forty-six bucks (big bucks!)&lt;/p&gt;
-
-&lt;p&gt;Peace on the earth, a Mercedes-Benz&lt;br /&gt;
+I’ll give you forty-six bucks (big bucks!)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Peace on the earth, a Mercedes-Benz&lt;br /&gt;
 I’ll promise you ‘bout anything (more beer!)&lt;br /&gt;
 If you would just help me figure out&lt;br /&gt;
 How I can make this Nao sing&lt;/p&gt;
 
 &lt;h3 id=&quot;am---depression&quot;&gt;2:00 AM - Depression&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Tune: Oh Little Town of Bethlehem&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;So little time to get this done&lt;br /&gt;
+&lt;p&gt;&lt;em&gt;Tune: Oh Little Town of Bethlehem&lt;/em&gt;&lt;br /&gt;
+&lt;br /&gt;
+So little time to get this done&lt;br /&gt;
 My brain is getting fried&lt;br /&gt;
 I need to leave and go to sleep&lt;br /&gt;
-This isn’t justified&lt;/p&gt;
-
-&lt;p&gt;Yet in the dark I’m working&lt;br /&gt;
+This isn’t justified&lt;br /&gt;
+&lt;br /&gt;
+Yet in the dark I’m working&lt;br /&gt;
 Until I get this right&lt;br /&gt;
 The jokes and jeers of all my peers&lt;br /&gt;
 are met in me tonight&lt;/p&gt;
 
 &lt;h3 id=&quot;am---acceptance&quot;&gt;4:00 AM - Acceptance&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Tune: White Christmas&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;I’m dreaming of a live demo&lt;br /&gt;
+&lt;p&gt;&lt;em&gt;Tune: White Christmas&lt;/em&gt;&lt;br /&gt;
+&lt;br /&gt;
+I’m dreaming of a live demo&lt;br /&gt;
 Just like the ones I used to watch&lt;br /&gt;
 No components failing&lt;br /&gt;
 No students swearing&lt;br /&gt;
-No robots driving into walls (Great Big Holes!)&lt;/p&gt;
-
-&lt;p&gt;Oh and I’m dreaming of a live demo&lt;br /&gt;
+No robots driving into walls (Great Big Holes!)&lt;br /&gt;
+&lt;br /&gt;
+Oh and I’m dreaming of a live demo&lt;br /&gt;
 With ev’ry action script I write&lt;br /&gt;
 But until my tests get green lights&lt;br /&gt;
 Let’s not do our demo live tonight&lt;/p&gt;
