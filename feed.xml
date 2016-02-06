@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://williamstome.github.io//feed.xml" />
 <link rel="alternate" type="text/html" href="http://williamstome.github.io/" />
-<updated>2016-02-05T18:56:14-05:00</updated>
+<updated>2016-02-05T20:39:45-05:00</updated>
 <id>http://williamstome.github.io//</id>
 <author>
   <name>Tom Williams</name>
@@ -444,6 +444,323 @@ when we do, what we can discover together.&lt;/p&gt;
 
 
   &lt;p&gt;&lt;a href=&quot;http://williamstome.github.io//brainstorming-the-ideal-class-rhythm/&quot;&gt;Brainstorming the Ideal Class Rhythm&lt;/a&gt; was originally published by Tom Williams at &lt;a href=&quot;http://williamstome.github.io/&quot;&gt;williamstome&lt;/a&gt; on May 27, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[(Re)designing an Introductory AI Course: Post-Semester Analysis]]></title>
+  <link rel="alternate" type="text/html" href="http://williamstome.github.io//re-designing-an-introductory-ai-course-analysis/" />
+  <id>http://williamstome.github.io//re-designing-an-introductory-ai-course-analysis</id>
+  <updated>2015-05-07T00:00:00-00:00</updated>
+  <published>2015-05-07T00:00:00-04:00</published>
+  
+  <author>
+    <name>Tom Williams</name>
+    <uri>http://williamstome.github.io/</uri>
+    <email>williams@cs.tufts.edu</email>
+  </author>
+  <content type="html">&lt;p&gt;In the Fall of 2015, I was given the opportunity to co-teach Tufts’
+Artificial Intelligence class, through Tufts GIFT (Graduate 
+Institute for Teaching) program. As I described in
+&lt;a href=&quot;http://williamstome.github.io//initial-thoughts-on-re-designing-an-introductory-ai-course/&quot;&gt;this pre-class blog post&lt;/a&gt;,
+I took the opportunity to re-design the 
+class in order to include more topics from “Modern” (i.e.,
+probabilistic AI). As described in that blog post, I had grand plans,
+but had no idea to what extent I’d be able to implement them. 
+Let’s look at how Tom’s grand plan worked out!&lt;/p&gt;
+
+&lt;table rules=&quot;groups&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Supertopic&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Topic&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Subtopic&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Old&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Planned&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Actual&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Foundations -1&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Intro&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Introduction&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;1-2&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;1-2&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;1-2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Foundations&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Search&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Uninformed Search&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Foundations&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Search&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Heuristic Search&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Foundations&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Search&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Local Search&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Foundations&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Search&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ND Actions&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Foundations&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Search -1&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Partial Observations&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Foundations&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;CSPs&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;CSPs&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;9&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;7&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;6&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Foundations&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;CSPs&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Constraint Prop&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;10&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;8&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;7&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Foundations&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Search&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Adversarial Search&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;7&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;9&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;9&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Classical AI -6&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;KR -5&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;FOL&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;11-15,17&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;10&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;11&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Classical AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;KR&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;FOL&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;16&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;11&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;12&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Classical AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Inf&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;FOL Inf&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;18&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;12&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;13&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Classical AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Inf&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;FOL Inf&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;19&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;13&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;14&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Classical AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;KR&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Ontologies&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;24&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;14&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;15&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Classical AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DM -1&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Classical Planning&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;20-22&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;15&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;16&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Classical AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DM&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Hierarchical Planning&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;16&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;24&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Classical AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DM&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Other Planning Topics&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;23&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;17&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;20,22&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Modern AI +7&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;KR  +1&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Back to Bayesics&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;25&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;18&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;8&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Modern AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;KR&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Bayes Nets&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;26&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;19&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;17&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Modern AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Inf +3&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Exact Inference&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;20&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;18-19&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Modern AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Inf&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Approx. Inference&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;21&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;21&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Modern AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Inf&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;MCs and HMMs&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;22&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;(21)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Modern AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;KR&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Markov (Logic) Nets&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;23&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;23&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Modern AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DM +3&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Utility Theory&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;24&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;(8)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Modern AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DM&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;MDPs&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;25&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;25&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Modern AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DM&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;POMDPs&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;26&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Modern AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DM&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Factored MDPs&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;26&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Two things should immediately stand out by comparing the last three
+columns of the chart above.&lt;/p&gt;
+
+&lt;p&gt;First, I was successful in convincing my co-instructor, Prof. Anselm
+Blumer, to shift most of the sessions on Logic to topics from Modern
+AI. This was a big surprise for me, as I initially had no idea whether
+or not he’d be receptive to such a major shift. We ended up dropping
+HMMs and POMDPs and picking up Factored MDPs, but otherwise the topics
+covered were just what I’d hoped for.&lt;/p&gt;
+
+&lt;p&gt;Second, though, you’ll notice that the actual class schedule jumped
+around &lt;strong&gt;a lot&lt;/strong&gt;. For example, the last section of the course (16-26)
+went: &lt;strong&gt;Planning&lt;/strong&gt;, Bayes Nets, Bayesian Inference, Bayesian Inference,
+&lt;strong&gt;Planning&lt;/strong&gt;, Bayesian Inference, &lt;strong&gt;Planning&lt;/strong&gt;, Markov Logic,
+&lt;strong&gt;Planning&lt;/strong&gt;, MDPs, MDPs.&lt;/p&gt;
+
+&lt;p&gt;This was the product of my &lt;strong&gt;planned&lt;/strong&gt; schedule (ba-dum-psh) rubbing
+up against my &lt;strong&gt;actual&lt;/strong&gt; schedule. Before the semester started, Anselm
+and I worked out a rough schedule for the course, and which classes
+I’d be teaching (I specifically wanted to teach CSPs, Bayes Nets, and Approximate
+Inference (because I had specific in class exercises in mind), and
+Markov Logic and Factored MDPs (because these are fairly new topics I
+wanted to season the main course with (more puns! (nested
+parentheses!)))).
+However, once the course got started, two things threw wrenches into
+those plans.&lt;/p&gt;
+
+&lt;p&gt;First, I got papers accepted to several
+conferences. While this was a good thing for my research progress, it
+meant that I would no longer be at Tufts at the time I was supposed to
+teach two of my sessions. To avoid changing what sessions I’d be
+teaching, we had to get creative with the schedule. This involved many
+small schedule shuffles, such as
+putting &lt;em&gt;searching with non-deterministic actions&lt;/em&gt; off for a few
+weeks in order to shift things back a week.&lt;/p&gt;
+
+&lt;p&gt;Second, to get students ready for the modern AI section, we decided to
+combine the lectures on Bayes’ Theorem and Utility Theory, and move
+them earlier into the course as a sort of “preview for things to come”
+earlier in the semester.&lt;/p&gt;
+
+&lt;p&gt;Finally, of course, things just didn’t time out exactly as we
+expected. Some topics took more time than expected, some took less. In
+order to stay on the safe side, advanced planning topics got put off
+for a bit, and then, as discussed, ended up getting peppered in
+between my other lectures, whose dates were set in stone to accommodate
+my conference travels. It was a whirlwind.&lt;/p&gt;
+
+&lt;p&gt;It was certainly a learning experience. If it weren’t for the fact
+that I was scheduled to teach very specific sessions of the class, the
+schedule would certainly have been saner; Presumably &lt;em&gt;much&lt;/em&gt; saner when
+I end up teaching the course by myself at some other university, on my
+schedule alone.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://williamstome.github.io//re-designing-an-introductory-ai-course-analysis/&quot;&gt;(Re)designing an Introductory AI Course: Post-Semester Analysis&lt;/a&gt; was originally published by Tom Williams at &lt;a href=&quot;http://williamstome.github.io/&quot;&gt;williamstome&lt;/a&gt; on May 07, 2015.&lt;/p&gt;</content>
 </entry>
 
 
