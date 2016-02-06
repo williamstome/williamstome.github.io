@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://williamstome.github.io//feed.xml" />
 <link rel="alternate" type="text/html" href="http://williamstome.github.io/" />
-<updated>2016-02-05T20:44:11-05:00</updated>
+<updated>2016-02-05T20:44:51-05:00</updated>
 <id>http://williamstome.github.io//</id>
 <author>
   <name>Tom Williams</name>
@@ -50,7 +50,7 @@ Let’s look at how Tom’s grand plan worked out!&lt;/p&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Foundations -1&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Foundations&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Intro&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Introduction&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;1-2&lt;/td&gt;
@@ -91,7 +91,7 @@ Let’s look at how Tom’s grand plan worked out!&lt;/p&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Foundations&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Search -1&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Search&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Partial Observations&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;6&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
@@ -124,8 +124,8 @@ Let’s look at how Tom’s grand plan worked out!&lt;/p&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Classical AI -6&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;KR -5&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Classical AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;KR&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;FOL&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;11-15,17&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;10&lt;/td&gt;
@@ -165,7 +165,7 @@ Let’s look at how Tom’s grand plan worked out!&lt;/p&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Classical AI&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;DM -1&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DM&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Classical Planning&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;20-22&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;15&lt;/td&gt;
@@ -190,8 +190,8 @@ Let’s look at how Tom’s grand plan worked out!&lt;/p&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Modern AI +7&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;KR  +1&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Modern AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;KR&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Back to Bayesics&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;25&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;18&lt;/td&gt;
@@ -207,7 +207,7 @@ Let’s look at how Tom’s grand plan worked out!&lt;/p&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Modern AI&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Inf +3&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Inf&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Exact Inference&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;20&lt;/td&gt;
@@ -239,7 +239,7 @@ Let’s look at how Tom’s grand plan worked out!&lt;/p&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Modern AI&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;DM +3&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DM&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;Utility Theory&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;24&lt;/td&gt;
