@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://williamstome.github.io//feed.xml" />
 <link rel="alternate" type="text/html" href="http://williamstome.github.io/" />
-<updated>2016-02-05T20:42:08-05:00</updated>
+<updated>2016-02-05T20:43:03-05:00</updated>
 <id>http://williamstome.github.io//</id>
 <author>
   <name>Tom Williams</name>
@@ -272,6 +272,8 @@ Let’s look at how Tom’s grand plan worked out!&lt;/p&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
+&lt;h2 id=&quot;outcome&quot;&gt;Outcome&lt;/h2&gt;
+
 &lt;p&gt;Two things should immediately stand out by comparing the last three
 columns of the chart above.&lt;/p&gt;
 
@@ -281,8 +283,6 @@ AI. This was a big surprise for me, as I initially had no idea whether
 or not he’d be receptive to such a major shift. We ended up dropping
 HMMs and POMDPs and picking up Factored MDPs, but otherwise the topics
 covered were just what I’d hoped for.&lt;/p&gt;
-
-&lt;h3 id=&quot;best-laid-plans&quot;&gt;Best Laid Plans&lt;/h3&gt;
 
 &lt;p&gt;Second, though, you’ll notice that the actual class schedule jumped
 around &lt;strong&gt;a lot&lt;/strong&gt;. For example, the last section of the course (16-26)
@@ -300,6 +300,8 @@ wanted to season the main course with (more puns! (nested
 parentheses!)))).
 However, once the course got started, two things threw wrenches into
 those plans.&lt;/p&gt;
+
+&lt;h2 id=&quot;best-laid-plans&quot;&gt;Best Laid Plans&lt;/h2&gt;
 
 &lt;p&gt;First, I got papers accepted to several
 conferences. While this was a good thing for my research progress, it
