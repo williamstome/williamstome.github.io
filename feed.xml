@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://williamstome.github.io//feed.xml" />
 <link rel="alternate" type="text/html" href="http://williamstome.github.io/" />
-<updated>2016-03-20T12:02:37-04:00</updated>
+<updated>2016-03-20T12:07:45-04:00</updated>
 <id>http://williamstome.github.io//</id>
 <author>
   <name>Tom Williams</name>
@@ -29,7 +29,7 @@
   </author>
   <content type="html">&lt;p&gt;&lt;strong&gt;&amp;lt;Disclaimer&amp;gt; All discussion in this blog post are, as usual, my
 thoughts alone and don’t reflect the views of my lab, advisor,
-university, or funding agencies. &amp;lt;\/Disclaimer&amp;gt;&lt;/strong&gt;&lt;/p&gt;
+university, or funding agencies. &amp;lt;/Disclaimer&amp;gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;In his 2007 book &lt;em&gt;Love and Sex with Robots&lt;/em&gt;, David Levy paints a
 picture of a world in which romantic and sexual relations with robots
@@ -84,9 +84,10 @@ robots is deeply problematic.&lt;/p&gt;
 &lt;h2 id=&quot;the-science-of-human-robot-love&quot;&gt;The Science of Human-Robot Love&lt;/h2&gt;
 
 &lt;p&gt;One outspoken critic of social robots is my advisor, Matthias
-Scheutz. In his 2011 chapter of &lt;a href=&quot;http://www.amazon.com/Robot-Ethics-Implications-Intelligent-Autonomous/dp/026252600X&quot;&gt;“Robot Ethics”&lt;/a&gt;, entitled “The Inherent
-Dangers of Unidirectional 
-Emotional Bonds between Humans and Social Robots”, Scheutz argues that
+Scheutz. In his 2011 chapter of
+&lt;a href=&quot;http://www.amazon.com/Robot-Ethics-Implications-Intelligent-Autonomous/dp/026252600X&quot;&gt;“Robot Ethics”&lt;/a&gt;,
+entitled &lt;em&gt;The Inherent Dangers of Unidirectional 
+Emotional Bonds between Humans and Social Robots&lt;/em&gt;, Scheutz argues that
 social robots may inflict &lt;em&gt;emotional harm&lt;/em&gt; on their users.
 People are incredibly quick to ascribe agency and mental states to
 robots as if they were alive, allowing robots to affect people in the
@@ -115,12 +116,12 @@ unethical. Sparrow argues that robot pets are grounded in deception
 and that in order to benefit from a robot pet, one must
 “systematically delude themselves 
 regarding the real nature of their relation with the animal,” an act
-which he deems “morally deplorable”.&lt;/p&gt;
+which he deems “morally deplorable.”&lt;/p&gt;
 
 &lt;p&gt;Sparrow goes on to argue that this gap in reality will be even more
 pronounced in the case of humanoid robots, as such robots will be even
 more likely to provoke feelings such as love and respect, which, when
-based on illusion, would once again be “morally deplorable”. Says
+based on illusion, would once again be “morally deplorable.” Says
 Sparrow, “It would be wrong to design android
 robots with the intention of generating such responses.”&lt;/p&gt;
 
@@ -154,9 +155,9 @@ viewing (language-incapable) robot pets as being “morally deplorable”.&lt;/p
 possible problems with human-robot love. 
 &lt;strong&gt;(Be prepared to skip this section if you want to avoid spoilers)&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;images/laswr/black-mirror.png&quot; alt=&quot;Be Right Back&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../images/laswr/black-mirror.png&quot; alt=&quot;Be Right Back&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Perhaps the best example comes from “Be Right Back”, Season 2 Episode 1 of the
+&lt;p&gt;Perhaps the best example comes from &lt;em&gt;Be Right Back&lt;/em&gt;, Season 2 Episode 1 of the
 Channel 4 / Netflix show &lt;em&gt;Black Mirror&lt;/em&gt;. In that episode, a woman (Martha, played
 by Hayley Atwell) finds herself
 widowed, and is suggested an app to help her grieve: when provided
@@ -175,7 +176,7 @@ Because Martha chooses to devote her emotional
 energy to the android rather than seeking out relationships with other
 people the robot can be seen as an enabler for mental harm.&lt;/p&gt;
 
-&lt;p&gt;~&lt;a href=&quot;images/laswr/her.jpg&quot;&gt;Her&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;~&lt;a href=&quot;../images/laswr/her.jpg&quot;&gt;Her&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;In a similar vein, we have one of my favorite movies,
 &lt;em&gt;Her&lt;/em&gt;. Technically, &lt;em&gt;Her&lt;/em&gt; 
@@ -202,8 +203,8 @@ prejudice against one’s choice of partner.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://33.media.tumblr.com/96962aecee6cc03dfe9430e14849b1b8/tumblr_nxkbz966FX1qjcyqno1_500.gif&quot; alt=&quot;Paro&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;On a different note, we have “Old People”, Season One, Episode Eight
-of Aziz Ansari’s hilarious Netflix show, “Master of None”. The B-plot
+&lt;p&gt;On a different note, we have &lt;em&gt;Old People&lt;/em&gt;, Season One, Episode Eight
+of Aziz Ansari’s hilarious Netflix show, &lt;em&gt;Master of None&lt;/em&gt;. The B-plot
 for the episode revolves around Paro the robot seal (which you can &lt;a href=&quot;http://www.parorobots.com/photogallery.asp&quot;&gt;buy
 for a cool 7k&lt;/a&gt;), a
 real-life therapy robot which provides companionship to the elderly. 
@@ -276,7 +277,7 @@ were practicing Catholics had lost their virginity to a prostitute.&lt;/li&gt;
 robots designed for sex. Recently, the robotics company Aldebaran
 released a new robot, Pepper, shown below.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;images/laswr/pepper.jpg&quot; alt=&quot;Pepper&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../images/laswr/pepper.jpg&quot; alt=&quot;Pepper&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;There’s nothing inherently
 sexual about Pepper. At the most, you could point out that there’s a
@@ -299,7 +300,7 @@ artificially intelligent agents discussed above (i.e., those seen in
 &lt;em&gt;Her&lt;/em&gt; and &lt;em&gt;Black Mirror&lt;/em&gt;) are good examples, but of course the best
 recent example is &lt;em&gt;Ex Machina&lt;/em&gt;’s Ava.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;images/laswr/exmachina.jpg&quot; alt=&quot;Ex Machina&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../images/laswr/exmachina.jpg&quot; alt=&quot;Ex Machina&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In &lt;em&gt;Ex Machina&lt;/em&gt;, Caleb (also played by Domhnall Gleeson) is brought to
 a secluded woodland estate, ostensibly  to help “test” a new android,
@@ -333,8 +334,8 @@ society. However, there has been little research thus far into
 peoples’ views on the topic. Recently, I helped my
 advisor and one of my labmates conduct
 the first extensive survey into people’s views on sex robots, the
-results of which were the focus of a recent paper (“Are We Ready for
-Sex Robots?”).&lt;/p&gt;
+results of which were the focus of a recent paper (&lt;em&gt;Are We Ready for
+Sex Robots?&lt;/em&gt;).&lt;/p&gt;
 
 &lt;p&gt;In this study, we asked participants questions in three main
 categories: what they believe to be the capabilities of
@@ -1749,7 +1750,7 @@ While the comic is pretty short, it manages to touch on several issues that are 
 
 &lt;p&gt;In our panel, my labmates Willie, Gordon, and I each talked about one such issue. I talked about &lt;a href=&quot;http://williamstome.github.io//should-fully-autonomous-weapons-systems-be-banned/&quot;&gt;whether robots should be allowed to wield guns autonomously&lt;/a&gt;, Willie talked about the ethics of robots and sex and relationships in general, and Gordon talked about the general moral status of robots.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;&amp;lt;Disclaimer&amp;gt; While the three of us do research in the HRI Lab, our talk was given as private citizens, and we did not announce our shared affiliation during our talk; what we said in the panel constituted our own views, and doesn’t reflect the views of our employer or funding agencies. &amp;lt;/Disclaimer&amp;gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;lt;Disclaimer&amp;gt; While the three of us do research in the HRI Lab, our talk was given as private citizens, and we did not announce our shared affiliation during our talk; what we said in the panel constituted our own views, and doesn’t reflect the views of our employer or funding agencies. &amp;lt;/Disclaimer&amp;gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;For each issue, we first showed panels from the comic that illustrated how that issue is portrayed in Silverside, 
 then discussed that issue with respect to the current state of the art in robotics,
