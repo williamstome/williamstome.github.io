@@ -4,13 +4,60 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://williamstome.github.io//feed.xml" />
 <link rel="alternate" type="text/html" href="http://williamstome.github.io/" />
-<updated>2016-03-21T10:17:11-04:00</updated>
+<updated>2016-05-24T12:32:42-04:00</updated>
 <id>http://williamstome.github.io//</id>
 <author>
   <name>Tom Williams</name>
   <uri>http://williamstome.github.io//</uri>
   <email>williams@cs.tufts.edu</email>
 </author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Summer 2016: Visiting the University of Bremen]]></title>
+  <link rel="alternate" type="text/html" href="http://williamstome.github.io//summer-2016-visiting-the-university-of-bremen-part-1/" />
+  <id>http://williamstome.github.io//summer-2016-visiting-the-university-of-bremen-part-1</id>
+  <updated>2016-05-25T00:00:00-00:00</updated>
+  <published>2016-05-24T00:00:00-04:00</published>
+  
+  <author>
+    <name>Tom Williams</name>
+    <uri>http://williamstome.github.io/</uri>
+    <email>williams@cs.tufts.edu</email>
+  </author>
+  <content type="html">&lt;p&gt;Auf Wiedersehen Amerika, Hallo Deutschland!&lt;/p&gt;
+
+&lt;p&gt;In just a few short days, I’ll be travelling to Germany: land of
+lager, locomotives, and lederhosen, if American television is to be
+believed. 
+#
+Last year, our lab had the pleasure of hosting Fereshta Yazdani, a PhD
+student working with Michael Beetz at the University of Bremen. Now, I
+will be visiting their lab for one month, where I will work to
+integrate my natural language understanding system with their
+reasoning system. During my spare time, I’ll have my hands full
+writing papers, remotely supervising my undergraduate research
+assistants, and helping to organize a workshop for the AAAI Fall
+Symposium. &lt;/p&gt;
+
+&lt;p&gt;Being productive shouldn’t be too hard, given that my Linux laptop
+can’t run most games (e.g., Overwatch), and given that the best “beer
+bar” in Bremen appears to only have two beers on tap*. This isn’t to
+say I plan to spend &lt;strong&gt;all&lt;/strong&gt; my time in lab, of course! I’ll be kicking
+off my trip with a two-day visit to Amsterdam (it turns out it’s
+rather expensive to fly into Bremen directly), and I hope to take a
+weekend at some point to visit elsewhere in Germany (Cologne, most likely).&lt;/p&gt;
+
+&lt;p&gt;*Everyone’s first reaction to my travel announcement is to ask whether
+ I’m excited for the beer in Germany. While I’m excited to live in a
+ new city, in a country that has a rich brewing history, the simple
+ truth is that the German beer scene is nowhere close to what we have
+ here in the states.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://williamstome.github.io//summer-2016-visiting-the-university-of-bremen-part-1/&quot;&gt;Summer 2016: Visiting the University of Bremen&lt;/a&gt; was originally published by Tom Williams at &lt;a href=&quot;http://williamstome.github.io/&quot;&gt;williamstome&lt;/a&gt; on May 24, 2016.&lt;/p&gt;</content>
+</entry>
 
 
   
@@ -34,7 +81,7 @@ university, or funding agencies. &amp;lt;/Disclaimer&amp;gt;&lt;/strong&gt;&lt;/
 &lt;p&gt;In his 2007 book &lt;em&gt;Love and Sex with Robots&lt;/em&gt;, David Levy paints a
 picture of a world in which romantic and sexual relations with robots
 are not only possible, but commonplace, and argues that such a future
-is not only possible, but inevitable.&lt;/p&gt;
+is not only possible, but inevitable.  &lt;/p&gt;
 
 &lt;p&gt;In this blog post, I’ll provide some of my thoughts on Levy’s book,
 and provide some commentary from recent science and science
@@ -42,7 +89,7 @@ fiction on the issues Levy raises (or fails to raise). While robot
 ethics is of great interest to me, and a topic my lab actively
 researches, it’s not one I myself have published on, which is to say, 
 I’m new to the topic and am eager to hear counter-arguments to any of
-the positions I take!&lt;/p&gt;
+the positions I take!  &lt;/p&gt;
 
 &lt;p&gt;Levy’s book is broken into two main sections, regarding love and sex
 respectively. I’ll deal with each section separately. (Before these
@@ -68,7 +115,7 @@ the technical developments necessary for his vision to occur. Levy
 breezes through a rash of technical challenges, dismissing them as
 easy to solve and right around the corner. If Levy had simply stated
 that such things were &lt;em&gt;in theory&lt;/em&gt; possible, without the undue
-futurism, his argument would have been much more convincing.&lt;/p&gt;
+futurism, his argument would have been much more convincing. &lt;/p&gt;
 
 &lt;p&gt;Second, Levy describes human-robot love as broadly positive and
 therapeutic, suggesting that within a few decades, human-robot
@@ -128,7 +175,7 @@ robots with the intention of generating such responses.”&lt;/p&gt;
 &lt;p&gt;While I agree that this is an important and dangerous point in the
 case of robots that are humanlike and/or have natural language
 capabilities, I have trouble viewing this as truly problematic for
-non-humanoid, non-verbal entities.&lt;/p&gt;
+non-humanoid, non-verbal entities. &lt;/p&gt;
 
 &lt;p&gt;Sparrow argues that relationships with “real” pets are not morally
 deplorable because animals can have experiences, are moral patients
@@ -177,7 +224,7 @@ The episode also shows how the android copy of
 Ash is able to coerce Martha into keeping it around.
 Because Martha chooses to devote her emotional
 energy to the android rather than seeking out relationships with other
-people the robot can be seen as an enabler for mental harm.&lt;/p&gt;
+people the robot can be seen as an enabler for mental harm. &lt;/p&gt;
 
 &lt;h3 id=&quot;her&quot;&gt;Her&lt;/h3&gt;
 
@@ -200,13 +247,13 @@ and thus the social bonds between Samantha and Theodore are truly
 reciprocated. And yet, we see the same types of value judgments
 against this relationship. Theodore’s ex-wife, at least, views the
 relationship as unhealthy, and takes it as a sign that Theodore is
-simply not mature enough to handle a “real” relationship.&lt;/p&gt;
+simply not mature enough to handle a “real” relationship. &lt;/p&gt;
 
 &lt;p&gt;In both cases, the relationship with the artificial agent is shown as
 emotionally and psychologically damaging.
 I’ll be interested to see in a few decades whether this
 view will be taken as a legitimate concern or merely as
-prejudice against one’s choice of partner.&lt;/p&gt;
+prejudice against one’s choice of partner.  &lt;/p&gt;
 
 &lt;h3 id=&quot;master-of-none&quot;&gt;Master of None&lt;/h3&gt;
 
@@ -226,7 +273,7 @@ health benefits, both physically and mentally. From a utilitarian
 standpoint, I would argue that these benefits outweigh any negatives;
 and since Paro can only make adorable seal sounds, and cannot actually
 speak, there’s little risk of Paro coercing its owner into, e.g.,
-switching to Fix-a-Dent.&lt;/p&gt;
+switching to Fix-a-Dent. &lt;/p&gt;
 
 &lt;h1 id=&quot;sex&quot;&gt;Sex&lt;/h1&gt;
 
@@ -280,7 +327,7 @@ about the history of prostitution which I found pretty surprising.&lt;/p&gt;
 young women&lt;/em&gt; in New York City were prostitutes, making prostitution
 the second largest business of the time after tailoring.&lt;/li&gt;
   &lt;li&gt;In the mid-20th century, Alfred Kinsey estimated that 69% of white
-American men had been to a prostitute at least once.&lt;/li&gt;
+American men had been to a prostitute at least once. &lt;/li&gt;
   &lt;li&gt;A survey in the mid-20th century found that 47% of French men who
 were practicing Catholics had lost their virginity to a prostitute.&lt;/li&gt;
   &lt;li&gt;In 2000, there were an estimated 30,000 male prostitutes in Thailand.&lt;/li&gt;
@@ -288,7 +335,7 @@ were practicing Catholics had lost their virginity to a prostitute.&lt;/li&gt;
 
 &lt;p&gt;It’s important to note that the concerns over sex robots extend beyond
 robots designed for sex. Recently, the robotics company Aldebaran
-released a new robot, Pepper, shown below.&lt;/p&gt;
+released a new robot, Pepper, shown below. &lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;
 &lt;img src=&quot;../images/laswr/pepper.jpg&quot; alt=&quot;Pepper&quot; /&gt;
@@ -313,7 +360,7 @@ who develop androids&lt;/a&gt;.&lt;/p&gt;
 sex robots have been showing up more and more in popular culture. The
 artificially intelligent agents discussed above (i.e., those seen in
 &lt;em&gt;Her&lt;/em&gt; and &lt;em&gt;Black Mirror&lt;/em&gt;) are good examples, but of course the best
-recent example is &lt;em&gt;Ex Machina&lt;/em&gt;’s Ava.&lt;/p&gt;
+recent example is &lt;em&gt;Ex Machina&lt;/em&gt;’s Ava. &lt;/p&gt;
 
 &lt;h3 id=&quot;ex-machina&quot;&gt;Ex Machina&lt;/h3&gt;
 
@@ -328,7 +375,7 @@ physically attractive to her creator.
 As the film progresses, we learn that Ava (and other robots) have been
 sexually exploited by their creator, Nathan (played by Oscar Isaac). And,
 eventually, we see how Ava is able to seduce and control Caleb, and
-use him to help her get away from Nathan.&lt;/p&gt;
+use him to help her get away from Nathan. &lt;/p&gt;
 
 &lt;p&gt;The questions raised by this movie are questions we’ll have to deal
 with as a society as robots become more commonplace: should we be
@@ -360,7 +407,7 @@ categories: what they believe to be the capabilities of
 sex robots, what they believe to be the appropriate uses and
 appearances for sex robots, and how sex with a robot differs from sex
 with a person. These questions were posed to ~100 subjects ages 20-60
-through an online survey on Amazon Mechanical Turk.&lt;/p&gt;
+through an online survey on Amazon Mechanical Turk. &lt;/p&gt;
 
 &lt;p&gt;The study found
 that men and women are in close agreement on the capabilities of sex
@@ -404,7 +451,7 @@ investigate these questions through empirical study, so that we can
 better understand peoples’ ethical values and principles involving sex
 robots. These values will be crucial for society to make explicit as
 sex robots become increasingly commonplace, and a subject of concern
-for policymakers, designers, industry, and society at large.&lt;/p&gt;
+for policymakers, designers, industry, and society at large. &lt;/p&gt;
 
 &lt;h1 id=&quot;overall-recommendation&quot;&gt;Overall Recommendation&lt;/h1&gt;
 &lt;p&gt;While its occasional deviations into futurism make it less than it
@@ -439,7 +486,7 @@ I’m especially excited for this year’s conference, for several reasons.&lt;/
 
 &lt;h1 id=&quot;reason-2-hri-pioneers&quot;&gt;Reason 2: HRI Pioneers&lt;/h1&gt;
 
-&lt;p&gt;Last year, I was lucky enough to be selected for the HRI Pioneers Workshop; a student-run workshop which is the “premiere forum for graduate students in HRI”. After the workshop last year, Hee-Tae Jung (from UMass Amherst) and I were elected Program Committee Co-Chairs for this year’s workshop, which means we were in charge of finding paper reviewers, assigning reviewers to papers, lightly prodding reviewers to give us their reviews, and deciding which papers would be accepted to the workshop. This was a lot of fun, and a lot of work. This year, I’m excited to pop into the workshop and learn more about the students whose abstracts we accepted. Here’s a word cloud of the most common (interesting) words found in the submissions of this years’ attendees.&lt;/p&gt;
+&lt;p&gt;Last year, I was lucky enough to be selected for the HRI Pioneers Workshop; a student-run workshop which is the “premiere forum for graduate students in HRI”. After the workshop last year, Hee-Tae Jung (from UMass Amherst) and I were elected Program Committee Co-Chairs for this year’s workshop, which means we were in charge of finding paper reviewers, assigning reviewers to papers, lightly prodding reviewers to give us their reviews, and deciding which papers would be accepted to the workshop. This was a lot of fun, and a lot of work. This year, I’m excited to pop into the workshop and learn more about the students whose abstracts we accepted. Here’s a word cloud of the most common (interesting) words found in the submissions of this years’ attendees.  &lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../images/hrip2016-tagcloud.png&quot; alt=&quot;Word Cloud&quot; /&gt;&lt;/p&gt;
 
@@ -449,7 +496,7 @@ I’m especially excited for this year’s conference, for several reasons.&lt;/
 
 &lt;h1 id=&quot;reason-4-pushing-the-envelope&quot;&gt;Reason 4: Pushing the Envelope&lt;/h1&gt;
 
-&lt;p&gt;This year’s program includes a new session, “Alt.HRI” which solicited papers that push boundaries and take risks. I’m interested to see just how risk-taking the papers in this new session are. On a similar note, our lab has a paper entitled “Are We Ready for Sex Robots?” in a non-Alt.HRI session which is both risky and risqué. While I implemented the study behind the paper (a survey; no sex robots in our lab!), I haven’t actually seen the results, which my advisor has been playing close to the chest… so I’m excited to hear what they are! In preparation, I’ve been reading David Levy’s &lt;a href=&quot;http://www.amazon.com/Love-Sex-Robots-Human-Robot-Relationships/dp/0061359807&quot;&gt;“Love and Sex with Robots”&lt;/a&gt;, which I highly reccomend.&lt;/p&gt;
+&lt;p&gt;This year’s program includes a new session, “Alt.HRI” which solicited papers that push boundaries and take risks. I’m interested to see just how risk-taking the papers in this new session are. On a similar note, our lab has a paper entitled “Are We Ready for Sex Robots?” in a non-Alt.HRI session which is both risky and risqué. While I implemented the study behind the paper (a survey; no sex robots in our lab!), I haven’t actually seen the results, which my advisor has been playing close to the chest… so I’m excited to hear what they are! In preparation, I’ve been reading David Levy’s &lt;a href=&quot;http://www.amazon.com/Love-Sex-Robots-Human-Robot-Relationships/dp/0061359807&quot;&gt;“Love and Sex with Robots”&lt;/a&gt;, which I highly reccomend. &lt;/p&gt;
 
 &lt;h1 id=&quot;reason-5-its-new-zealand&quot;&gt;Reason 5: It’s New Zealand&lt;/h1&gt;
 &lt;p&gt;It’s New Zealand! Enough said.&lt;/p&gt;
@@ -721,20 +768,20 @@ Let’s look at how Tom’s grand plan worked out!&lt;/p&gt;
 &lt;h2 id=&quot;outcome&quot;&gt;Outcome&lt;/h2&gt;
 
 &lt;p&gt;Two things should immediately stand out by comparing the last three
-columns of the chart above.&lt;/p&gt;
+columns of the chart above.  &lt;/p&gt;
 
 &lt;p&gt;First, I was successful in convincing my co-instructor, Prof. Anselm
 Blumer, to shift most of the sessions on Logic to topics from Modern
 AI. This was a big surprise for me, as I initially had no idea whether
 or not he’d be receptive to such a major shift. We ended up dropping
 HMMs and POMDPs and picking up Factored MDPs, but otherwise the topics
-covered were just what I’d hoped for.&lt;/p&gt;
+covered were just what I’d hoped for.  &lt;/p&gt;
 
 &lt;p&gt;Second, though, you’ll notice that the actual class schedule jumped
 around &lt;strong&gt;a lot&lt;/strong&gt;. For example, the last section of the course (16-26)
 went: &lt;strong&gt;Planning&lt;/strong&gt;, Bayes Nets, Bayesian Inference, Bayesian Inference,
 &lt;strong&gt;Planning&lt;/strong&gt;, Bayesian Inference, &lt;strong&gt;Planning&lt;/strong&gt;, Markov Logic,
-&lt;strong&gt;Planning&lt;/strong&gt;, MDPs, MDPs.&lt;/p&gt;
+&lt;strong&gt;Planning&lt;/strong&gt;, MDPs, MDPs.  &lt;/p&gt;
 
 &lt;p&gt;This was the product of my &lt;strong&gt;planned&lt;/strong&gt; schedule (ba-dum-psh) rubbing
 up against my &lt;strong&gt;actual&lt;/strong&gt; schedule. Before the semester started, Anselm
@@ -756,18 +803,18 @@ teach two of my sessions. To avoid changing what sessions I’d be
 teaching, we had to get creative with the schedule. This involved many
 small schedule shuffles, such as
 putting &lt;em&gt;searching with non-deterministic actions&lt;/em&gt; off for &lt;em&gt;a month&lt;/em&gt;
-in order to shift things back a week.&lt;/p&gt;
+in order to shift things back a week.   &lt;/p&gt;
 
 &lt;p&gt;Second, to get students ready for the modern AI section, we decided to
 combine the lectures on Bayes’ Theorem and Utility Theory, and move
-them earlier into the course as a sort of “preview for things to come”.&lt;/p&gt;
+them earlier into the course as a sort of “preview for things to come”.  &lt;/p&gt;
 
 &lt;p&gt;Finally, of course, things just didn’t time out exactly as we
 expected. Some topics took more time than expected, some took less. In
 order to stay on the safe side, advanced planning topics got put off
 for a bit, and then, as discussed, ended up getting peppered in
 between my other lectures, whose dates were set in stone to accommodate
-my conference travels. It was a whirlwind.&lt;/p&gt;
+my conference travels. It was a whirlwind.  &lt;/p&gt;
 
 &lt;h2 id=&quot;conclusions&quot;&gt;Conclusions…&lt;/h2&gt;
 
@@ -775,18 +822,18 @@ my conference travels. It was a whirlwind.&lt;/p&gt;
 weren’t for the fact that I was scheduled to teach very specific
 sessions of the class, the schedule would certainly have been saner;
 presumably it will be &lt;em&gt;much&lt;/em&gt; saner when I end up teaching the course
-by myself at some other university, on my schedule alone.&lt;/p&gt;
+by myself at some other university, on my schedule alone.  &lt;/p&gt;
 
 &lt;p&gt;Schedule notwithstanding, however, the semester was incredibly
 rewarding. I had an absolute blast, and my students seemed to enjoy it
 too. I ended up getting an average rating of 4.63 out of 5.0 on my teaching
 evaluations, whatever that means, and one student wrote the following,
-which made me pretty proud:&lt;/p&gt;
+which made me pretty proud:  &lt;/p&gt;
 
 &lt;p&gt;“I have never
 had someone put such a visible effort into each lecture and I really
 appreciated seeing all the time and hard work Tom put into making sure
-we had the best learning experience possible.”&lt;/p&gt;
+we had the best learning experience possible.”  &lt;/p&gt;
 
 &lt;p&gt;Of course, my students were &lt;em&gt;significantly&lt;/em&gt; less positive about some
 of the homework assignments I designed. But that’s a story for another
@@ -837,13 +884,13 @@ themed around an obviously fictitious scenario in which our lab has to
 pull together a demo for a funding agency and things go horribly
 wrong.&lt;br /&gt;
 &lt;br /&gt;
-Enjoy!&lt;/p&gt;
+Enjoy!  &lt;/p&gt;
 
 &lt;h2 id=&quot;the-five-stages-of-grief-an-hri-lab-christmas-carol&quot;&gt;The Five Stages of Grief: An HRI Lab Christmas Carol&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Scene: It’s Sunday night, and the grad students are busy at work in
 the lab. A demo of the HRI Lab’s new “Carol Singing Robot” needs to be
 given in the morning, but the robots have mysteriously stopped
-working&lt;/em&gt;&lt;/p&gt;
+working&lt;/em&gt;  &lt;/p&gt;
 
 &lt;h3 id=&quot;pm---denial&quot;&gt;8:00 PM - Denial&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;Tune: Silent Night&lt;/em&gt;&lt;br /&gt;
@@ -853,7 +900,7 @@ Working any second now&lt;br /&gt;
 Nothing’s changed here, no code’s been revised&lt;br /&gt;
 Why’d you stop when Matthias arrived&lt;br /&gt;
 Nothing’s changed in your code&lt;br /&gt;
-Nothing’s changed in your code&lt;/p&gt;
+Nothing’s changed in your code  &lt;/p&gt;
 
 &lt;h3 id=&quot;pm---anger&quot;&gt;10:00 PM - Anger&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;Tune: Santa Claus is Coming to Town&lt;/em&gt;&lt;br /&gt;
@@ -882,7 +929,7 @@ You better not die&lt;br /&gt;
 You better not break&lt;br /&gt;
 I’m telling you why&lt;br /&gt;
 &lt;br /&gt;
-ONR is coming to lab&lt;/p&gt;
+ONR is coming to lab  &lt;/p&gt;
 
 &lt;h3 id=&quot;am---bargaining&quot;&gt;12:00 AM - Bargaining&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;Tune: It Came Upon a Midnight Clear&lt;/em&gt;&lt;br /&gt;
@@ -895,7 +942,7 @@ I’ll give you forty-six bucks (big bucks!)&lt;br /&gt;
 Peace on the earth, a Mercedes-Benz&lt;br /&gt;
 I’ll promise you ‘bout anything (more beer!)&lt;br /&gt;
 If you would just help me figure out&lt;br /&gt;
-How I can make this Nao sing&lt;/p&gt;
+How I can make this Nao sing  &lt;/p&gt;
 
 &lt;h3 id=&quot;am---depression&quot;&gt;2:00 AM - Depression&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;Tune: Oh Little Town of Bethlehem&lt;/em&gt;&lt;br /&gt;
@@ -908,7 +955,7 @@ This isn’t justified&lt;br /&gt;
 Yet in the dark I’m working&lt;br /&gt;
 Until I get this right&lt;br /&gt;
 The jokes and jeers of all my peers&lt;br /&gt;
-are met in me tonight&lt;/p&gt;
+are met in me tonight  &lt;/p&gt;
 
 &lt;h3 id=&quot;am---acceptance&quot;&gt;4:00 AM - Acceptance&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;Tune: White Christmas&lt;/em&gt;&lt;br /&gt;
@@ -922,7 +969,7 @@ No robots driving into walls (Great Big Holes!)&lt;br /&gt;
 Oh and I’m dreaming of a live demo&lt;br /&gt;
 With ev’ry action script I write&lt;br /&gt;
 But until my tests get green lights&lt;br /&gt;
-Let’s not do our demo live tonight&lt;/p&gt;
+Let’s not do our demo live tonight  &lt;/p&gt;
 
 
   &lt;p&gt;&lt;a href=&quot;http://williamstome.github.io//the-five-stages-of-grief-an-hri-lab-christmas-carol/&quot;&gt;The Five Stages of Grief: An HRI Lab Christmas Carol&lt;/a&gt; was originally published by Tom Williams at &lt;a href=&quot;http://williamstome.github.io/&quot;&gt;williamstome&lt;/a&gt; on December 18, 2015.&lt;/p&gt;</content>
@@ -970,7 +1017,7 @@ You gratefully take the glass from Bottender, then raise an eyebrow and ask,&lt;
 
 &lt;p&gt;One of the goals of the field of Human-Robot Interaction is to make human-robot interaction as &lt;em&gt;natural&lt;/em&gt; as possible. In part, this means making humans feel comfortable, and not, say, creeped out. For example,  the theory of the &lt;a href=&quot;https://en.wikipedia.org/wiki/Uncanny_valley&quot;&gt;“Uncanny Valley”&lt;/a&gt;, which suggests that humans are creeped out by robots (or other agents) that look very close to human but are slightly “off” provides us with design suggestions for building less creepy robots.&lt;br /&gt;&lt;br /&gt;
 &lt;img src=&quot;http://i.imgur.com/nz9sGMk.gif&quot; alt=&quot;Uncanny Valley&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
-One of my tertiary research interests involves whether there is an “uncanny valley of actions”, that is, are there certain robot &lt;em&gt;behaviors&lt;/em&gt; that may be useful to the robot, but should be avoided because they creep people out. One possible action in the uncanny valley of actions is robot telepathy. As seen in the situation above, robots don’t need to communicate with each other verbally, and instead can simply communicate over WiFi.&lt;/p&gt;
+One of my tertiary research interests involves whether there is an “uncanny valley of actions”, that is, are there certain robot &lt;em&gt;behaviors&lt;/em&gt; that may be useful to the robot, but should be avoided because they creep people out. One possible action in the uncanny valley of actions is robot telepathy. As seen in the situation above, robots don’t need to communicate with each other verbally, and instead can simply communicate over WiFi. &lt;/p&gt;
 
 &lt;p&gt;On the one hand, there’s nothing particularly insidious about this. For one thing, it’s pretty similar to humans just texting each other. Furthermore, it’s obviously much more efficient than driving up to each other and communicating through speech. On the other hand, telepathy is regarded as a “supernatural” ability which would be eerie if performed by humans, and thus it might not be unreasonable to expect that in certain situations it might seem eerie when performed by robots.&lt;/p&gt;
 
@@ -1043,7 +1090,7 @@ to popular belief, computer security is not principally concerned with
 defending against hackers 
 rapidly typing inscrutable symbols. Artificial intelligence is not
 principally concerned with creating anthropomorphic robots who, if they
-cannot love, can at least pass the Turing test.&lt;/p&gt;
+cannot love, can at least pass the Turing test. &lt;/p&gt;
 
 &lt;p&gt;As an educator, I seek to strip away these preconceptions, and
 to show students that while computer science may be more mundane
@@ -1074,7 +1121,7 @@ for computer science students.
 While some tout the ability to break down problems computationally as the
 “new literacy,” students will need to master “traditional literacy”
 regardless of whether they go on to become researchers, educators,
-programmers, or elect not to continue in computer science at all.&lt;/p&gt;
+programmers, or elect not to continue in computer science at all. &lt;/p&gt;
 
 &lt;p&gt;In addition to encouraging deep reflection through structured writing,
 I also strive to promote student understanding by providing concrete
@@ -1092,7 +1139,7 @@ concrete computational groundings without burdening students with
 busywork, i.e., coding for coding’s sake. For example, after the
 in-class crossword puzzle exercise, students were asked to to implement
 CSP heuristics to improve the performance of an automatic crossword
-creator.&lt;/p&gt;
+creator. &lt;/p&gt;
 
 &lt;p&gt;In designing both programming assignments and in-class exercisese, I
 try to find ways to apply 
@@ -1147,7 +1194,7 @@ when we do, what we can discover together.&lt;/p&gt;
   &lt;p&gt;“Description and Objective: This course is an introductory survey of artificial intelligence. The course will cover the history, theory, and computational methods of artificial intelligence. Basic concepts include representation of knowledge and computational methods for reasoning. One or two application areas will be studied, to be selected from expert systems, robotics, computer vision, natural language understanding, and planning.”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Among other reasons, this statement is problematic in that it is purely a course description, and doesn’t actually specify learning objectives for the course.&lt;/p&gt;
+&lt;p&gt;Among other reasons, this statement is problematic in that it is purely a course description, and doesn’t actually specify learning objectives for the course. &lt;/p&gt;
 
 &lt;p&gt;In order to improve this statement, I used a three step process: (1) identify the set of likely student needs and backgrounds, (2) identify my overall course goal given those backgrounds, and (3) craft learning objectives to achieve that goal given those needs.&lt;/p&gt;
 
@@ -1251,7 +1298,7 @@ teaching pedagogy, (2) a &lt;em&gt;design&lt;/em&gt; portion, in which I’ll be
 working with Professor Anselm Blumer to redesign portions of Tufts’
 “Introduction to Artificial Intelligence” course, and (3) a &lt;em&gt;teaching&lt;/em&gt;
 portion, in which I’ll teach some number of lectures (I’m hoping
-eight) for the redesigned course.&lt;/p&gt;
+eight) for the redesigned course. &lt;/p&gt;
 
 &lt;p&gt;While I haven’t yet undergone the &lt;em&gt;learning&lt;/em&gt; portion yet, I’ve been
 eager to start brainstorming how I might change the class. 
@@ -1263,7 +1310,7 @@ my first goal:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;em&gt;Classical&lt;/em&gt; and &lt;em&gt;Modern&lt;/em&gt; AI should be given approximately equal
-weight.&lt;/p&gt;
+weight. &lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Another complaint many (including myself) have with how the course is
@@ -1766,7 +1813,7 @@ While the comic is pretty short, it manages to touch on several issues that are 
 
 &lt;h2 id=&quot;the-idea&quot;&gt;The Idea&lt;/h2&gt;
 
-&lt;p&gt;In our panel, my labmates Willie, Gordon, and I each talked about one such issue. I talked about &lt;a href=&quot;http://williamstome.github.io//should-fully-autonomous-weapons-systems-be-banned/&quot;&gt;whether robots should be allowed to wield guns autonomously&lt;/a&gt;, Willie talked about the ethics of robots and sex and relationships in general, and Gordon talked about the general moral status of robots.&lt;/p&gt;
+&lt;p&gt;In our panel, my labmates Willie, Gordon, and I each talked about one such issue. I talked about &lt;a href=&quot;http://williamstome.github.io//should-fully-autonomous-weapons-systems-be-banned/&quot;&gt;whether robots should be allowed to wield guns autonomously&lt;/a&gt;, Willie talked about the ethics of robots and sex and relationships in general, and Gordon talked about the general moral status of robots. &lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&amp;lt;Disclaimer&amp;gt; While the three of us do research in the HRI Lab, our talk was given as private citizens, and we did not announce our shared affiliation during our talk; what we said in the panel constituted our own views, and doesn’t reflect the views of our employer or funding agencies. &amp;lt;/Disclaimer&amp;gt;&lt;/strong&gt;&lt;/p&gt;
 
@@ -1810,13 +1857,13 @@ To answer this question, you’d first need to decide what a “personality” a
 This came up in the debate at AAAI. Goose argued that land mine and cluster munitions bans have proven very effective, in part because the bans have caused those weapons to become heavily stigmatized. And thus, even though creating a landmine is incredibly easy, their use is now mainly limited to a few rebel groups. Goose’s hope is that a ban on fully autonomous weapons systems would create a similar stigmatization.&lt;/p&gt;
 
 &lt;p&gt;4) &lt;strong&gt;Humans can subjectively discount strong evidence in the face of the unlikeliness of that evidence. Can machines do this, and if not, what are the implications for armed robots?&lt;/strong&gt;&lt;br /&gt;
-A lot of this comes down to how much you believe in the natural superiority of humans. Simple probabilistic systems are able to perform this type of evidence discounting, and there’s nothing in principle preventing robots from making subjective decisions that rely on even more nuanced social factors. That being said, a lot of work will actually be required to realize those capabilities.&lt;/p&gt;
+A lot of this comes down to how much you believe in the natural superiority of humans. Simple probabilistic systems are able to perform this type of evidence discounting, and there’s nothing in principle preventing robots from making subjective decisions that rely on even more nuanced social factors. That being said, a lot of work will actually be required to realize those capabilities. &lt;/p&gt;
 
 &lt;p&gt;5) &lt;strong&gt;If a human were to trade their limbs and organs one by one for prosthetics, and finally upload their mind, at what point (if any) would they cease to be human?&lt;/strong&gt;&lt;br /&gt;
 This goes back to a longstanding debate in the Philosophy of Mind and Philosophy of AI. Someone like Searle would say that unless you’re implementing this uploaded mind in human wetware, it’s not really alive or thinking. This also ties in to the “hard problem of consciousness”: David Chalmers basically says that there are lots of “easy” problems in Philosophy and Psychology relating to how various mental processes work, but that understanding our subjective experience of consciousness and establishing whether “someone is home” in the mind is a significantly harder class of problem. If you move the mind from wetware to hardware in such a way that it still operates in the same way, is it fair to say that “the lights are on but no one’s home”? This is a hard problem. It also presupposes that we even know what “consciousness” is, which it’s not clear that we do. Once again, it’s a monumentally hard problem.&lt;/p&gt;
 
 &lt;p&gt;6) &lt;strong&gt;Does using a vibrator constitute having sex with a robot?&lt;/strong&gt;&lt;br /&gt;
-Love and Sex with robots talks a lot about this, and where the line gets drawn. Perhaps a lot of it has to do with when one starts to form an &lt;em&gt;emotional&lt;/em&gt; attachment to the machine, which indicates something completely different. If you have an emotional bond with your vibrator, then perhaps you should view it as having sex with a robot. However, this type of connection will grow increasingly likely as the machines we (as humans) use for sex gain more and more capabilities and improved behaviors.&lt;/p&gt;
+Love and Sex with robots talks a lot about this, and where the line gets drawn. Perhaps a lot of it has to do with when one starts to form an &lt;em&gt;emotional&lt;/em&gt; attachment to the machine, which indicates something completely different. If you have an emotional bond with your vibrator, then perhaps you should view it as having sex with a robot. However, this type of connection will grow increasingly likely as the machines we (as humans) use for sex gain more and more capabilities and improved behaviors. &lt;/p&gt;
 
 &lt;p&gt;7) &lt;strong&gt;What is the interplay between animal and robot ethics? As we develop a greater sense of animals as moral patients, how does this affect our view of robots as moral patients, and vice versa?&lt;/strong&gt;&lt;br /&gt;
 We can certainly take the criteria we use for establishing moral patiency for living creatures (i.e., animals) and apply them to robots. Also, animals that are more developed tend to display more human-like emotions, and much of our ethics towards animals may be guided by this, in that we don’t want to cause animals pain or suffering if they display emotional responses to such pain or suffering. Similarly, if a machine can feel pain or suffer, and produce a similar emotional response, we may be more reticent to cause pain and suffering to that machine.&lt;/p&gt;
@@ -1864,7 +1911,7 @@ is able to autonomously target and fire upon rapidly approaching
 torpedoes. 
 What if the autonomous target identification and firing mechanisms of
 the Goalkeeper were used in military robots such as the Guardian,
-which operate in civilian theaters?&lt;/p&gt;
+which operate in civilian theaters? &lt;/p&gt;
 
 &lt;p&gt;Such fully autonomous weapon systems are the topic of considerable
 debate, and the UN Convention on Certain Conventional Weapons is
@@ -1886,17 +1933,17 @@ field of AI’s premiere conferences.&lt;/p&gt;
 autonomous weapon systems was the director of the Human Rights Watch,
 Stephen Goose. Under Goose’s direction, the HRW has been instrumental
 in the banning of blinding lasers, cluster munitions, landmines, and
-other weapons.&lt;/p&gt;
+other weapons.  &lt;/p&gt;
 
 &lt;p&gt;Arguing against such a ban was Ron Arkin of Georgia Tech. Arkin is a
 researcher in robotics and robot ethics, and is known for his “Ethical
 Governor”, a proposed system for preventing robots from performing
-unethical actions (gross simplification).&lt;/p&gt;
+unethical actions (gross simplification).  &lt;/p&gt;
 
 &lt;p&gt;The debate, moderated by AAAI President Tom Dietterich and held in
 front of a crowd of hundreds of AI researchers, took the form of
 fifteen-minute position statements, four-minute rebuttals, questions
-posed by audience members, and two-minute closing statements.&lt;/p&gt;
+posed by audience members, and two-minute closing statements. &lt;/p&gt;
 
 &lt;p&gt;In this blog post, I hope to relay the gist of each debator’s arguments. As
 this is a sensative topic, I will add my brief commentary at the end
@@ -1915,7 +1962,7 @@ stated that he was against all killing, and that while he was in
 principle not averse to such a ban, he believed that we should not
 rush into the deployment of one until the issue had been
 thoroughly considered, and that for the time being we would be better
-served by a moratorium on such weapons.&lt;/p&gt;
+served by a moratorium on such weapons.  &lt;/p&gt;
 
 &lt;p&gt;Arkin’s rationale for this position stemmed from his belief that it is
 possible that autonomous weapon systems may in fact be able to be used
@@ -1924,7 +1971,7 @@ of the noncombatant today is wholly unacceptable, and that robotics
 and AI can make wartime atrocities against noncombatants less likely
 to occur. “I am convinced”, said Arkin, “that [unmanned systems used
 as adjuncts to human soldiers] can perform more ethically than human
-soldiers are capable.”&lt;/p&gt;
+soldiers are capable.” &lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“I am convinced that they can perform more ethically than human
@@ -1934,23 +1981,23 @@ soldiers are capable.”&lt;/p&gt;
 &lt;p&gt;In previous talks, Arkin has used a series of sobering statistics to
 make this point. Here are a few, taken verbatim from his 2010 paper in
 the Journal of Military Ethics entitled “The Case for Ethical Autonomy
-in Unmanned Systems”:&lt;/p&gt;
+in Unmanned Systems”: &lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Approximately 10 percent of Soldiers and Marines report mistreating
 noncombatants (damaged/destroyed Iraqi property when not necessary or
-hit/kicked a noncombatant when not necessary).&lt;/li&gt;
+hit/kicked a noncombatant when not necessary). &lt;/li&gt;
   &lt;li&gt;Only 47 percent of Soldiers and 38 percent of Marines agreed that
-noncombatants should be treated with dignity and respect.&lt;/li&gt;
+noncombatants should be treated with dignity and respect. &lt;/li&gt;
   &lt;li&gt;Although they reported receiving ethical training, 28 percent of
 Soldiers and 31 percent of Marines reported facing ethical
-situations in which they did not know how to respond.&lt;/li&gt;
+situations in which they did not know how to respond. &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Arkin did not lay out all of these statistics during the debate, but
 stressed that while he has great respect for our men and women in
 uniform, the battlefield tempo is simply outpacing human ability to
-make ethical and accurate decisions.&lt;/p&gt;
+make ethical and accurate decisions. &lt;/p&gt;
 
 &lt;p&gt;Fortunately for noncombatants, robots may be able to perform more
 ethically than humans, for a variety of reasons cited by Arkin:&lt;/p&gt;
@@ -1962,7 +2009,7 @@ ethically than humans, for a variety of reasons cited by Arkin:&lt;/p&gt;
   &lt;li&gt;Robots would not fall victim to human “scenario fulfillment”&lt;/li&gt;
   &lt;li&gt;Robots can integrate multi-source information far faster&lt;/li&gt;
   &lt;li&gt;Robots can independently and objectively monitor the ethical
-behavior of all parties on the battlefield&lt;/li&gt;
+behavior of all parties on the battlefield &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Arkin believes that if it is possible to create unmanned adjuncts to
@@ -1970,7 +2017,7 @@ human soldiers that can act more ethically than their human teammates,
 then the development of such adjuncts is a &lt;strong&gt;moral imperative&lt;/strong&gt;, and
 constitutes a &lt;strong&gt;humanitarian effort&lt;/strong&gt;. As adjuncts, autonomous weapons would not replace
 humans, but would be used alongside them; a human would always be in
-their control loop.&lt;/p&gt;
+their control loop.  &lt;/p&gt;
 
 &lt;h2 id=&quot;counterpoint-steven-goose&quot;&gt;Counterpoint: Steven Goose&lt;/h2&gt;
 
@@ -1982,12 +2029,12 @@ workshop talk that did not actually come up during the debate.&lt;/p&gt;
 
 &lt;p&gt;While Arkin was emphatic that he was opposed to all killing, Goose was
 emphatic that he was not opposed to military robots, but only to fully
-autonomous weapon systems.&lt;/p&gt;
+autonomous weapon systems. &lt;/p&gt;
 
 &lt;p&gt;Goose asserted that while there were clearly many possible advantages
 to autonomous weapons, these were outweighed by the negatives, and
 that any possible advantages would not be lost by keeping a human in
-control.&lt;/p&gt;
+control. &lt;/p&gt;
 
 &lt;p&gt;Goose’s laid out several objections to what he terms “Killer Robots”:&lt;/p&gt;
 
@@ -2011,14 +2058,14 @@ someone else?&lt;/li&gt;
 &lt;p&gt;Finally, Goose expounded upon concerns of proliferation, the
 possibility that a further removal from killing would lead to more
 war, and the fact that “killer bots” could be used as a tool of
-repression for autocrats.&lt;/p&gt;
+repression for autocrats. &lt;/p&gt;
 
 &lt;h2 id=&quot;rebuttal-arkin&quot;&gt;Rebuttal: Arkin&lt;/h2&gt;
 &lt;p&gt;Arkin rebutted with the following points, among others:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;The AAAI Should play a leading role in defining what is meant by
-“autonomy” and “meaningful human control”, not bureaucrats&lt;/li&gt;
+“autonomy” and “meaningful human control”, not bureaucrats &lt;/li&gt;
   &lt;li&gt;Neither tanks nor robots should be used in law enforcement&lt;/li&gt;
   &lt;li&gt;Enforcement of a ban is infeasible&lt;/li&gt;
   &lt;li&gt;If we can save human lives with this technology, it’s irresponsible to ignore it.&lt;/li&gt;
@@ -2031,22 +2078,22 @@ by Goose, but possible misconstruals of Arkin’s beliefs.&lt;/p&gt;
 &lt;p&gt;Goose rebutted that a moratorium is legally tricky, and that a
 moratorium (as imposed by the DoD) would not inhibit research in any
 way. He also dismissed the idea that “killer robots” could conceivably
-be limited to constrained circumstances.&lt;/p&gt;
+be limited to constrained circumstances. &lt;/p&gt;
 
 &lt;h2 id=&quot;final-remarks&quot;&gt;Final Remarks&lt;/h2&gt;
 &lt;p&gt;After several questions from the audience (some more relevant than
-others), closing remarks were made.&lt;/p&gt;
+others), closing remarks were made.  &lt;/p&gt;
 
-&lt;p&gt;Arkin closed with three points.&lt;/p&gt;
+&lt;p&gt;Arkin closed with three points. &lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;If your research is of any value, it will eventually be misused&lt;/li&gt;
   &lt;li&gt;He fully supports a moratorium&lt;/li&gt;
-  &lt;li&gt;We have a responsibility to try to save human lives.&lt;/li&gt;
+  &lt;li&gt;We have a responsibility to try to save human lives. &lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;Goose’s closing statements reiterated that some weapons simply
-shouldn’t be used.&lt;/p&gt;
+shouldn’t be used. &lt;/p&gt;
 
 &lt;h2 id=&quot;my-thoughts&quot;&gt;My Thoughts&lt;/h2&gt;
 &lt;p&gt;Ultimately, my thoughts on this issue come down to one question, also posed
@@ -2060,7 +2107,7 @@ a ban on autonomous weapon systems. Yes, robots will also be able to
 autonomously perform targeting and firing better than humans, but does
 this ability (the sole ability, as far as I can see, which &lt;strong&gt;would&lt;/strong&gt;
 be affected by the ban) help in the creation of ethical agents in any
-way? I’m not sure it does.&lt;/p&gt;
+way? I’m not sure it does. &lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://williamstome.github.io//should-fully-autonomous-weapons-systems-be-banned/&quot;&gt;Should Fully Autonomous Weapons Systems Be Banned?&lt;/a&gt; was originally published by Tom Williams at &lt;a href=&quot;http://williamstome.github.io/&quot;&gt;williamstome&lt;/a&gt; on February 04, 2015.&lt;/p&gt;</content>
 </entry>
@@ -2097,7 +2144,7 @@ it wisely!&lt;/p&gt;
 &lt;/feature&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Here are the top and bottom bars by average ABV.&lt;/p&gt;
+&lt;p&gt;Here are the top and bottom bars by average ABV. &lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -2342,13 +2389,13 @@ consideration. Holy Moses.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;A few things to note:&lt;/p&gt;
+&lt;p&gt;A few things to note: &lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;I’m sure nobody missed the two 18%
 beers. Some people see an 8% beer and say “Wow, that’s strong”, to
-which I reply “Well…” and this is why.&lt;/p&gt;
+which I reply “Well…” and this is why. &lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Four of the top five are from Avery? Wow. Color me impressed.&lt;/p&gt;
@@ -2427,7 +2474,7 @@ of information.&lt;/li&gt;
 &lt;h1 id=&quot;the-lists&quot;&gt;The Lists&lt;/h1&gt;
 
 &lt;p&gt;I’ve organized my findings into a set of top- and bottom-ten
-lists.&lt;/p&gt;
+lists. &lt;/p&gt;
 
 &lt;h2 id=&quot;the-best-and-the-worst&quot;&gt;The Best and The Worst&lt;/h2&gt;
 
@@ -2574,7 +2621,7 @@ you shouldn’t judge a bar by it’s cover, but… Tatooed Mom? Really?
 Looking at Tatooed Mom’s webpage reveals that they claim to have the
 “the best local and regional beer”. While they do have a few good
 beers on tap, their smallish taplist is padded out with the likes of
-Shocktop and Newcastle. Okay, enough picking on Tatooed Mom.&lt;/p&gt;
+Shocktop and Newcastle. Okay, enough picking on Tatooed Mom. &lt;/p&gt;
 
 &lt;h2 id=&quot;the-most-and-the-least&quot;&gt;The Most and The Least&lt;/h2&gt;
 
@@ -2739,7 +2786,7 @@ The top 10…&lt;/p&gt;
 
 &lt;p&gt;While none of the bars with the most taps appear on the top- or bottom-rated
 lists, several of the bars with the fewest taps appear on the
-top-rated list, and one appears on the bottom-rated list.&lt;/p&gt;
+top-rated list, and one appears on the bottom-rated list. &lt;/p&gt;
 
 &lt;h2 id=&quot;variety-of-styles&quot;&gt;Variety of Styles&lt;/h2&gt;
 
@@ -2880,7 +2927,7 @@ top-rated list, and one appears on the bottom-rated list.&lt;/p&gt;
 &lt;p&gt;You’ll notice that the bar with the most taps (City Taphouse) appears
 nowhere on the first list. While it has 54 taps, those taps only
 represent 15 different styles of beer. Which I find just a little
-disappointing.&lt;/p&gt;
+disappointing. &lt;/p&gt;
 
 &lt;h2 id=&quot;popularity-of-styles&quot;&gt;Popularity of Styles&lt;/h2&gt;
 
@@ -2953,7 +3000,7 @@ city. For example, any kind of Sake. Here are the most common categories.&lt;/p&
 
 &lt;p&gt;For more detail, consult the following interactive chart
 (Hyper-categories are determined using the Ratebeer style guide, chart
-designed using &lt;a href=&quot;https://gist.github.com/metmajer/5480307&quot;&gt;Sunburst&lt;/a&gt; ):&lt;/p&gt;
+designed using &lt;a href=&quot;https://gist.github.com/metmajer/5480307&quot;&gt;Sunburst&lt;/a&gt; ): &lt;/p&gt;
 
 &lt;style&gt;
 path {
@@ -3023,7 +3070,7 @@ d3.json(&quot;/flare.json&quot;, function(error, root) {
       .duration(750)
       .attrTween(&quot;d&quot;, arcTween(d))
       .each(&quot;end&quot;, function(e, i) {
-          // check if the animated element&#39;s data e lies within the visible angle span given in d
+          // check if the animated element's data e lies within the visible angle span given in d
           if (e.x &gt;= d.x &amp;&amp; e.x &lt; (d.x + d.dx)) {
             // get a selection of the associated text element
             //var arcText = &quot;testing&quot;
@@ -3230,7 +3277,7 @@ rated as it tends to be rather weak and, well, uninteresting. That being
 said, they actually have some pretty good roses among their thorns,
 including several beers from J.W. Lees and Innis &amp;amp; Gunn. I guess that
 means you can’t judge a bar by it’s average rating. So much for this
-post!&lt;/p&gt;
+post! &lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -3318,7 +3365,7 @@ enough taps, hopefully you work some unique beers into the mix.&lt;/p&gt;
 &lt;p&gt;And that wraps up Part One of my analysis! I’ve got lots of cool
 ideas for further analysis (fueled by reader suggestions) but haven’t
 had time to look into them yet. For next time, I’ll hopefully be able
-to look into:&lt;/p&gt;
+to look into: &lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Average ABV by bar&lt;/li&gt;
@@ -3355,12 +3402,12 @@ dialogue between humans and robots as &lt;em&gt;natural&lt;/em&gt; as possible.&
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;There’s been a lot of cool work into allow robots to understand
-simple statements like:&lt;/p&gt;
+simple statements like:  &lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;“Go to the kitchen”&lt;/li&gt;
-  &lt;li&gt;“Drive forward”&lt;/li&gt;
-  &lt;li&gt;“Bring me a beer”&lt;/li&gt;
+  &lt;li&gt;“Go to the kitchen” &lt;/li&gt;
+  &lt;li&gt;“Drive forward” &lt;/li&gt;
+  &lt;li&gt;“Bring me a beer”  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Unfortunately, most human language is significantly more
@@ -3379,20 +3426,20 @@ by looking at it!&lt;/p&gt;
 &lt;p&gt;Why can’t you determine what “I need a coffee” means by just looking
 at it? Naively inspecting this sentence merely suggests that it is a
 bit of musing about one’s state of mind, and that if a robot hears
-such a phrase, it should perhaps respond “how interesting!”.&lt;/p&gt;
+such a phrase, it should perhaps respond “how interesting!”. &lt;/p&gt;
 
 &lt;p&gt;It’s highly unlikely that this was the speaker’s intention! In order
 to figure out what they actually intended, we must consider the
-robot’s &lt;strong&gt;context&lt;/strong&gt;.&lt;/p&gt;
+robot’s &lt;strong&gt;context&lt;/strong&gt;. &lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Is the speaker friends with the robot? The
-speaker might be &lt;em&gt;complaining&lt;/em&gt;.&lt;/li&gt;
+speaker might be &lt;em&gt;complaining&lt;/em&gt;. &lt;/li&gt;
   &lt;li&gt;Did the speaker just put their coat
 on? The speaker might be &lt;em&gt;suggesting the robot accompanying him to go
-acquire coffee&lt;/em&gt;.&lt;/li&gt;
+acquire coffee&lt;/em&gt;. &lt;/li&gt;
   &lt;li&gt;Is the robot working as a barista? The speaker might
-be &lt;em&gt;ordering coffee&lt;/em&gt;.&lt;/li&gt;
+be &lt;em&gt;ordering coffee&lt;/em&gt;. &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;This one sentence could imply (at least) three different things depending on context?
@@ -3426,7 +3473,7 @@ can handle ISAs such as “It’s cold in here” by considering the speaker’s
 actions they might want you to take (e.g., closing the damn window!) in service of those goals and intentions.&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;center&gt;&lt;b&gt;
-In this blog post I&#39;ll discuss our approach to handling ISAs,&lt;br /&gt; which uses an idiomatic approach.
+In this blog post I'll discuss our approach to handling ISAs,&lt;br /&gt; which uses an idiomatic approach.
 &lt;/b&gt;&lt;/center&gt;
 
 &lt;h2 id=&quot;the-rule-list&quot;&gt;The Rule List&lt;/h2&gt;
@@ -3434,7 +3481,7 @@ In this blog post I&#39;ll discuss our approach to handling ISAs,&lt;br /&gt; wh
 &lt;p&gt;At the heart of our algorithm is the rule list. Each rule in this list maps a particular utterance 
 to a particular intention under a particuplar context. Let’s say you want to be able to perform the following inference:&lt;/p&gt;
 
-&lt;p&gt;“If Julie tells me she needs coffee, and she thinks I’m a barista, then I’ll assume she intended to communicate that she wants me to give her coffee.”&lt;/p&gt;
+&lt;p&gt;“If Julie tells me she needs coffee, and she thinks I’m a barista, then I’ll assume she intended to communicate that she wants me to give her coffee.” &lt;/p&gt;
 
 &lt;p&gt;First, let’s break this into its constituent parts.&lt;/p&gt;
 
@@ -3466,7 +3513,7 @@ it looks through the list
 and find all rules whose utterance matches the utterance they heard, and whose contextual items are all currently true
 (e.g., the robot actually thinks that the speaker thinks the robot is a barista). 
 The previously described inference process is performed on each 
-matching rule, and the intentions that result from those matching rules are then examined.&lt;/p&gt;
+matching rule, and the intentions that result from those matching rules are then examined.  &lt;/p&gt;
 
 &lt;p&gt;Unfortunately, real life is rife with &lt;em&gt;uncertainty&lt;/em&gt;. Sometimes you aren’t completely certain of what people say. Or think.
 Or what their obligations are. Or what your obligations are. Or what anything means, anyways. We thus need some way to
@@ -3483,7 +3530,7 @@ get into now, but which I could easily detail in another blog post.&lt;/p&gt;
 &lt;p&gt;Let’s say we want to consider how certain we are that our friend Julie thinks we’re a barista. We represent this information
 using two numbers: our &lt;em&gt;belief&lt;/em&gt; that Julie thinks we’re a barista, and the &lt;em&gt;plausibility&lt;/em&gt; that Julie thinks we’re a barista.
 These two numbers are written like this [belief, plausibility] (e.g., [0.5,0.6]). Both numbers are always between zero and one, 
-and belief is always less than or equal to plausibility.&lt;/p&gt;
+and belief is always less than or equal to plausibility. &lt;/p&gt;
 
 &lt;p&gt;The &lt;em&gt;belief&lt;/em&gt; represents the weight of all evidence &lt;strong&gt;for&lt;/strong&gt; Julie thinking we’re a barista, 
 and the &lt;em&gt;plausibility&lt;/em&gt; is one minus the weight of all evidence &lt;strong&gt;against&lt;/strong&gt; Julie thinking we’re a barista.&lt;/p&gt;
@@ -3495,7 +3542,7 @@ This might suggest I’m &lt;em&gt;not&lt;/em&gt; a barista. Let’s aribitraril
 We could then represent our certainty that Julie thinks I’m a barista using the interval [0.7,0.8].
 Note that there’s a little gap between these two numbers. this represents the ignorance in the situation.
 Let’s say I wasn’t wearing the uniform. The interval would then be [0.0,0.8] - there’s nothing to suggest
-I &lt;em&gt;am&lt;/em&gt; a barista, but in the end there’s not that much evidence suggesting I’m not.&lt;/p&gt;
+I &lt;em&gt;am&lt;/em&gt; a barista, but in the end there’s not that much evidence suggesting I’m not. &lt;/p&gt;
 
 &lt;p&gt;The larger the gap between belief and plausibility, the more &lt;em&gt;ignorant&lt;/em&gt; we are of the truth of the hypothesis in question. 
 The closer the center of the gap is to 0.5, the more &lt;em&gt;ambiguous&lt;/em&gt; the situation is (as there’s closer to being equal weight
@@ -3541,7 +3588,7 @@ uncomfortable subject. Am I correct?&lt;br /&gt;
 &lt;strong&gt;GEORDI:&lt;/strong&gt; Data, maybe you gave up too fast.&lt;br /&gt;
 &lt;strong&gt;DATA:&lt;/strong&gt; I do not understand.&lt;br /&gt;
 &lt;strong&gt;GEORDI:&lt;/strong&gt; When I said “just passing by” means “just passing by,” I didn’t really mean it.&lt;br /&gt;
-&lt;strong&gt;DATA:&lt;/strong&gt; My initial assumption was correct. You do wish to speak of your mother.&lt;/p&gt;
+&lt;strong&gt;DATA:&lt;/strong&gt; My initial assumption was correct. You do wish to speak of your mother.  &lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;What I’ve described here is the gist of the paper I presented at &lt;a href=&quot;http://iberamia.webs.upv.es/iberamia2014/&quot;&gt;IBERAMIA&lt;/a&gt; last week. If you’re interested in delving into the details, you can find the full paper &lt;a href=&quot;http://hrilab.tufts.edu/~twilliam/pubs/?p=williams2014dempster&quot;&gt;here&lt;/a&gt;. Since that paper was accepted, we’ve done a lot to advance this research project. Most importantly, we’ve (1) added the ability to &lt;em&gt;generate&lt;/em&gt; ISAs (in addition to just understanding them), and (2) fully integrated our algorithms into our robot architecture, &lt;a href=&quot;http://hrilab.tufts.edu/publications/schermerhornetal06aaaiworkshop.pdf&quot;&gt;DIARC&lt;/a&gt;. I’ll be presenting a paper on these and other advancements at one of the main AI conferences (&lt;a href=&quot;http://www.aaai.org/Conferences/AAAI/aaai15.php&quot;&gt;AAAI&lt;/a&gt;) in late January.&lt;/p&gt;
@@ -3576,12 +3623,12 @@ If robots become truly commonplace, we must make ensure that such
 robots behave &lt;em&gt;naturally&lt;/em&gt; and &lt;em&gt;ethically&lt;/em&gt;. These challenging questions
 are being investigated by scientists in the field of Human-Robot
 Interaction (or HRI), a relatively new field at the intersection of
-computer science, psychology, and philosophy.&lt;/p&gt;
+computer science, psychology, and philosophy. &lt;/p&gt;
 
 &lt;p&gt;In a series of blog posts, I’d like to discuss some of the big topics
 in HRI. As I add new posts in the series, I will link to them on this
 page. I expect the layout of the series will vaguely follow this
-structure:&lt;/p&gt;
+structure: &lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Section 1: Introduction to HRI
@@ -3679,7 +3726,7 @@ emergence in human–child interactions is highlighted. Different types
 of play among children are discussed in the light of their potential
 investigation in human–robot experiments. The paper concludes by
 examining different paradigms regarding ‘social relationships’ of
-robots and people interacting with them.&lt;/p&gt;
+robots and people interacting with them. &lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;diarc&quot;&gt;DIARC&lt;/h2&gt;
@@ -3692,7 +3739,7 @@ of our research is on the development of AI Algorithms to
 interaction. For an overview of the algorithm development that goes
 on in our lab, I’d read
 &lt;a href=&quot;http://hrilab.tufts.edu/publications/aaai13irsfinal.pdf&quot;&gt;Novel mechanisms for natural human-robot interactions in the DIARC architecture&lt;/a&gt; by Scheutz et al. (Disclaimer: I’m one of the al.’s
-you can call me Al.)&lt;/p&gt;
+you can call me Al.) &lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Natural human-like human-robot interactions require many
@@ -3704,7 +3751,7 @@ required. In this paper, we present an overview of the most recent
 version of our DIARC architecture and show how several 
 novel algorithms attempt to address these three areas, leading
 to more natural interactions with humans, while also extending the
-overall capability of the integrated system.&lt;/p&gt;
+overall capability of the integrated system. &lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;natural-language-dialogue&quot;&gt;Natural-Language Dialogue&lt;/h2&gt;
@@ -3727,7 +3774,7 @@ consider both the simplified case in which the input string is viewed
 as a string of parts of speech, and the more interesting case in which
 the parser is guided by statistical information about the particular
 words in the sentence. Finally we anticipate future research
-directions.&lt;/p&gt;
+directions.  &lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h3 id=&quot;challenges-for-spoken-dialogue-systems&quot;&gt;Challenges for Spoken Dialogue Systems&lt;/h3&gt;
@@ -3746,7 +3793,7 @@ other problem-solving tasks. In this paper we discuss some of the
 design issues which confront developers of spoken dialogue systems,
 provide some examples of research being undertaken in this area, and
 describe some of the ongoing challenges facing current spoken language
-technology.&lt;/p&gt;
+technology. &lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h3 id=&quot;recent-approaches-to-dialog-management-for-spoken-dialog-systems&quot;&gt;Recent Approaches to Dialog Management for Spoken Dialog Systems&lt;/h3&gt;
@@ -3755,7 +3802,7 @@ technology.&lt;/p&gt;
 this paper is much newer, and shows how the field of Natural
 Language Dialogue has evolved since the Glass paper was
 published. Some of the same problems are waiting to be solved,
-and other problems are brand new.&lt;/p&gt;
+and other problems are brand new. &lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;A field of spoken dialog systems is a rapidly growing research area because the performance
@@ -3770,7 +3817,7 @@ dialog systems.&lt;/p&gt;
 
 &lt;h1 id=&quot;books&quot;&gt;Books&lt;/h1&gt;
 
-&lt;p&gt;The four books I’d recommend are much broader in scope.&lt;/p&gt;
+&lt;p&gt;The four books I’d recommend are much broader in scope. &lt;/p&gt;
 
 &lt;h2 id=&quot;godel-escher-bach&quot;&gt;Godel, Escher, Bach&lt;/h2&gt;
 
@@ -3830,7 +3877,7 @@ much in the way of discussion thereof, this is an incredibly useful
 little book that has gotten me excited with lots of new ideas, despite
 the fact that it’s 20 years old. I would recommend it to both
 academics and lay persons alike: it’s short, it’s sweet, it’s
-fascinating.&lt;/p&gt;
+fascinating.  &lt;/p&gt;
 
 &lt;h1 id=&quot;conclusions&quot;&gt;Conclusions&lt;/h1&gt;
 &lt;p&gt;Those are my suggestions! I would love to hear others’ suggestions for
@@ -3994,7 +4041,7 @@ the images in this post)&lt;/p&gt;
 neighborhood to the north) is no longer the beery center of Boston,
 which is instead now found in Cambridge. This matches the expectations
 we previously had: Cambridge has much better beer bars, Medford has
-much better beer shops.&lt;/p&gt;
+much better beer shops. &lt;/p&gt;
 
 &lt;p&gt;I also thought it’d be interesting to look at how cities compared as a
 whole: if you sum up the scores of the top 1000 locations for each
@@ -4016,7 +4063,7 @@ city, you can assign it a city-wide score.&lt;/p&gt;
   &lt;li&gt;Portland, OR: 124,470
     &lt;figure&gt;
    &lt;a href=&quot;https://www.google.com/fusiontables/embedviz?q=select+col0+from+17ekWY4HHeiNlMKfwA_JKQKN17IixQFAKxKEk88y2&amp;amp;viz=MAP&amp;amp;h=false&amp;amp;lat=45.52369234376108&amp;amp;lng=-122.6485676073628&amp;amp;t=1&amp;amp;z=13&amp;amp;l=col0&amp;amp;y=2&amp;amp;tmplt=2&amp;amp;hml=ONE_COL_LAT_LNG&quot;&gt;&lt;img src=&quot;../images/maps/portland.png&quot; /&gt;&lt;/a&gt;
-   &lt;figcaption&gt;Beervana. No really, [that&#39;s what it&#39;s called](http://en.wikipedia.org/wiki/Nicknames_of_Portland,_Oregon#Beervana)&lt;/figcaption&gt;
+   &lt;figcaption&gt;Beervana. No really, [that's what it's called](http://en.wikipedia.org/wiki/Nicknames_of_Portland,_Oregon#Beervana)&lt;/figcaption&gt;
  &lt;/figure&gt;
   &lt;/li&gt;
   &lt;li&gt;Chicago, IL: 119,740
@@ -4046,7 +4093,7 @@ city, you can assign it a city-wide score.&lt;/p&gt;
   &lt;li&gt;San Diego, CA: 101,266
     &lt;figure&gt;
    &lt;a href=&quot;https://www.google.com/fusiontables/embedviz?q=select+col0+from+1FLSTOAF_aYxK3PBgJjS2rUYWY0rJkRLunK9Z2Lp8&amp;amp;viz=MAP&amp;amp;h=false&amp;amp;lat=32.734513166065085&amp;amp;lng=-117.18877415218992&amp;amp;t=1&amp;amp;z=12&amp;amp;l=col0&amp;amp;y=2&amp;amp;tmplt=2&amp;amp;hml=ONE_COL_LAT_LNG&quot;&gt;&lt;img src=&quot;../images/maps/sd.png&quot; /&gt;&lt;/a&gt;
-   &lt;figcaption&gt;San Diego&#39;s nickname is &quot;America&#39;s Finest City.&quot; I&#39;m not even going to dignify that with a parody.&lt;/figcaption&gt;
+   &lt;figcaption&gt;San Diego's nickname is &quot;America's Finest City.&quot; I'm not even going to dignify that with a parody.&lt;/figcaption&gt;
  &lt;/figure&gt;
   &lt;/li&gt;
   &lt;li&gt;San Francisco, CA: 90,388
@@ -4058,19 +4105,19 @@ city, you can assign it a city-wide score.&lt;/p&gt;
   &lt;li&gt;Los Angeles, CA: 86,866
     &lt;figure&gt;
   &lt;a href=&quot;https://www.google.com/fusiontables/embedviz?q=select+col0+from+1iMyPvZ-5duurLlAI7-UqiCcWLsH2p6Cvs6IEvhTG&amp;amp;viz=MAP&amp;amp;h=false&amp;amp;lat=33.94991079251985&amp;amp;lng=-118.25099376709375&amp;amp;t=1&amp;amp;z=11&amp;amp;l=col0&amp;amp;y=2&amp;amp;tmplt=2&amp;amp;hml=ONE_COL_LAT_LNG&quot;&gt;&lt;img src=&quot;../images/maps/la.png&quot; /&gt;&lt;/a&gt;
-  &lt;figcaption&gt;Look at LA&#39;s map. Can you see why it doesn&#39;t have peaks like Philly or DC? Everything&#39;s so spread out. Worst. Crawl. City. Ever.&lt;/figcaption&gt;
+  &lt;figcaption&gt;Look at LA's map. Can you see why it doesn't have peaks like Philly or DC? Everything's so spread out. Worst. Crawl. City. Ever.&lt;/figcaption&gt;
 &lt;/figure&gt;
   &lt;/li&gt;
   &lt;li&gt;Denver, CO: 85,938
     &lt;figure&gt;
   &lt;a href=&quot;https://www.google.com/fusiontables/embedviz?q=select+col0+from+1a2PxsErOaaUfrIhPlcXup9w54QjKVtCQLRzpwwVN&amp;amp;viz=MAP&amp;amp;h=false&amp;amp;lat=39.71976727666324&amp;amp;lng=-104.98743183510402&amp;amp;t=1&amp;amp;z=13&amp;amp;l=col0&amp;amp;y=2&amp;amp;tmplt=2&amp;amp;hml=ONE_COL_LAT_LNG&quot;&gt;&lt;img src=&quot;../images/maps/denver.png&quot; /&gt;&lt;/a&gt;
-  &lt;figcaption&gt;I&#39;d like to go to Denver.&lt;/figcaption&gt;
+  &lt;figcaption&gt;I'd like to go to Denver.&lt;/figcaption&gt;
 &lt;/figure&gt;
   &lt;/li&gt;
   &lt;li&gt;Boston, MA: 82,527
     &lt;figure&gt;
   &lt;a href=&quot;https://www.google.com/fusiontables/embedviz?q=select+col0+from+1ZEzmnh_6Bdk5JLFq_Uc3fxEZQD4xXi5gDMtypYsy&amp;amp;viz=MAP&amp;amp;h=false&amp;amp;lat=42.33941320931526&amp;amp;lng=-71.10457660540374&amp;amp;t=1&amp;amp;z=13&amp;amp;l=col0&amp;amp;y=2&amp;amp;tmplt=2&amp;amp;hml=ONE_COL_LAT_LNG&quot;&gt;&lt;img src=&quot;../images/maps/boston.png&quot; /&gt;&lt;/a&gt;
-  &lt;figcaption&gt;I live in Boston, it&#39;s awesome. So much science!&lt;/figcaption&gt;
+  &lt;figcaption&gt;I live in Boston, it's awesome. So much science!&lt;/figcaption&gt;
 &lt;/figure&gt;
   &lt;/li&gt;
   &lt;li&gt;Baltimore, MD: 63,851
@@ -4166,7 +4213,7 @@ minute walk from my apartment!) another hot spot to the southwest in
 Alston (home of me and my girlfriend’s favorite beer bar, Sunset), and
 a large area right smack in the middle of Cambridge, home of the
 fantastic Meadhall and Cambridge Brewing Company, as well as the
-top-rated “Lord Hobo”.&lt;/p&gt;
+top-rated “Lord Hobo”. &lt;/p&gt;
 
 &lt;p&gt;Okay, so this is a map. How’d I make it?&lt;/p&gt;
 
@@ -4222,7 +4269,7 @@ for beer. While Boston’s scale was originally from 0 to 204, the scale
 needed to grow quite a bit to accommodate the various cities I
 examined… expanding the top of the scale to over triple the maximum
 value for Boston: &lt;strong&gt;688&lt;/strong&gt;. Here are links to the maps for
-the cities I looked at, in alphabetical order.&lt;/p&gt;
+the cities I looked at, in alphabetical order. &lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.google.com/fusiontables/embedviz?q=select+col0+from+1ietsc1eZShKHTRJTqs2VzJl3lobs3gCNXEnhGo44+where+col1+%3E%3D+29&amp;amp;viz=MAP&amp;amp;h=false&amp;amp;lat=35.582524618884754&amp;amp;lng=-82.56045087857461&amp;amp;t=1&amp;amp;z=13&amp;amp;l=col0&amp;amp;y=3&amp;amp;tmplt=3&amp;amp;hml=ONE_COL_LAT_LNG&quot;&gt;Ashville, North Carolina&lt;/a&gt;&lt;/li&gt;
@@ -4276,7 +4323,7 @@ LA means that the beer is pretty spread out as well… the only city
 near it that has a good concentration of beer is Pasadena. While the
 tiny but beer-fueled city of Burlington didn’t make the list, it
 performed much better than some of the other contenders, such as
-Providence and Santa Fe.&lt;/p&gt;
+Providence and Santa Fe.  &lt;/p&gt;
 
 &lt;p&gt;Then there’s Philadelphia.&lt;/p&gt;
 &lt;figure&gt;
@@ -4287,7 +4334,7 @@ Providence and Santa Fe.&lt;/p&gt;
 it had such a dense core. The score accrued by the spread of beer bars
 in the few blocks between city hall and Thomas Jefferson University is
 the score you’d get from having seven world class bars stacked on top
-of each other.&lt;/p&gt;
+of each other. &lt;/p&gt;
 
 &lt;p&gt;It’s obvious what all these stacked bars call for… a stacked bar
 chart. (How’s that for a segue?)&lt;/p&gt;
@@ -4301,7 +4348,7 @@ Chicago, San Francisco, Seattle and Portland may not have the hotspots
 of Asheville or Fort Collins, they certainly have larger portions of
 the city in the green, meaning there are larger portions of the city
 that you can visit or live in and still have &lt;em&gt;options&lt;/em&gt; of where
-to go for your brews.&lt;/p&gt;
+to go for your brews. &lt;/p&gt;
 
 &lt;p&gt;Of course there’s much more to look into here. The current analysis
 doesn’t differentiate between bars, brewpubs, restaurants with good
@@ -4314,7 +4361,7 @@ though, and probably isn’t how I should be spending my time. Finally,
 the current metric is based on Ratebeer place ratings. What if my
 model were more interesting, i.e., by number of taps and bottles? The
 map could then reflect the number of beer taps within a five minute
-walk!&lt;/p&gt;
+walk! &lt;/p&gt;
 
 &lt;p&gt;Obviously there are lots of interesting ways my model can be
 altered. Did you find it interesting? Were the graphs cool? Can you
@@ -4322,100 +4369,6 @@ think of ways you’d make use of them on beercations or, say, when
 choosing an apartment? I’d love to hear your thoughts!&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://williamstome.github.io//high-density-beerlytics-data-visualization-of-beer-neighborhoods/&quot;&gt;High Density Beerlytics: Data Visualization of Beer Neighborhoods&lt;/a&gt; was originally published by Tom Williams at &lt;a href=&quot;http://williamstome.github.io/&quot;&gt;williamstome&lt;/a&gt; on March 28, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-  
-
-<entry>
-  <title type="html"><![CDATA["Is There A Place for The Mind in Physics" Response]]></title>
-  <link rel="alternate" type="text/html" href="http://williamstome.github.io//is-there-a-place-for-the-mind-in-physics-response/" />
-  <id>http://williamstome.github.io//is-there-a-place-for-the-mind-in-physics-response</id>
-  <updated>2014-10-19T00:00:00-00:00</updated>
-  <published>2013-01-31T00:00:00-05:00</published>
-  
-  <author>
-    <name>Tom Williams</name>
-    <uri>http://williamstome.github.io/</uri>
-    <email>williams@cs.tufts.edu</email>
-  </author>
-  <content type="html">&lt;p&gt;My sister recently tweeted a link to an article entitled &lt;a href=&quot;http://www.npr.org/blogs/13.7/2013/01/29/169896128/is-there-a-place-for-the-mind-in-physics-part-i?sc=tw&amp;amp;cc=share&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;quot;Is There A Place For The Mind In Physics&quot;&gt;Is There A Place For The Mind In Physics&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I largely agree with the reviewer, but
-am quite incredulous towards some of the reviewed author’s
-notions. Thanks for the read, sis!&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Nagel brings both intellectual heft and clarity to this
-    question. Nagel’s famous 1974 article &lt;a href=&quot;http://organizations.utep.edu/portals/1475/nagel_bat.pdf&quot;&gt;What is it like to be a
-    bat?&lt;/a&gt; is
-    a masterpiece of argument against the reductionist view that Mind
-    is nothing more than an [epiphenomena]
-    (http://www.thefreedictionary.com/epiphenomena) (word
-    of the day!) of neural activity. Instead, Nagel argued that there
-    is vividness to the internal experience of consciousness that
-    cannot be reduced to an external account of matter and motion
-    (i.e., neurons and electrical currents).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In this paper, Nagel says that it is not worth developing a physical
-theory of mind until we determine whether it is even possible to
-describe the activity of the mind in objective terms. Is it meaningful
-to describe what it’s &lt;em&gt;really&lt;/em&gt; like to be human? He uses this as an
-argument against reducing consciousness to an objective level. Nagel
-seems to be saying that there is something simply &lt;em&gt;indescribable&lt;/em&gt;
-about consciousness. Maybe it’s the forty years that have passed since
-the publication of this paper, but this seems like the lazy man’s
-approach. Arguing that consciousness is indescribable seems like a cop
-out that does not try to address the question at hand. Additionally, I
-would say that Nagel is asking the wrong question. He seems to be
-saying that an objective view of consciousness has to be viewing
-consciousness as how it “really feels” to be human in objective
-terms. I’d argue that one cannot describe how it “really feels” to be
-a computer adding numbers ad infinitum, but this in itself doesn’t
-prevent computers from becoming sentient (I’m not immediately
-dismissing other arguments against cybersentience, just this
-one). Similarly one can’t describe how it really feels to “be the
-brain” shooting current and chemicals around, but this doesn’t prevent
-us from being sentient. Maybe I’m misunderstanding Nagel’s point in
-the article, but I was entirely unconvinced.&lt;/p&gt;
-
-&lt;p&gt;Let’s get back to the NPRticle.
-It sounds like Nagel’s Easy/Hard problem distinction falls into the same trap.
-Nagel is saying that the neurons firing and sensory experiences are
-essentially different things, and this prevents studying the former
-from revealing the true nature of the latter. 
-Nagel is once again falling back on the “indescribability” factor of
-consciousness, which is a crutch. To go back to the computer analogy
-of the mind… the physical bit arithmatic in a computer and the high
-level functionality of its software are essentially different beasts,
-but this doesn’t mean that they aren’t directly related. Indeed,
-although they’re completely different in nature, they are deeply
-causally related.&lt;/p&gt;
-
-&lt;p&gt;The article then summarizes Nagel as follows:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Now, given that I’m a physicist, you might expect me to slam
-    Nagel for being hopelessly lost in the weeds. The truth is, while I
-    deeply suspect he is wrong, I do find his perspective bracing. Given
-    his atheism, the question Nagel is really asking is stunning: Is there
-    a fundamental place for the Mind in the fabric of reality? In its
-    crudest form the question could be phrased: Might there be some
-    “thing” we need to add to our picture of reality that we don’t have
-    now in order to embrace mind?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I’m a little incredulous towards this position (a little more so than
-the article’s author, even). 
-Do you really think that there’s some unknown substance in the
-universe which is needed to understand how the mind works? Just
-because we haven’t yet discovered how all behavior in the mind is
-produced by the activation patterns in the brain doesn’t mean that we
-need to give up, as Nagel suggests, and wait until we discover some
-wonder tissue that ties everything together.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://williamstome.github.io//is-there-a-place-for-the-mind-in-physics-response/&quot;&gt;"Is There A Place for The Mind in Physics" Response&lt;/a&gt; was originally published by Tom Williams at &lt;a href=&quot;http://williamstome.github.io/&quot;&gt;williamstome&lt;/a&gt; on January 31, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>

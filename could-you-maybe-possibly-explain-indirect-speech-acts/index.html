@@ -229,12 +229,12 @@ dialogue between humans and robots as <em>natural</em> as possible.</p>
 <p><br /></p>
 
 <p>There’s been a lot of cool work into allow robots to understand
-simple statements like:</p>
+simple statements like:  </p>
 
 <ul>
-  <li>“Go to the kitchen”</li>
-  <li>“Drive forward”</li>
-  <li>“Bring me a beer”</li>
+  <li>“Go to the kitchen” </li>
+  <li>“Drive forward” </li>
+  <li>“Bring me a beer”  </li>
 </ul>
 
 <p>Unfortunately, most human language is significantly more
@@ -253,20 +253,20 @@ by looking at it!</p>
 <p>Why can’t you determine what “I need a coffee” means by just looking
 at it? Naively inspecting this sentence merely suggests that it is a
 bit of musing about one’s state of mind, and that if a robot hears
-such a phrase, it should perhaps respond “how interesting!”.</p>
+such a phrase, it should perhaps respond “how interesting!”. </p>
 
 <p>It’s highly unlikely that this was the speaker’s intention! In order
 to figure out what they actually intended, we must consider the
-robot’s <strong>context</strong>.</p>
+robot’s <strong>context</strong>. </p>
 
 <ul>
   <li>Is the speaker friends with the robot? The
-speaker might be <em>complaining</em>.</li>
+speaker might be <em>complaining</em>. </li>
   <li>Did the speaker just put their coat
 on? The speaker might be <em>suggesting the robot accompanying him to go
-acquire coffee</em>.</li>
+acquire coffee</em>. </li>
   <li>Is the robot working as a barista? The speaker might
-be <em>ordering coffee</em>.</li>
+be <em>ordering coffee</em>. </li>
 </ul>
 
 <p>This one sentence could imply (at least) three different things depending on context?
@@ -308,7 +308,7 @@ In this blog post I'll discuss our approach to handling ISAs,<br /> which uses a
 <p>At the heart of our algorithm is the rule list. Each rule in this list maps a particular utterance 
 to a particular intention under a particuplar context. Let’s say you want to be able to perform the following inference:</p>
 
-<p>“If Julie tells me she needs coffee, and she thinks I’m a barista, then I’ll assume she intended to communicate that she wants me to give her coffee.”</p>
+<p>“If Julie tells me she needs coffee, and she thinks I’m a barista, then I’ll assume she intended to communicate that she wants me to give her coffee.” </p>
 
 <p>First, let’s break this into its constituent parts.</p>
 
@@ -340,7 +340,7 @@ it looks through the list
 and find all rules whose utterance matches the utterance they heard, and whose contextual items are all currently true
 (e.g., the robot actually thinks that the speaker thinks the robot is a barista). 
 The previously described inference process is performed on each 
-matching rule, and the intentions that result from those matching rules are then examined.</p>
+matching rule, and the intentions that result from those matching rules are then examined.  </p>
 
 <p>Unfortunately, real life is rife with <em>uncertainty</em>. Sometimes you aren’t completely certain of what people say. Or think.
 Or what their obligations are. Or what your obligations are. Or what anything means, anyways. We thus need some way to
@@ -357,7 +357,7 @@ get into now, but which I could easily detail in another blog post.</p>
 <p>Let’s say we want to consider how certain we are that our friend Julie thinks we’re a barista. We represent this information
 using two numbers: our <em>belief</em> that Julie thinks we’re a barista, and the <em>plausibility</em> that Julie thinks we’re a barista.
 These two numbers are written like this [belief, plausibility] (e.g., [0.5,0.6]). Both numbers are always between zero and one, 
-and belief is always less than or equal to plausibility.</p>
+and belief is always less than or equal to plausibility. </p>
 
 <p>The <em>belief</em> represents the weight of all evidence <strong>for</strong> Julie thinking we’re a barista, 
 and the <em>plausibility</em> is one minus the weight of all evidence <strong>against</strong> Julie thinking we’re a barista.</p>
@@ -369,7 +369,7 @@ This might suggest I’m <em>not</em> a barista. Let’s aribitrarily say this c
 We could then represent our certainty that Julie thinks I’m a barista using the interval [0.7,0.8].
 Note that there’s a little gap between these two numbers. this represents the ignorance in the situation.
 Let’s say I wasn’t wearing the uniform. The interval would then be [0.0,0.8] - there’s nothing to suggest
-I <em>am</em> a barista, but in the end there’s not that much evidence suggesting I’m not.</p>
+I <em>am</em> a barista, but in the end there’s not that much evidence suggesting I’m not. </p>
 
 <p>The larger the gap between belief and plausibility, the more <em>ignorant</em> we are of the truth of the hypothesis in question. 
 The closer the center of the gap is to 0.5, the more <em>ambiguous</em> the situation is (as there’s closer to being equal weight
@@ -415,7 +415,7 @@ uncomfortable subject. Am I correct?<br />
 <strong>GEORDI:</strong> Data, maybe you gave up too fast.<br />
 <strong>DATA:</strong> I do not understand.<br />
 <strong>GEORDI:</strong> When I said “just passing by” means “just passing by,” I didn’t really mean it.<br />
-<strong>DATA:</strong> My initial assumption was correct. You do wish to speak of your mother.</p>
+<strong>DATA:</strong> My initial assumption was correct. You do wish to speak of your mother.  </p>
 </blockquote>
 
 <p>What I’ve described here is the gist of the paper I presented at <a href="http://iberamia.webs.upv.es/iberamia2014/">IBERAMIA</a> last week. If you’re interested in delving into the details, you can find the full paper <a href="http://hrilab.tufts.edu/~twilliam/pubs/?p=williams2014dempster">here</a>. Since that paper was accepted, we’ve done a lot to advance this research project. Most importantly, we’ve (1) added the ability to <em>generate</em> ISAs (in addition to just understanding them), and (2) fully integrated our algorithms into our robot architecture, <a href="http://hrilab.tufts.edu/publications/schermerhornetal06aaaiworkshop.pdf">DIARC</a>. I’ll be presenting a paper on these and other advancements at one of the main AI conferences (<a href="http://www.aaai.org/Conferences/AAAI/aaai15.php">AAAI</a>) in late January.</p>
@@ -480,11 +480,11 @@ uncomfortable subject. Am I correct?<br />
   <h4>You might also enjoy <small class="pull-right">(<a href="http://williamstome.github.io//posts/">View all posts</a>)</small></h4>
     <ul>
     
+      <li><a href="http://williamstome.github.io//summer-2016-visiting-the-university-of-bremen-part-1/" title="Summer 2016: Visiting the University of Bremen">Summer 2016: Visiting the University of Bremen</a></li>
+    
       <li><a href="http://williamstome.github.io//love-and-sex-with-robots-a-retrospective-through-science-and-science-fiction/" title="Love and Sex With Robots: A Retrospective Through Science and Science Fiction">Love and Sex With Robots: A Retrospective Through Science and Science Fiction</a></li>
     
       <li><a href="http://williamstome.github.io//off-to-hri-2016/" title="Five Reasons Why I'm Excited for HRI 2016">Five Reasons Why I'm Excited for HRI 2016</a></li>
-    
-      <li><a href="http://williamstome.github.io//re-designing-an-introductory-ai-course-analysis/" title="(Re)designing an Introductory AI Course: Post-Semester Analysis">(Re)designing an Introductory AI Course: Post-Semester Analysis</a></li>
     
     </ul>
     <hr />
