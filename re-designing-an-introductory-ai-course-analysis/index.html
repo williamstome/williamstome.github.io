@@ -5,15 +5,15 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>Initial Thoughts on (Re)designing an Introductory AI Course &#8211; williamstome</title>
-<meta name="description" content="A month or so ago, I was accepted to the Tufts GIFT (Graduate Institute for Teaching) program">
+<title>(Re)designing an Introductory AI Course: Post-Semester Analysis &#8211; williamstome</title>
+<meta name="description" content="IN WHICH I compare my planned AI course to reality.">
 <meta name="keywords" content="ai, teaching, pedagogy">
 
 
 
 <!-- Twitter Cards -->
-<meta name="twitter:title" content="Initial Thoughts on (Re)designing an Introductory AI Course">
-<meta name="twitter:description" content="A month or so ago, I was accepted to the Tufts GIFT (Graduate Institute for Teaching) program">
+<meta name="twitter:title" content="(Re)designing an Introductory AI Course: Post-Semester Analysis">
+<meta name="twitter:description" content="IN WHICH I compare my planned AI course to reality.">
 <meta name="twitter:site" content="@williamstome">
 <meta name="twitter:creator" content="@williamstome">
 
@@ -23,16 +23,16 @@
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Initial Thoughts on (Re)designing an Introductory AI Course">
-<meta property="og:description" content="A month or so ago, I was accepted to the Tufts GIFT (Graduate Institute for Teaching) program">
-<meta property="og:url" content="http://williamstome.github.io//initial-thoughts-on-re-designing-an-introductory-ai-course/">
+<meta property="og:title" content="(Re)designing an Introductory AI Course: Post-Semester Analysis">
+<meta property="og:description" content="IN WHICH I compare my planned AI course to reality.">
+<meta property="og:url" content="http://williamstome.github.io//re-designing-an-introductory-ai-course-analysis/">
 <meta property="og:site_name" content="williamstome">
 
 
 
 
 
-<link rel="canonical" href="http://williamstome.github.io//initial-thoughts-on-re-designing-an-introductory-ai-course/">
+<link rel="canonical" href="http://williamstome.github.io//re-designing-an-introductory-ai-course-analysis/">
 <link href="http://williamstome.github.io//feed.xml" type="application/atom+xml" rel="alternate" title="williamstome Feed">
 <link rel="author" href="http://plus.google.com/+112738925898757865574?rel=author">
 
@@ -116,7 +116,7 @@
     
       "http://williamstome.github.io//images/features/AIMA.png"
     
-  alt="Initial Thoughts on (Re)designing an Introductory AI Course feature image">
+  alt="(Re)designing an Introductory AI Course: Post-Semester Analysis feature image">
   
     <span class="image-credit">Photo Credit: <a href="">Artificial Intelligence- A Modern Approach</a></span>
   
@@ -157,7 +157,7 @@
   <article class="post">
     <div class="headline-wrap">
       
-        <h1><a href="http://williamstome.github.io//initial-thoughts-on-re-designing-an-introductory-ai-course/" rel="bookmark" title="Initial Thoughts on (Re)designing an Introductory AI Course">Initial Thoughts on (Re)designing an Introductory AI Course</a></h1>
+        <h1><a href="http://williamstome.github.io//re-designing-an-introductory-ai-course-analysis/" rel="bookmark" title="(Re)designing an Introductory AI Course: Post-Semester Analysis">(Re)designing an Introductory AI Course: Post-Semester Analysis</a></h1>
       
     </div><!--/ .headline-wrap -->
     <style media="screen" type="text/css" >
@@ -218,87 +218,15 @@
 </div>
 
     <div class="article-wrap">
-      <p>A month or so ago, I was accepted to the Tufts GIFT (Graduate
-Institute for Teaching) program, which is comprised of (1) a
-<em>learning</em> portion in which I’ll spend three weeks taking classes on
-teaching pedagogy, (2) a <em>design</em> portion, in which I’ll be
-working with Professor Anselm Blumer to redesign portions of Tufts’
-“Introduction to Artificial Intelligence” course, and (3) a <em>teaching</em>
-portion, in which I’ll teach some number of lectures (I’m hoping
-eight) for the redesigned course.</p>
-
-<p>While I haven’t yet undergone the <em>learning</em> portion yet, I’ve been
-eager to start brainstorming how I might change the class. 
-One complaint many (including myself) have with how the course is
-currently structured is that it is has very little of what would be
-considered “Modern” AI. In fact, 40% of the class is focused on logic,
-which, as I’ll show later, is quite a lot. This led me to formulate
-my first goal:</p>
-
-<blockquote>
-  <p><em>Classical</em> and <em>Modern</em> AI should be given approximately equal
-weight.</p>
-</blockquote>
-
-<p>Another complaint many (including myself) have with how the course is
-currently structured is that the course currently seems to just follow
-the progression of the textbook, chapter by chapter, without
-sufficient motivation for each new topic. This led me to
-formulate my second goal:</p>
-
-<blockquote>
-  <p>Each topic should build off the previous topic in some meaningful
-way. When discussing each new topic, students should have to consider
-how it compares to the previous topics studied.</p>
-</blockquote>
-
-<p>By thinking about the course in light of these two goals, I
-realized that the course material could be nicely organized in the
-following way:</p>
-
-<ul>
-  <li>First, there are a set of foundational topics (e.g., <em>Search</em> and <em>Constraint Satisfaction</em>) that (I believe) sit outside of the Classical/Modern divide</li>
-  <li>Second, all the topics I’d like to cover in Classical and Modern AI can be categorized as knowledge representation, inference, or decision making.</li>
-</ul>
-
-<table rules="groups">
-  <thead>
-    <tr>
-      <th style="text-align: left"> </th>
-      <th style="text-align: left">Classical AI</th>
-      <th style="text-align: left">Modern AI</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: left">Knowledge Representation</td>
-      <td style="text-align: left">First order Logic, Ontologies</td>
-      <td style="text-align: left">Bayes Nets and Markov Models</td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td style="text-align: left">Inference</td>
-      <td style="text-align: left">First order Logical Inference</td>
-      <td style="text-align: left">Exact and Approximate Inference</td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td style="text-align: left">Decision Making</td>
-      <td style="text-align: left">Classical Planning</td>
-      <td style="text-align: left">Utility Theory and Markov Decision Processes</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>By adding seven classes to the schedule on modern inference and decision
-making, cutting six classes on classical knowledge representation
-and decision making, and cutting a single class on Foundations, I
-constructed the following schedule, which achieves my two goals. I’m
-especially excited about the lesson on 
-<a href="http://homes.cs.washington.edu/~pedrod/papers/mlj05.pdf">Markov Logic Nets</a>, 
-a topic which beautifully ties together Classical and Modern AI.</p>
+      <p>In the Fall of 2015, I was given the opportunity to co-teach Tufts’
+Artificial Intelligence class, through Tufts GIFT (Graduate 
+Institute for Teaching) program. As I described in
+<a href="http://williamstome.github.io//initial-thoughts-on-re-designing-an-introductory-ai-course/">this pre-class blog post</a>,
+I took the opportunity to re-design the 
+class in order to include more topics from “Modern” (i.e.,
+probabilistic AI). As described in that blog post, I had grand plans,
+but had no idea to what extent I’d be able to implement them. 
+Let’s look at how Tom’s grand plan worked out!</p>
 
 <table rules="groups">
   <thead>
@@ -307,14 +235,16 @@ a topic which beautifully ties together Classical and Modern AI.</p>
       <th style="text-align: left">Topic</th>
       <th style="text-align: left">Subtopic</th>
       <th style="text-align: left">Old</th>
-      <th style="text-align: left">New</th>
+      <th style="text-align: left">Planned</th>
+      <th style="text-align: left">Actual</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: left">Foundations -1</td>
+      <td style="text-align: left">Foundations</td>
       <td style="text-align: left">Intro</td>
       <td style="text-align: left">Introduction</td>
+      <td style="text-align: left">1-2</td>
       <td style="text-align: left">1-2</td>
       <td style="text-align: left">1-2</td>
     </tr>
@@ -324,11 +254,13 @@ a topic which beautifully ties together Classical and Modern AI.</p>
       <td style="text-align: left">Uninformed Search</td>
       <td style="text-align: left">3</td>
       <td style="text-align: left">3</td>
+      <td style="text-align: left">3</td>
     </tr>
     <tr>
       <td style="text-align: left">Foundations</td>
       <td style="text-align: left">Search</td>
       <td style="text-align: left">Heuristic Search</td>
+      <td style="text-align: left">4</td>
       <td style="text-align: left">4</td>
       <td style="text-align: left">4</td>
     </tr>
@@ -338,6 +270,7 @@ a topic which beautifully ties together Classical and Modern AI.</p>
       <td style="text-align: left">Local Search</td>
       <td style="text-align: left">4</td>
       <td style="text-align: left">5</td>
+      <td style="text-align: left">5</td>
     </tr>
     <tr>
       <td style="text-align: left">Foundations</td>
@@ -345,12 +278,14 @@ a topic which beautifully ties together Classical and Modern AI.</p>
       <td style="text-align: left">ND Actions</td>
       <td style="text-align: left">5</td>
       <td style="text-align: left">6</td>
+      <td style="text-align: left">10</td>
     </tr>
     <tr>
       <td style="text-align: left">Foundations</td>
-      <td style="text-align: left">Search -1</td>
+      <td style="text-align: left">Search</td>
       <td style="text-align: left">Partial Observations</td>
       <td style="text-align: left">6</td>
+      <td style="text-align: left">-</td>
       <td style="text-align: left">-</td>
     </tr>
     <tr>
@@ -359,6 +294,7 @@ a topic which beautifully ties together Classical and Modern AI.</p>
       <td style="text-align: left">CSPs</td>
       <td style="text-align: left">9</td>
       <td style="text-align: left">7</td>
+      <td style="text-align: left">6</td>
     </tr>
     <tr>
       <td style="text-align: left">Foundations</td>
@@ -366,6 +302,7 @@ a topic which beautifully ties together Classical and Modern AI.</p>
       <td style="text-align: left">Constraint Prop</td>
       <td style="text-align: left">10</td>
       <td style="text-align: left">8</td>
+      <td style="text-align: left">7</td>
     </tr>
     <tr>
       <td style="text-align: left">Foundations</td>
@@ -373,15 +310,17 @@ a topic which beautifully ties together Classical and Modern AI.</p>
       <td style="text-align: left">Adversarial Search</td>
       <td style="text-align: left">7</td>
       <td style="text-align: left">9</td>
+      <td style="text-align: left">9</td>
     </tr>
   </tbody>
   <tbody>
     <tr>
-      <td style="text-align: left">Classical AI -6</td>
-      <td style="text-align: left">KR -5</td>
+      <td style="text-align: left">Classical AI</td>
+      <td style="text-align: left">KR</td>
       <td style="text-align: left">FOL</td>
       <td style="text-align: left">11-15,17</td>
       <td style="text-align: left">10</td>
+      <td style="text-align: left">11</td>
     </tr>
     <tr>
       <td style="text-align: left">Classical AI</td>
@@ -389,6 +328,7 @@ a topic which beautifully ties together Classical and Modern AI.</p>
       <td style="text-align: left">FOL</td>
       <td style="text-align: left">16</td>
       <td style="text-align: left">11</td>
+      <td style="text-align: left">12</td>
     </tr>
     <tr>
       <td style="text-align: left">Classical AI</td>
@@ -396,6 +336,7 @@ a topic which beautifully ties together Classical and Modern AI.</p>
       <td style="text-align: left">FOL Inf</td>
       <td style="text-align: left">18</td>
       <td style="text-align: left">12</td>
+      <td style="text-align: left">13</td>
     </tr>
     <tr>
       <td style="text-align: left">Classical AI</td>
@@ -403,6 +344,7 @@ a topic which beautifully ties together Classical and Modern AI.</p>
       <td style="text-align: left">FOL Inf</td>
       <td style="text-align: left">19</td>
       <td style="text-align: left">13</td>
+      <td style="text-align: left">14</td>
     </tr>
     <tr>
       <td style="text-align: left">Classical AI</td>
@@ -410,13 +352,15 @@ a topic which beautifully ties together Classical and Modern AI.</p>
       <td style="text-align: left">Ontologies</td>
       <td style="text-align: left">24</td>
       <td style="text-align: left">14</td>
+      <td style="text-align: left">15</td>
     </tr>
     <tr>
       <td style="text-align: left">Classical AI</td>
-      <td style="text-align: left">DM -1</td>
+      <td style="text-align: left">DM</td>
       <td style="text-align: left">Classical Planning</td>
       <td style="text-align: left">20-22</td>
       <td style="text-align: left">15</td>
+      <td style="text-align: left">16</td>
     </tr>
     <tr>
       <td style="text-align: left">Classical AI</td>
@@ -424,6 +368,7 @@ a topic which beautifully ties together Classical and Modern AI.</p>
       <td style="text-align: left">Hierarchical Planning</td>
       <td style="text-align: left">-</td>
       <td style="text-align: left">16</td>
+      <td style="text-align: left">24</td>
     </tr>
     <tr>
       <td style="text-align: left">Classical AI</td>
@@ -431,15 +376,17 @@ a topic which beautifully ties together Classical and Modern AI.</p>
       <td style="text-align: left">Other Planning Topics</td>
       <td style="text-align: left">23</td>
       <td style="text-align: left">17</td>
+      <td style="text-align: left">20,22</td>
     </tr>
   </tbody>
   <tbody>
     <tr>
-      <td style="text-align: left">Modern AI +7</td>
-      <td style="text-align: left">KR  +1</td>
+      <td style="text-align: left">Modern AI</td>
+      <td style="text-align: left">KR</td>
       <td style="text-align: left">Back to Bayesics</td>
       <td style="text-align: left">25</td>
       <td style="text-align: left">18</td>
+      <td style="text-align: left">8</td>
     </tr>
     <tr>
       <td style="text-align: left">Modern AI</td>
@@ -447,19 +394,22 @@ a topic which beautifully ties together Classical and Modern AI.</p>
       <td style="text-align: left">Bayes Nets</td>
       <td style="text-align: left">26</td>
       <td style="text-align: left">19</td>
+      <td style="text-align: left">17</td>
     </tr>
     <tr>
       <td style="text-align: left">Modern AI</td>
-      <td style="text-align: left">Inf +3</td>
+      <td style="text-align: left">Inf</td>
       <td style="text-align: left">Exact Inference</td>
       <td style="text-align: left">-</td>
       <td style="text-align: left">20</td>
+      <td style="text-align: left">18-19</td>
     </tr>
     <tr>
       <td style="text-align: left">Modern AI</td>
       <td style="text-align: left">Inf</td>
       <td style="text-align: left">Approx. Inference</td>
       <td style="text-align: left">-</td>
+      <td style="text-align: left">21</td>
       <td style="text-align: left">21</td>
     </tr>
     <tr>
@@ -468,6 +418,7 @@ a topic which beautifully ties together Classical and Modern AI.</p>
       <td style="text-align: left">MCs and HMMs</td>
       <td style="text-align: left">-</td>
       <td style="text-align: left">22</td>
+      <td style="text-align: left">(21)</td>
     </tr>
     <tr>
       <td style="text-align: left">Modern AI</td>
@@ -475,19 +426,22 @@ a topic which beautifully ties together Classical and Modern AI.</p>
       <td style="text-align: left">Markov (Logic) Nets</td>
       <td style="text-align: left">-</td>
       <td style="text-align: left">23</td>
+      <td style="text-align: left">23</td>
     </tr>
     <tr>
       <td style="text-align: left">Modern AI</td>
-      <td style="text-align: left">DM +3</td>
+      <td style="text-align: left">DM</td>
       <td style="text-align: left">Utility Theory</td>
       <td style="text-align: left">-</td>
       <td style="text-align: left">24</td>
+      <td style="text-align: left">(8)</td>
     </tr>
     <tr>
       <td style="text-align: left">Modern AI</td>
       <td style="text-align: left">DM</td>
       <td style="text-align: left">MDPs</td>
       <td style="text-align: left">-</td>
+      <td style="text-align: left">25</td>
       <td style="text-align: left">25</td>
     </tr>
     <tr>
@@ -496,218 +450,92 @@ a topic which beautifully ties together Classical and Modern AI.</p>
       <td style="text-align: left">POMDPs</td>
       <td style="text-align: left">-</td>
       <td style="text-align: left">26</td>
+      <td style="text-align: left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Modern AI</td>
+      <td style="text-align: left">DM</td>
+      <td style="text-align: left">Factored MDPs</td>
+      <td style="text-align: left">-</td>
+      <td style="text-align: left">-</td>
+      <td style="text-align: left">26</td>
     </tr>
   </tbody>
 </table>
 
-<h2 id="comparison-to-other-schools">Comparison to Other Schools</h2>
+<h2 id="outcome">Outcome</h2>
 
-<p>The first question you might ask is whether my proposed cuts are
-justified. To examine this, I looked at a random sampling of
-universities whose syllabi I could easily find, and looked at the
-percentage of the semester each university spent on Foundations
-(Search and CSPs), Classical AI (Planning and Logic), and
-Modern AI (Probabilistic Graphical Models and Markov Decision Processes).</p>
+<p>Two things should immediately stand out by comparing the last three
+columns of the chart above.</p>
 
-<table rules="groups">
-  <thead>
-    <tr>
-      <th style="text-align: left">University</th>
-      <th style="text-align: left">Total Lectures</th>
-      <th style="text-align: left">Search</th>
-      <th style="text-align: left">CSPs</th>
-      <th style="text-align: left">Planning</th>
-      <th style="text-align: left">Logic</th>
-      <th style="text-align: left">PGMs</th>
-      <th style="text-align: left">MDPs</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: left">Dartmouth</td>
-      <td style="text-align: left">27</td>
-      <td style="text-align: left">0.19</td>
-      <td style="text-align: left">0.07</td>
-      <td style="text-align: left">0</td>
-      <td style="text-align: left">0.22</td>
-      <td style="text-align: left">0.30</td>
-      <td style="text-align: left">0</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">MIT</td>
-      <td style="text-align: left">23</td>
-      <td style="text-align: left">0.13</td>
-      <td style="text-align: left">0.13</td>
-      <td style="text-align: left">0</td>
-      <td style="text-align: left">0</td>
-      <td style="text-align: left">0.09</td>
-      <td style="text-align: left">0</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Stanford</td>
-      <td style="text-align: left">20</td>
-      <td style="text-align: left">0.15</td>
-      <td style="text-align: left">0.1</td>
-      <td style="text-align: left">0</td>
-      <td style="text-align: left">0.15</td>
-      <td style="text-align: left">0.15</td>
-      <td style="text-align: left">0.05</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">OSU</td>
-      <td style="text-align: left">31</td>
-      <td style="text-align: left">0.06</td>
-      <td style="text-align: left">0</td>
-      <td style="text-align: left">0</td>
-      <td style="text-align: left">0.06</td>
-      <td style="text-align: left">0.26</td>
-      <td style="text-align: left">0</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">WPI</td>
-      <td style="text-align: left">26</td>
-      <td style="text-align: left">0.08</td>
-      <td style="text-align: left">0.04</td>
-      <td style="text-align: left">0.04</td>
-      <td style="text-align: left">0.04</td>
-      <td style="text-align: left">0.19</td>
-      <td style="text-align: left">0.04</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">U of Maine</td>
-      <td style="text-align: left">28</td>
-      <td style="text-align: left">0.21</td>
-      <td style="text-align: left">0.04</td>
-      <td style="text-align: left">0.14</td>
-      <td style="text-align: left">0.21</td>
-      <td style="text-align: left">0.07</td>
-      <td style="text-align: left">0</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Northeastern</td>
-      <td style="text-align: left">29</td>
-      <td style="text-align: left">0.10</td>
-      <td style="text-align: left">0.03</td>
-      <td style="text-align: left">0.03</td>
-      <td style="text-align: left">0.14</td>
-      <td style="text-align: left">0</td>
-      <td style="text-align: left">0</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Columbia</td>
-      <td style="text-align: left">24</td>
-      <td style="text-align: left">0.21</td>
-      <td style="text-align: left">0.04</td>
-      <td style="text-align: left">0.08</td>
-      <td style="text-align: left">0.25</td>
-      <td style="text-align: left">0.13</td>
-      <td style="text-align: left">0</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Berkeley</td>
-      <td style="text-align: left">28</td>
-      <td style="text-align: left">0.11</td>
-      <td style="text-align: left">0.07</td>
-      <td style="text-align: left">0</td>
-      <td style="text-align: left">0</td>
-      <td style="text-align: left">0.29</td>
-      <td style="text-align: left">0.04</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Georgia Tech</td>
-      <td style="text-align: left">32</td>
-      <td style="text-align: left">0.13</td>
-      <td style="text-align: left">0.03</td>
-      <td style="text-align: left">0.06</td>
-      <td style="text-align: left">0.03</td>
-      <td style="text-align: left">0.13</td>
-      <td style="text-align: left">0.06</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">CMU</td>
-      <td style="text-align: left">23</td>
-      <td style="text-align: left">0.04</td>
-      <td style="text-align: left">0.0</td>
-      <td style="text-align: left">0.04</td>
-      <td style="text-align: left">0</td>
-      <td style="text-align: left">0.22</td>
-      <td style="text-align: left">0.09</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">U Washington</td>
-      <td style="text-align: left">27</td>
-      <td style="text-align: left">0.22</td>
-      <td style="text-align: left">0</td>
-      <td style="text-align: left">0</td>
-      <td style="text-align: left">0.04</td>
-      <td style="text-align: left">0.37</td>
-      <td style="text-align: left">0.07</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Cornell</td>
-      <td style="text-align: left">16</td>
-      <td style="text-align: left">0.31</td>
-      <td style="text-align: left">0</td>
-      <td style="text-align: left">0</td>
-      <td style="text-align: left">0.125</td>
-      <td style="text-align: left">0</td>
-      <td style="text-align: left">0</td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td style="text-align: left">AVG</td>
-      <td style="text-align: left">~26</td>
-      <td style="text-align: left">0.15</td>
-      <td style="text-align: left">0.05</td>
-      <td style="text-align: left">0.03</td>
-      <td style="text-align: left">0.10</td>
-      <td style="text-align: left">0.17</td>
-      <td style="text-align: left">0.03</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Tufts (Proposed)</td>
-      <td style="text-align: left">26</td>
-      <td style="text-align: left">0.19</td>
-      <td style="text-align: left">0.08</td>
-      <td style="text-align: left">0.12</td>
-      <td style="text-align: left">0.19</td>
-      <td style="text-align: left">0.23</td>
-      <td style="text-align: left">0.08</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Tufts (Current)</td>
-      <td style="text-align: left">26</td>
-      <td style="text-align: left">0.23</td>
-      <td style="text-align: left">0.08</td>
-      <td style="text-align: left">0.15</td>
-      <td style="text-align: left">0.38</td>
-      <td style="text-align: left">0.08</td>
-      <td style="text-align: left">0</td>
-    </tr>
-  </tbody>
-</table>
+<p>First, I was successful in convincing my co-instructor, Prof. Anselm
+Blumer, to shift most of the sessions on Logic to topics from Modern
+AI. This was a big surprise for me, as I initially had no idea whether
+or not he’d be receptive to such a major shift. We ended up dropping
+HMMs and POMDPs and picking up Factored MDPs, but otherwise the topics
+covered were just what I’d hoped for.</p>
 
-<p>This showed that Tufts currently spends slightly more time than
-average on Foundations, <strong>four times as much time</strong> on Classical AI,
-and 40% as much time on Modern AI. You’ll notice that percentages for
-most schools falls far short of 100%. This is mainly because most
-other schools spend a portion of their AI class on <em>Machine Learning</em>,
-another facet of Modern AI, which we’re explicitly looking to avoid
-since we have an entire course devoted to the basics of Machine
-Learning. I think it’d be fair to say that we thus spend closer to
-20% as much time as other schools on Modern AI once Machine Learning
-is taken into account.</p>
+<p>Second, though, you’ll notice that the actual class schedule jumped
+around <strong>a lot</strong>. For example, the last section of the course (16-26)
+went: <strong>Planning</strong>, Bayes Nets, Bayesian Inference, Bayesian Inference,
+<strong>Planning</strong>, Bayesian Inference, <strong>Planning</strong>, Markov Logic,
+<strong>Planning</strong>, MDPs, MDPs.</p>
 
-<h2 id="outlook">Outlook</h2>
+<p>This was the product of my <strong>planned</strong> schedule (ba-dum-psh) rubbing
+up against my <strong>actual</strong> schedule. Before the semester started, Anselm
+and I worked out a rough schedule for the course, and which classes
+I’d be teaching (I specifically wanted to teach CSPs, Bayes Nets, and Approximate
+Inference (because I had specific in class exercises in mind), and
+Markov Logic and Factored MDPs (because these are fairly new topics I
+wanted to season the main course with (more puns! (nested
+parentheses!)))).
+However, once the semester actually started, several wrenches were
+quickly thrown into the mix.</p>
 
-<p>How much I’ll actually be able to modify the course syllabus is still
-up in the air, but I’m hoping I’ll be able to bring it significantly closer
-to my ideal. I’m guessing that MDPs, POMDPs, HMMs and Hierarchical
-planning might get the axe in order to add back some of my cuts to the
-(egregiously long, in my opinion) section on First Order Logic. Only
-time will tell. As this syllabus evolves I’ll post regular
-updates. And, as always, I’d welcome feedback on this course layout.</p>
+<h2 id="best-laid-plans">Best Laid Plans</h2>
+
+<p>First, I got papers accepted to several
+conferences. While this was a good thing for my research progress, it
+meant that I would no longer be at Tufts at the time I was supposed to
+teach two of my sessions. To avoid changing what sessions I’d be
+teaching, we had to get creative with the schedule. This involved many
+small schedule shuffles, such as
+putting <em>searching with non-deterministic actions</em> off for <em>a month</em>
+in order to shift things back a week.</p>
+
+<p>Second, to get students ready for the modern AI section, we decided to
+combine the lectures on Bayes’ Theorem and Utility Theory, and move
+them earlier into the course as a sort of “preview for things to come”.</p>
+
+<p>Finally, of course, things just didn’t time out exactly as we
+expected. Some topics took more time than expected, some took less. In
+order to stay on the safe side, advanced planning topics got put off
+for a bit, and then, as discussed, ended up getting peppered in
+between my other lectures, whose dates were set in stone to accommodate
+my conference travels. It was a whirlwind.</p>
+
+<h2 id="conclusions">Conclusions…</h2>
+
+<p>My first time teaching was certainly a learning experience. If it
+weren’t for the fact that I was scheduled to teach very specific
+sessions of the class, the schedule would certainly have been saner;
+presumably it will be <em>much</em> saner when I end up teaching the course
+by myself at some other university, on my schedule alone.</p>
+
+<p>Schedule notwithstanding, however, the semester was incredibly
+rewarding. I had an absolute blast, and my students seemed to enjoy it
+too. I ended up getting an average rating of 4.63 out of 5.0 on my teaching
+evaluations, whatever that means, and one student wrote the following,
+which made me pretty proud:</p>
+
+<p>“I have never
+had someone put such a visible effort into each lecture and I really
+appreciated seeing all the time and hard work Tom put into making sure
+we had the best learning experience possible.”</p>
+
+<p>Of course, my students were <em>significantly</em> less positive about some
+of the homework assignments I designed. But that’s a story for another
+blog post…</p>
 
       <hr />
       <footer role="contentinfo">
@@ -745,17 +573,17 @@ updates. And, as always, I’d welcome feedback on this course layout.</p>
   <h4>Share on</h4>
   <ul>
     <li>
-      <a href="https://twitter.com/intent/tweet?text=http://williamstome.github.io//initial-thoughts-on-re-designing-an-introductory-ai-course/" class="twitter" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
+      <a href="https://twitter.com/intent/tweet?text=http://williamstome.github.io//re-designing-an-introductory-ai-course-analysis/" class="twitter" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
     </li>
     <li>
-      <a href="https://www.facebook.com/sharer/sharer.php?u=http://williamstome.github.io//initial-thoughts-on-re-designing-an-introductory-ai-course/" class="facebook" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=http://williamstome.github.io//re-designing-an-introductory-ai-course-analysis/" class="facebook" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
     </li>
     <li>
-      <a href="https://plus.google.com/share?url=http://williamstome.github.io//initial-thoughts-on-re-designing-an-introductory-ai-course/" class="google-plus" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
+      <a href="https://plus.google.com/share?url=http://williamstome.github.io//re-designing-an-introductory-ai-course-analysis/" class="google-plus" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
     </li>
   </ul>
 </div><!-- /.social-share -->
-        <p class="byline"><strong>Initial Thoughts on (Re)designing an Introductory AI Course</strong> was published on <time datetime="2015-05-07T00:00:00-04:00">May 07, 2015</time> and last modified on <time datetime="2015-05-07">May 07, 2015</time>.</p>
+        <p class="byline"><strong>(Re)designing an Introductory AI Course: Post-Semester Analysis</strong> was published on <time datetime="2016-02-05T00:00:00-05:00">February 05, 2016</time> and last modified on <time datetime="2016-02-05">February 05, 2016</time>.</p>
       </footer>
     </div><!-- /.article-wrap -->
   
@@ -773,7 +601,7 @@ updates. And, as always, I’d welcome feedback on this course layout.</p>
     
       <li><a href="http://williamstome.github.io//off-to-hri-2016/" title="Five Reasons Why I'm Excited for HRI 2016">Five Reasons Why I'm Excited for HRI 2016</a></li>
     
-      <li><a href="http://williamstome.github.io//re-designing-an-introductory-ai-course-analysis/" title="(Re)designing an Introductory AI Course: Post-Semester Analysis">(Re)designing an Introductory AI Course: Post-Semester Analysis</a></li>
+      <li><a href="http://williamstome.github.io//the-five-stages-of-grief-an-hri-lab-christmas-carol/" title="The Five Stages of Grief: An HRI Lab Christmas Carol">The Five Stages of Grief: An HRI Lab Christmas Carol</a></li>
     
     </ul>
     <hr />

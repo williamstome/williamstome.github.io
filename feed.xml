@@ -4,13 +4,929 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://williamstome.github.io//feed.xml" />
 <link rel="alternate" type="text/html" href="http://williamstome.github.io/" />
-<updated>2015-10-14T22:14:38-04:00</updated>
+<updated>2016-03-21T10:17:11-04:00</updated>
 <id>http://williamstome.github.io//</id>
 <author>
   <name>Tom Williams</name>
   <uri>http://williamstome.github.io//</uri>
   <email>williams@cs.tufts.edu</email>
 </author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Love and Sex With Robots: A Retrospective Through Science and Science Fiction]]></title>
+  <link rel="alternate" type="text/html" href="http://williamstome.github.io//love-and-sex-with-robots-a-retrospective-through-science-and-science-fiction/" />
+  <id>http://williamstome.github.io//love-and-sex-with-robots-a-retrospective-through-science-and-science-fiction</id>
+  <updated>2016-03-20T00:00:00-00:00</updated>
+  <published>2016-03-20T00:00:00-04:00</published>
+  
+  <author>
+    <name>Tom Williams</name>
+    <uri>http://williamstome.github.io/</uri>
+    <email>williams@cs.tufts.edu</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;strong&gt;&amp;lt;Disclaimer&amp;gt; All contents of this blog post are, as usual, my
+thoughts alone, and don’t reflect the views of my lab, advisor,
+university, or funding agencies. &amp;lt;/Disclaimer&amp;gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In his 2007 book &lt;em&gt;Love and Sex with Robots&lt;/em&gt;, David Levy paints a
+picture of a world in which romantic and sexual relations with robots
+are not only possible, but commonplace, and argues that such a future
+is not only possible, but inevitable.&lt;/p&gt;
+
+&lt;p&gt;In this blog post, I’ll provide some of my thoughts on Levy’s book,
+and provide some commentary from recent science and science
+fiction on the issues Levy raises (or fails to raise). While robot
+ethics is of great interest to me, and a topic my lab actively
+researches, it’s not one I myself have published on, which is to say, 
+I’m new to the topic and am eager to hear counter-arguments to any of
+the positions I take!&lt;/p&gt;
+
+&lt;p&gt;Levy’s book is broken into two main sections, regarding love and sex
+respectively. I’ll deal with each section separately. (Before these
+sections, however, appears a 25-page introduction which deserves
+mention. In this short section, Levy presents an excellent
+introduction to Human-Robot Interaction and Social Robotics. Highly
+recommended for those interested but uninitiated in HRI.)&lt;/p&gt;
+
+&lt;h1 id=&quot;love&quot;&gt;Love&lt;/h1&gt;
+&lt;p&gt;To argue for the inevitability of human-robot love, Levy begins by
+discussing why humans love each other. From this, he draws parallels
+to the love humans feel for their pets, to the love humans feel for
+virtual pets. From this point, it’s not hard to extrapolate further
+and see that if we create humanoid robots that provide the same
+social cues that produce feelings of attachment towards each
+other, pets, etc., then humans will almost certainly fall in love with
+them. 
+While Levy lays this out logically, I do take issue with two aspects
+of his account.&lt;/p&gt;
+
+&lt;p&gt;First, Levy is far too optimistic about
+the technical developments necessary for his vision to occur. Levy
+breezes through a rash of technical challenges, dismissing them as
+easy to solve and right around the corner. If Levy had simply stated
+that such things were &lt;em&gt;in theory&lt;/em&gt; possible, without the undue
+futurism, his argument would have been much more convincing.&lt;/p&gt;
+
+&lt;p&gt;Second, Levy describes human-robot love as broadly positive and
+therapeutic, suggesting that within a few decades, human-robot
+marriages will be commonplace. While I think it’s interesting to
+deconstruct marriage in this way, and to ponder whether the right to
+choose one’s life partner (arguably the whole point of marriage)
+translates logically to humans marrying robots, it’s important to
+recognize that just because this &lt;em&gt;could&lt;/em&gt; happen does not mean, as Levy
+seems to assume, that it &lt;em&gt;should&lt;/em&gt; happen. In fact, some researchers
+have argued that the entire notion of human emotional attachment to
+robots is deeply problematic.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-science-of-human-robot-love&quot;&gt;The Science of Human-Robot Love&lt;/h2&gt;
+
+&lt;p&gt;One outspoken critic of social robots is my advisor, Matthias
+Scheutz. In his 2011 chapter of
+&lt;a href=&quot;http://www.amazon.com/Robot-Ethics-Implications-Intelligent-Autonomous/dp/026252600X&quot;&gt;“Robot Ethics”&lt;/a&gt;,
+entitled &lt;em&gt;The Inherent Dangers of Unidirectional 
+Emotional Bonds between Humans and Social Robots&lt;/em&gt;, Scheutz argues that
+social robots may inflict &lt;em&gt;emotional harm&lt;/em&gt; on their users.
+People are incredibly quick to ascribe agency and mental states to
+robots as if they were alive, allowing robots to affect people in the
+same way that their pets do. This causes people to treat robots
+much differently than they would other pieces of technology. If you have a good
+dishwasher, it’s unlikely you’ll give it the occasional “night off”
+and wash the dishes by hand as a reward for good behavior; but there
+have been reports of people doing just that for their
+Roombas (more crazy stories
+&lt;a href=&quot;http://www.cc.gatech.edu/~beki/c35.pdf&quot;&gt;here&lt;/a&gt;). Imagine what people
+will do for robots that look humanoid, or can speak in natural language!&lt;/p&gt;
+
+&lt;p&gt;This is the root of the danger of social robots: it takes almost
+nothing for people to form “relationships” with their robots, but
+these are relationships that are not reciprocated; the robots do not
+necessarily care about humans at all! This presents a tremendous
+opportunity for mass exploitation: a robotics company could easily
+program their robot to convince owners to do things they would not
+otherwise do, like buy a particular product.&lt;/p&gt;
+
+&lt;p&gt;There are other concerns about these unidirectional relationships
+beyond their potential for abuse. Philosopher Robert Sparrow
+&lt;a href=&quot;https://www.cs.cmu.edu/~social/reading/Sparrow1.pdf&quot;&gt;argues&lt;/a&gt;
+that robot pets are in and of themselves dangerous and
+unethical. Sparrow argues that robot pets are grounded in deception
+and that in order to benefit from a robot pet, one must
+“systematically delude themselves 
+regarding the real nature of their relation with the animal,” an act
+which he deems “morally deplorable.”&lt;/p&gt;
+
+&lt;p&gt;Sparrow goes on to argue that this gap in reality will be even more
+pronounced in the case of humanoid robots, as such robots will be even
+more likely to provoke feelings such as love and respect, which, when
+based on illusion, would once again be “morally deplorable.” Says
+Sparrow, “It would be wrong to design android
+robots with the intention of generating such responses.”&lt;/p&gt;
+
+&lt;p&gt;While I agree that this is an important and dangerous point in the
+case of robots that are humanlike and/or have natural language
+capabilities, I have trouble viewing this as truly problematic for
+non-humanoid, non-verbal entities.&lt;/p&gt;
+
+&lt;p&gt;Sparrow argues that relationships with “real” pets are not morally
+deplorable because animals can have experiences, are moral patients
+who we can treat with compassion, etc. This may be true, but pet
+owners systematically delude themselves about certain aspects of their
+pets’ behaviors and mental states. Recent research has suggested that
+&lt;a href=&quot;http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0135109#sec001&quot;&gt;cats don’t rely on their owners for safety and
+security&lt;/a&gt;,
+that &lt;a href=&quot;http://www.nrcresearchpress.com/doi/abs/10.1139/z94-147#.Vu6fTh-c3on&quot;&gt;cats rubbing up against people may just be them marking their
+territory&lt;/a&gt;,
+and that
+&lt;a href=&quot;http://www.scientificamerican.com/article/why-do-cats-purr/&quot;&gt;even purring may be more of a self-therapeutic mechanism&lt;/a&gt;
+or a response to stress than an expression of happiness. Are relationships
+with cats harmful due to the imbalanced social bonds between cat and
+owner? (Side note: of course cats are harmful for other reasons, such
+as the fact that they infect people with a parasite that &lt;a href=&quot;http://schizophreniabulletin.oxfordjournals.org/content/21/2/167.abstract&quot;&gt;doubles one’s
+risk of schizophrenia&lt;/a&gt;.)
+If it’s okay to delude ourselves into thinking we have the love of our
+cats, let alone gerbils, fish, and lizards, then I have difficulty
+viewing (language-incapable) robot pets as being “morally deplorable”.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-science-fiction-of-human-robot-love&quot;&gt;The Science Fiction of Human-Robot Love&lt;/h2&gt;
+&lt;p&gt;A number of recent pieces of science fiction have also delved into the
+possible problems with human-robot love. 
+&lt;strong&gt;(Be prepared to skip this section if you want to avoid spoilers.)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;black-mirror&quot;&gt;Black Mirror&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/laswr/black-mirror.png&quot; alt=&quot;Be Right Back&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Perhaps the best example comes from &lt;em&gt;Be Right Back&lt;/em&gt;, Season 2 Episode 1 of the
+Channel 4 / Netflix show &lt;em&gt;Black Mirror&lt;/em&gt;. In that episode, a woman (Martha, played
+by Hayley Atwell) finds herself
+widowed, and is suggested an app to help her grieve: when provided
+with a loved one’s social media profile, the app will create a chatbot
+that talks just like the deceased. Given more data, the app becomes
+realistic. Martha uses the app, giving it more and more data (and
+money) to the point that they are able to send her a humanoid replica
+of her husband (Ash, played by Domhnall Gleeson). The show goes on to
+demonstrate the psychological harm 
+this inflicts upon Martha: because of the android, Martha does not
+move forward with her life, and instead keeps the robot around
+&lt;strong&gt;(possibly against her own wishes)&lt;/strong&gt; for years to come.
+The episode also shows how the android copy of
+Ash is able to coerce Martha into keeping it around.
+Because Martha chooses to devote her emotional
+energy to the android rather than seeking out relationships with other
+people the robot can be seen as an enabler for mental harm.&lt;/p&gt;
+
+&lt;h3 id=&quot;her&quot;&gt;Her&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/laswr/her.jpg&quot; alt=&quot;Her&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;In a similar vein, we have one of my favorite movies,
+&lt;em&gt;Her&lt;/em&gt;. Technically, &lt;em&gt;Her&lt;/em&gt; 
+focuses on love between a human (Theodore, played by Joaquin Phoenix)
+and an &lt;em&gt;artificially intelligent agent&lt;/em&gt; (Samantha, played by Scarlett
+Johansson). This
+leads to several scenarios which are harder to envision between a
+human and a robot, such as the possibility of an AI 
+falling deeply, truly, in love with hundreds or thousands of
+people simultaneously. In &lt;em&gt;Her&lt;/em&gt;, however, the problems of
+unidirectional social bonds 
+do not seem to manifest; because Samantha is such an incredibly
+sophisticated AI, one could argue that she really does love Theodore,
+and thus the social bonds between Samantha and Theodore are truly
+reciprocated. And yet, we see the same types of value judgments
+against this relationship. Theodore’s ex-wife, at least, views the
+relationship as unhealthy, and takes it as a sign that Theodore is
+simply not mature enough to handle a “real” relationship.&lt;/p&gt;
+
+&lt;p&gt;In both cases, the relationship with the artificial agent is shown as
+emotionally and psychologically damaging.
+I’ll be interested to see in a few decades whether this
+view will be taken as a legitimate concern or merely as
+prejudice against one’s choice of partner.&lt;/p&gt;
+
+&lt;h3 id=&quot;master-of-none&quot;&gt;Master of None&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://33.media.tumblr.com/96962aecee6cc03dfe9430e14849b1b8/tumblr_nxkbz966FX1qjcyqno1_500.gif&quot; alt=&quot;Paro&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;On a different note, we have &lt;em&gt;Old People&lt;/em&gt;, Season One, Episode Eight
+of Aziz Ansari’s hilarious Netflix show, &lt;em&gt;Master of None&lt;/em&gt;. The B-plot
+for the episode revolves around Paro the robot seal (which you can &lt;a href=&quot;http://www.parorobots.com/photogallery.asp&quot;&gt;buy
+for a cool 7k&lt;/a&gt;), a
+real-life therapy robot which provides companionship to the elderly. 
+In this episode, Paro is viewed extremely positively; and I have to
+agree with how it’s depicted. Yes, Paro may be damaging on some
+level because it cannot truly reciprocate the relationship. But
+neither can a fish or lizard, and Paro has been shown to effect real
+health benefits, both physically and mentally. From a utilitarian
+standpoint, I would argue that these benefits outweigh any negatives;
+and since Paro can only make adorable seal sounds, and cannot actually
+speak, there’s little risk of Paro coercing its owner into, e.g.,
+switching to Fix-a-Dent.&lt;/p&gt;
+
+&lt;h1 id=&quot;sex&quot;&gt;Sex&lt;/h1&gt;
+
+&lt;p&gt;In the second section of his book, Levy sets forth to argue that &lt;em&gt;sex&lt;/em&gt;
+with widespread robots is inevitable. I think that Levy does a better
+job of making a convincing argument in this section, in part because
+he doesn’t 
+have to rely on rampant futurism: no sophisticated AI capabilities are
+necessary for the greater part of a sex robot’s necessary functioning,
+and what is more, &lt;strong&gt;sex robots are already here&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;As Levy describes, at the time of the book’s writing hundreds of
+highly realistic humanoid sex robots were being sold each year from a
+single company. That company has now sold &lt;a href=&quot;http://www.nytimes.com/2015/06/12/technology/robotica-sex-robot-realdoll.html?emc=edit_th_20150612&amp;amp;nl=todaysheadlines&amp;amp;nlid=1638&amp;amp;_r=1&quot;&gt;over 5000 sex robots&lt;/a&gt;.
+This highlights the importance of having discussions about this issue:
+unlike super-intelligent AI, which certain famous intellectuals have
+gotten worked up about, the concern with sex robots isn’t whether
+they’ll exist in the next half-millenium. Sex robots are already
+here, and they have the capacity to drastically alter society in the
+course of the next few &lt;em&gt;decades&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Building on his description of the state of sex robots, Levy describes
+a host of convincing situations in which sex robots might be used. 
+I won’t directly comment on them, as each could fill its own blog
+post, but I’ll list out some of them as food for thought.&lt;/p&gt;
+
+&lt;p&gt;Sex robots may be used by:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Those with STDs such as AIDS that can make it &lt;em&gt;irresponsible&lt;/em&gt; to
+have sex with others.&lt;/li&gt;
+  &lt;li&gt;Those for whom it’s &lt;em&gt;physically difficult&lt;/em&gt; to
+have sex with others, such as the disabled.&lt;/li&gt;
+  &lt;li&gt;Those for whom it’s &lt;em&gt;mentally&lt;/em&gt; difficult to have sex with others,
+such as the very shy or (at least in their own minds) very ugly.&lt;/li&gt;
+  &lt;li&gt;Those whose sexual desires would be physically or mentally
+damaging to human partners.&lt;/li&gt;
+  &lt;li&gt;Those simply wanting to have different or more interesting sex, or
+those seeking to learn or practice their sexual skills.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Some of these are reasons why people choose to visit
+prostitutes. While there’s some concern about robots taking the jobs
+of sex workers, there’s something to be said about robot sex workers
+who can’t be exploited, can’t get or spread diseases, and can’t be
+hurt. Before I move on, I’d like to quote some facts laid out by Levy
+about the history of prostitution which I found pretty surprising.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;In the 1800s, it’s estimated that between 10 and 25 percent of &lt;em&gt;all
+young women&lt;/em&gt; in New York City were prostitutes, making prostitution
+the second largest business of the time after tailoring.&lt;/li&gt;
+  &lt;li&gt;In the mid-20th century, Alfred Kinsey estimated that 69% of white
+American men had been to a prostitute at least once.&lt;/li&gt;
+  &lt;li&gt;A survey in the mid-20th century found that 47% of French men who
+were practicing Catholics had lost their virginity to a prostitute.&lt;/li&gt;
+  &lt;li&gt;In 2000, there were an estimated 30,000 male prostitutes in Thailand.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It’s important to note that the concerns over sex robots extend beyond
+robots designed for sex. Recently, the robotics company Aldebaran
+released a new robot, Pepper, shown below.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;../images/laswr/pepper.jpg&quot; alt=&quot;Pepper&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;There’s nothing inherently
+sexual about Pepper. At the most, you could point out that there’s a
+touchscreen on Pepper’s “chest” area. But even that is a bit of a
+stretch. Even so, Aldebaran felt the need to release a disclaimer that
+Pepper must not be used “for sexual activity and actions for the
+purpose of indecent acts, or acts for the purpose of meeting and
+dating and making acquaintance of the opposite sex”. If Aldebaran
+thought it was such a concern for a robot like Pepper, this perhaps
+signals that this issue should engender even greater concern for
+roboticists who design more human-like robots, to say nothing of &lt;a href=&quot;https://www.youtube.com/watch?v=DF39Ygp53mQ&quot;&gt;those
+who develop androids&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-science-fiction-of-sex-with-robots&quot;&gt;The Science-Fiction of Sex with Robots&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;(Be prepared to skip this section if you want to avoid spoilers.)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s hard not to feel like this is all science fiction. And indeed,
+sex robots have been showing up more and more in popular culture. The
+artificially intelligent agents discussed above (i.e., those seen in
+&lt;em&gt;Her&lt;/em&gt; and &lt;em&gt;Black Mirror&lt;/em&gt;) are good examples, but of course the best
+recent example is &lt;em&gt;Ex Machina&lt;/em&gt;’s Ava.&lt;/p&gt;
+
+&lt;h3 id=&quot;ex-machina&quot;&gt;Ex Machina&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/laswr/exmachina.jpg&quot; alt=&quot;Ex Machina&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;In &lt;em&gt;Ex Machina&lt;/em&gt;, Caleb (also played by Domhnall Gleeson) is brought to
+a secluded woodland estate, ostensibly  to help “test” a new android,
+Ava (played by Alicia Vikander), who is
+incredibly humanlike, highly intelligent, and clearly designed to be
+physically attractive to her creator.
+As the film progresses, we learn that Ava (and other robots) have been
+sexually exploited by their creator, Nathan (played by Oscar Isaac). And,
+eventually, we see how Ava is able to seduce and control Caleb, and
+use him to help her get away from Nathan.&lt;/p&gt;
+
+&lt;p&gt;The questions raised by this movie are questions we’ll have to deal
+with as a society as robots become more commonplace: should we be
+developing humanlike robots that are overtly sexual in appearance or
+behavior? Should we be developing robots that have the capacity for
+suffering or sorrow? Using the arguments presented in the previous
+section, it would seem that if a robot is programmed to be incapable
+of suffering and is not capable of having its own goals and desires,
+then such a robot cannot be the subject of cruelty, coercion,
+exploitation, etc. That being said, whether the actions of a human
+towards a sex robot say something about or affect &lt;em&gt;their character&lt;/em&gt; is
+another question, and a valid argument against using robots for
+certain purposes or treating them in a certain way. However, that’s a
+topic for another day.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-science-of-sex-with-robots&quot;&gt;The Science of Sex with Robots&lt;/h2&gt;
+
+&lt;p&gt;Obviously this topic raises a number of complicated ethical questions; and
+I think that these questions are important for us to discuss as a
+society. However, there has been little research thus far into 
+peoples’ views on the topic. Recently, I helped my
+advisor and one of my labmates conduct
+the first extensive survey into people’s views on sex robots, the
+results of which were the focus of a recent paper (&lt;em&gt;Are We Ready for
+Sex Robots?&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;In this study, we asked participants questions in three main
+categories: what they believe to be the capabilities of
+sex robots, what they believe to be the appropriate uses and
+appearances for sex robots, and how sex with a robot differs from sex
+with a person. These questions were posed to ~100 subjects ages 20-60
+through an online survey on Amazon Mechanical Turk.&lt;/p&gt;
+
+&lt;p&gt;The study found
+that men and women are in close agreement on the capabilities of sex
+robots: participants generally thought that sex robots could be
+instructed, could move on their own, and are specifically designed
+to satisfy human desire, and that sex robots could &lt;em&gt;not&lt;/em&gt; have feelings,
+recognize human emotions, or take initiative. Participants were more
+evenly split on a number of other criteria, such as whether sex robots 
+can adapt to human behavior, understand language, learn new
+behaviors, or recognize objects. Men and women also agreed on the
+differences between sex with a robot vs. sex with a person;
+participants tended to say that sex with a robot would not cause one
+to lose their virginity, was more like masturbation than sex with a
+human, and was more like using a vibrator than having sex with a human.&lt;/p&gt;
+
+&lt;p&gt;Men and women significantly differed, however, on the appropriate uses
+and appearances for sex robots, with men systematically viewing uses
+and appearances as more appropriate, typically by about one-point on a
+seven-point scale. The uses for sex robots ranked most appropriate
+were using them instead of prostitutes, for disabled people, to reduce
+the risk of spreading STDs, to demonstrate forms of sexual
+harassment (for training and prevention), and for use in isolated
+environments; the uses ranked least 
+appropriate were using sex robots to practice abstinence, and for sex
+offenders; for all of these, the mean rating leant towards appropriate for
+men and towards inappropriate for women. The appearances of sex robots
+ranked most appropriate were an adult human, a fantasy creature, and
+“any recognizable life form”. The forms ranked least appropriate were
+an animal, one’s family member, and the only form for which ratings
+did not significantly differ between men and women: a human child.
+Finally, two-thirds of men said they would use a sex-robot, while
+two-thirds of women said they would not.
+You’ll note that the above results are all gender-based. One would
+think that one would see age effects as well; but in fact, only one
+significant age effect was found: Millenials rated it less appropriate
+to use robots &lt;em&gt;instead of prostitutes&lt;/em&gt; than did older participants.&lt;/p&gt;
+
+&lt;p&gt;These results give a brief look into society’s views on sex
+robots. The Human-Robot Interaction community will need to further
+investigate these questions through empirical study, so that we can
+better understand peoples’ ethical values and principles involving sex
+robots. These values will be crucial for society to make explicit as
+sex robots become increasingly commonplace, and a subject of concern
+for policymakers, designers, industry, and society at large.&lt;/p&gt;
+
+&lt;h1 id=&quot;overall-recommendation&quot;&gt;Overall Recommendation&lt;/h1&gt;
+&lt;p&gt;While its occasional deviations into futurism make it less than it
+could have been, &lt;em&gt;Love and Sex with Robots&lt;/em&gt; is an engaging, eye
+opening, and entertaining read. I recommend it highly to anyone
+interested in human-robot interaction, sociology, and sexuality.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://williamstome.github.io//love-and-sex-with-robots-a-retrospective-through-science-and-science-fiction/&quot;&gt;Love and Sex With Robots: A Retrospective Through Science and Science Fiction&lt;/a&gt; was originally published by Tom Williams at &lt;a href=&quot;http://williamstome.github.io/&quot;&gt;williamstome&lt;/a&gt; on March 20, 2016.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Five Reasons Why I'm Excited for HRI 2016]]></title>
+  <link rel="alternate" type="text/html" href="http://williamstome.github.io//off-to-hri-2016/" />
+  <id>http://williamstome.github.io//off-to-hri-2016</id>
+  <updated>2016-03-02T00:00:00-00:00</updated>
+  <published>2016-03-02T00:00:00-05:00</published>
+  
+  <author>
+    <name>Tom Williams</name>
+    <uri>http://williamstome.github.io/</uri>
+    <email>williams@cs.tufts.edu</email>
+  </author>
+  <content type="html">&lt;p&gt;In just a few hours, I’ll be taking off for Christchurch, New Zealand, where I’ll be attending the 2016 International Conference on Human-Robot Interaction (HRI).
+I’m especially excited for this year’s conference, for several reasons.&lt;/p&gt;
+
+&lt;h1 id=&quot;reason-1-the-presentations&quot;&gt;Reason 1: The Presentations&lt;/h1&gt;
+
+&lt;p&gt;As an HRI researcher, I’m obviously excited about &lt;a href=&quot;http://humanrobotinteraction.org/2016/program/&quot;&gt;the program this year&lt;/a&gt;. I’m particularly excited for the sessions on “Morality and Trust in HRI”, “Human-Robot Collaboration”, and of course, “Tools &amp;amp; Techniques for Social Robots”, in which I’m presenting &lt;a href=&quot;http://hrilab.tufts.edu/~twilliam/pubs/?p=williams2016hri&quot;&gt;a paper on human-robot natural-language communication&lt;/a&gt;. HRI is a single track conference, which means that everyone attends the same talks. This means I get to share my current research with the entire HRI community at once, which is both exciting and anxiety-inducing (but mostly exciting)!&lt;/p&gt;
+
+&lt;h1 id=&quot;reason-2-hri-pioneers&quot;&gt;Reason 2: HRI Pioneers&lt;/h1&gt;
+
+&lt;p&gt;Last year, I was lucky enough to be selected for the HRI Pioneers Workshop; a student-run workshop which is the “premiere forum for graduate students in HRI”. After the workshop last year, Hee-Tae Jung (from UMass Amherst) and I were elected Program Committee Co-Chairs for this year’s workshop, which means we were in charge of finding paper reviewers, assigning reviewers to papers, lightly prodding reviewers to give us their reviews, and deciding which papers would be accepted to the workshop. This was a lot of fun, and a lot of work. This year, I’m excited to pop into the workshop and learn more about the students whose abstracts we accepted. Here’s a word cloud of the most common (interesting) words found in the submissions of this years’ attendees.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/hrip2016-tagcloud.png&quot; alt=&quot;Word Cloud&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;reason-3-lab-trip&quot;&gt;Reason 3: Lab Trip!&lt;/h1&gt;
+
+&lt;p&gt;In the past, there have usually been only one or two other people from my lab at the conferences I’ve attended. This time, there will be five of us! Three of my labmates have papers in workshops at HRI (including Pioneers!), and of course my advisor is attending. Three of us are going to have a 10-hour layover in Sydney, Australia, so I’m looking forward (I think) to several hours of jetlagged exploration of Sydney.&lt;/p&gt;
+
+&lt;h1 id=&quot;reason-4-pushing-the-envelope&quot;&gt;Reason 4: Pushing the Envelope&lt;/h1&gt;
+
+&lt;p&gt;This year’s program includes a new session, “Alt.HRI” which solicited papers that push boundaries and take risks. I’m interested to see just how risk-taking the papers in this new session are. On a similar note, our lab has a paper entitled “Are We Ready for Sex Robots?” in a non-Alt.HRI session which is both risky and risqué. While I implemented the study behind the paper (a survey; no sex robots in our lab!), I haven’t actually seen the results, which my advisor has been playing close to the chest… so I’m excited to hear what they are! In preparation, I’ve been reading David Levy’s &lt;a href=&quot;http://www.amazon.com/Love-Sex-Robots-Human-Robot-Relationships/dp/0061359807&quot;&gt;“Love and Sex with Robots”&lt;/a&gt;, which I highly reccomend.&lt;/p&gt;
+
+&lt;h1 id=&quot;reason-5-its-new-zealand&quot;&gt;Reason 5: It’s New Zealand&lt;/h1&gt;
+&lt;p&gt;It’s New Zealand! Enough said.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://williamstome.github.io//off-to-hri-2016/&quot;&gt;Five Reasons Why I'm Excited for HRI 2016&lt;/a&gt; was originally published by Tom Williams at &lt;a href=&quot;http://williamstome.github.io/&quot;&gt;williamstome&lt;/a&gt; on March 02, 2016.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[(Re)designing an Introductory AI Course: Post-Semester Analysis]]></title>
+  <link rel="alternate" type="text/html" href="http://williamstome.github.io//re-designing-an-introductory-ai-course-analysis/" />
+  <id>http://williamstome.github.io//re-designing-an-introductory-ai-course-analysis</id>
+  <updated>2016-02-05T00:00:00-00:00</updated>
+  <published>2016-02-05T00:00:00-05:00</published>
+  
+  <author>
+    <name>Tom Williams</name>
+    <uri>http://williamstome.github.io/</uri>
+    <email>williams@cs.tufts.edu</email>
+  </author>
+  <content type="html">&lt;p&gt;In the Fall of 2015, I was given the opportunity to co-teach Tufts’
+Artificial Intelligence class, through Tufts GIFT (Graduate 
+Institute for Teaching) program. As I described in
+&lt;a href=&quot;http://williamstome.github.io//initial-thoughts-on-re-designing-an-introductory-ai-course/&quot;&gt;this pre-class blog post&lt;/a&gt;,
+I took the opportunity to re-design the 
+class in order to include more topics from “Modern” (i.e.,
+probabilistic AI). As described in that blog post, I had grand plans,
+but had no idea to what extent I’d be able to implement them. 
+Let’s look at how Tom’s grand plan worked out!&lt;/p&gt;
+
+&lt;table rules=&quot;groups&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Supertopic&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Topic&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Subtopic&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Old&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Planned&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Actual&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Foundations&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Intro&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Introduction&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;1-2&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;1-2&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;1-2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Foundations&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Search&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Uninformed Search&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Foundations&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Search&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Heuristic Search&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Foundations&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Search&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Local Search&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Foundations&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Search&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ND Actions&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Foundations&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Search&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Partial Observations&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Foundations&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;CSPs&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;CSPs&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;9&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;7&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;6&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Foundations&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;CSPs&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Constraint Prop&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;10&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;8&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;7&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Foundations&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Search&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Adversarial Search&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;7&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;9&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;9&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Classical AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;KR&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;FOL&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;11-15,17&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;10&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;11&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Classical AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;KR&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;FOL&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;16&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;11&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;12&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Classical AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Inf&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;FOL Inf&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;18&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;12&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;13&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Classical AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Inf&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;FOL Inf&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;19&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;13&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;14&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Classical AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;KR&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Ontologies&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;24&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;14&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;15&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Classical AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DM&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Classical Planning&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;20-22&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;15&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;16&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Classical AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DM&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Hierarchical Planning&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;16&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;24&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Classical AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DM&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Other Planning Topics&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;23&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;17&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;20,22&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Modern AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;KR&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Back to Bayesics&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;25&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;18&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;8&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Modern AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;KR&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Bayes Nets&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;26&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;19&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;17&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Modern AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Inf&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Exact Inference&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;20&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;18-19&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Modern AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Inf&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Approx. Inference&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;21&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;21&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Modern AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Inf&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;MCs and HMMs&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;22&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;(21)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Modern AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;KR&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Markov (Logic) Nets&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;23&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;23&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Modern AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DM&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Utility Theory&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;24&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;(8)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Modern AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DM&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;MDPs&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;25&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;25&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Modern AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DM&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;POMDPs&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;26&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Modern AI&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;DM&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Factored MDPs&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;26&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;outcome&quot;&gt;Outcome&lt;/h2&gt;
+
+&lt;p&gt;Two things should immediately stand out by comparing the last three
+columns of the chart above.&lt;/p&gt;
+
+&lt;p&gt;First, I was successful in convincing my co-instructor, Prof. Anselm
+Blumer, to shift most of the sessions on Logic to topics from Modern
+AI. This was a big surprise for me, as I initially had no idea whether
+or not he’d be receptive to such a major shift. We ended up dropping
+HMMs and POMDPs and picking up Factored MDPs, but otherwise the topics
+covered were just what I’d hoped for.&lt;/p&gt;
+
+&lt;p&gt;Second, though, you’ll notice that the actual class schedule jumped
+around &lt;strong&gt;a lot&lt;/strong&gt;. For example, the last section of the course (16-26)
+went: &lt;strong&gt;Planning&lt;/strong&gt;, Bayes Nets, Bayesian Inference, Bayesian Inference,
+&lt;strong&gt;Planning&lt;/strong&gt;, Bayesian Inference, &lt;strong&gt;Planning&lt;/strong&gt;, Markov Logic,
+&lt;strong&gt;Planning&lt;/strong&gt;, MDPs, MDPs.&lt;/p&gt;
+
+&lt;p&gt;This was the product of my &lt;strong&gt;planned&lt;/strong&gt; schedule (ba-dum-psh) rubbing
+up against my &lt;strong&gt;actual&lt;/strong&gt; schedule. Before the semester started, Anselm
+and I worked out a rough schedule for the course, and which classes
+I’d be teaching (I specifically wanted to teach CSPs, Bayes Nets, and Approximate
+Inference (because I had specific in class exercises in mind), and
+Markov Logic and Factored MDPs (because these are fairly new topics I
+wanted to season the main course with (more puns! (nested
+parentheses!)))).
+However, once the semester actually started, several wrenches were
+quickly thrown into the mix.&lt;/p&gt;
+
+&lt;h2 id=&quot;best-laid-plans&quot;&gt;Best Laid Plans&lt;/h2&gt;
+
+&lt;p&gt;First, I got papers accepted to several
+conferences. While this was a good thing for my research progress, it
+meant that I would no longer be at Tufts at the time I was supposed to
+teach two of my sessions. To avoid changing what sessions I’d be
+teaching, we had to get creative with the schedule. This involved many
+small schedule shuffles, such as
+putting &lt;em&gt;searching with non-deterministic actions&lt;/em&gt; off for &lt;em&gt;a month&lt;/em&gt;
+in order to shift things back a week.&lt;/p&gt;
+
+&lt;p&gt;Second, to get students ready for the modern AI section, we decided to
+combine the lectures on Bayes’ Theorem and Utility Theory, and move
+them earlier into the course as a sort of “preview for things to come”.&lt;/p&gt;
+
+&lt;p&gt;Finally, of course, things just didn’t time out exactly as we
+expected. Some topics took more time than expected, some took less. In
+order to stay on the safe side, advanced planning topics got put off
+for a bit, and then, as discussed, ended up getting peppered in
+between my other lectures, whose dates were set in stone to accommodate
+my conference travels. It was a whirlwind.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusions&quot;&gt;Conclusions…&lt;/h2&gt;
+
+&lt;p&gt;My first time teaching was certainly a learning experience. If it
+weren’t for the fact that I was scheduled to teach very specific
+sessions of the class, the schedule would certainly have been saner;
+presumably it will be &lt;em&gt;much&lt;/em&gt; saner when I end up teaching the course
+by myself at some other university, on my schedule alone.&lt;/p&gt;
+
+&lt;p&gt;Schedule notwithstanding, however, the semester was incredibly
+rewarding. I had an absolute blast, and my students seemed to enjoy it
+too. I ended up getting an average rating of 4.63 out of 5.0 on my teaching
+evaluations, whatever that means, and one student wrote the following,
+which made me pretty proud:&lt;/p&gt;
+
+&lt;p&gt;“I have never
+had someone put such a visible effort into each lecture and I really
+appreciated seeing all the time and hard work Tom put into making sure
+we had the best learning experience possible.”&lt;/p&gt;
+
+&lt;p&gt;Of course, my students were &lt;em&gt;significantly&lt;/em&gt; less positive about some
+of the homework assignments I designed. But that’s a story for another
+blog post…&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://williamstome.github.io//re-designing-an-introductory-ai-course-analysis/&quot;&gt;(Re)designing an Introductory AI Course: Post-Semester Analysis&lt;/a&gt; was originally published by Tom Williams at &lt;a href=&quot;http://williamstome.github.io/&quot;&gt;williamstome&lt;/a&gt; on February 05, 2016.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[The Five Stages of Grief: An HRI Lab Christmas Carol]]></title>
+  <link rel="alternate" type="text/html" href="http://williamstome.github.io//the-five-stages-of-grief-an-hri-lab-christmas-carol/" />
+  <id>http://williamstome.github.io//the-five-stages-of-grief-an-hri-lab-christmas-carol</id>
+  <updated>2015-12-18T00:00:00-00:00</updated>
+  <published>2015-12-18T00:00:00-05:00</published>
+  
+  <author>
+    <name>Tom Williams</name>
+    <uri>http://williamstome.github.io/</uri>
+    <email>williams@cs.tufts.edu</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;strong&gt;Warning: Less than Serious Material Ahead&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;
+Happy Holidays!&lt;br /&gt;
+&lt;br /&gt;
+This year has marked large changes in the HRI Lab: this semester, our
+lab lost one member (to graduation! good for him, sad for us) and
+gained &lt;strong&gt;eight&lt;/strong&gt;. Six new grad students started this semester, one
+more just joined and will be starting next month, and we acquired a new
+staff programmer.&lt;br /&gt;
+&lt;br /&gt;
+Anyone who knows me well knows that I love to sing. It should thus be
+no surprise that I was thrilled to learn that two of my new labmates
+sing! I was even able to recruit one of them to join my a cappella
+group, &lt;a href=&quot;https://www.facebook.com/OutofRangeACappella/&quot;&gt;Out of Range&lt;/a&gt;.
+&lt;br /&gt;
+For our lab holiday party, my advisor decided that the lab band
+(BA$H!, comprised of my advisor on bass and keyboard, our lab manager
+on drums, our postdoc on guitar, and myself on vocals) would perform a
+few songs. So, I figured, as long as I was singing, there might as
+well be some a cappella action thrown in too!&lt;br /&gt;
+&lt;br /&gt;
+I thus put together an a cappella arrangement of holiday carols for my
+two new singing labmates and I,
+themed around an obviously fictitious scenario in which our lab has to
+pull together a demo for a funding agency and things go horribly
+wrong.&lt;br /&gt;
+&lt;br /&gt;
+Enjoy!&lt;/p&gt;
+
+&lt;h2 id=&quot;the-five-stages-of-grief-an-hri-lab-christmas-carol&quot;&gt;The Five Stages of Grief: An HRI Lab Christmas Carol&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Scene: It’s Sunday night, and the grad students are busy at work in
+the lab. A demo of the HRI Lab’s new “Carol Singing Robot” needs to be
+given in the morning, but the robots have mysteriously stopped
+working&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;pm---denial&quot;&gt;8:00 PM - Denial&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Tune: Silent Night&lt;/em&gt;&lt;br /&gt;
+&lt;br /&gt;
+Silent Nao, Soundless Nao&lt;br /&gt;
+Working any second now&lt;br /&gt;
+Nothing’s changed here, no code’s been revised&lt;br /&gt;
+Why’d you stop when Matthias arrived&lt;br /&gt;
+Nothing’s changed in your code&lt;br /&gt;
+Nothing’s changed in your code&lt;/p&gt;
+
+&lt;h3 id=&quot;pm---anger&quot;&gt;10:00 PM - Anger&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Tune: Santa Claus is Coming to Town&lt;/em&gt;&lt;br /&gt;
+&lt;br /&gt;
+You better not crash&lt;br /&gt;
+You better not die&lt;br /&gt;
+You better not break&lt;br /&gt;
+I’m telling you why&lt;br /&gt;
+&lt;br /&gt;
+ONR is coming to lab&lt;br /&gt;
+&lt;br /&gt;
+They’ve gotta be wowed&lt;br /&gt;
+They’ve gotta be stunned&lt;br /&gt;
+They’re gonna decide&lt;br /&gt;
+Whose project to fund&lt;br /&gt;
+&lt;br /&gt;
+ONR is coming to lab&lt;br /&gt;
+&lt;br /&gt;
+These processes keep sleeping&lt;br /&gt;
+There must be some mistake&lt;br /&gt;
+You can’t find java library?!&lt;br /&gt;
+JUST COMPILE FOR GOODNESS SAKE!&lt;br /&gt;
+&lt;br /&gt;
+You better not crash&lt;br /&gt;
+You better not die&lt;br /&gt;
+You better not break&lt;br /&gt;
+I’m telling you why&lt;br /&gt;
+&lt;br /&gt;
+ONR is coming to lab&lt;/p&gt;
+
+&lt;h3 id=&quot;am---bargaining&quot;&gt;12:00 AM - Bargaining&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Tune: It Came Upon a Midnight Clear&lt;/em&gt;&lt;br /&gt;
+&lt;br /&gt;
+I need to finish, it’s midnight here&lt;br /&gt;
+Please help me fix all of these bugs (damn bugs!)&lt;br /&gt;
+I’ll buy a case of your fav’rite beer&lt;br /&gt;
+I’ll give you forty-six bucks (big bucks!)&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Peace on the earth, a Mercedes-Benz&lt;br /&gt;
+I’ll promise you ‘bout anything (more beer!)&lt;br /&gt;
+If you would just help me figure out&lt;br /&gt;
+How I can make this Nao sing&lt;/p&gt;
+
+&lt;h3 id=&quot;am---depression&quot;&gt;2:00 AM - Depression&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Tune: Oh Little Town of Bethlehem&lt;/em&gt;&lt;br /&gt;
+&lt;br /&gt;
+So little time to get this done&lt;br /&gt;
+My brain is getting fried&lt;br /&gt;
+I need to leave and go to sleep&lt;br /&gt;
+This isn’t justified&lt;br /&gt;
+&lt;br /&gt;
+Yet in the dark I’m working&lt;br /&gt;
+Until I get this right&lt;br /&gt;
+The jokes and jeers of all my peers&lt;br /&gt;
+are met in me tonight&lt;/p&gt;
+
+&lt;h3 id=&quot;am---acceptance&quot;&gt;4:00 AM - Acceptance&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Tune: White Christmas&lt;/em&gt;&lt;br /&gt;
+&lt;br /&gt;
+I’m dreaming of a live demo&lt;br /&gt;
+Just like the ones I used to watch&lt;br /&gt;
+No components failing&lt;br /&gt;
+No students swearing&lt;br /&gt;
+No robots driving into walls (Great Big Holes!)&lt;br /&gt;
+&lt;br /&gt;
+Oh and I’m dreaming of a live demo&lt;br /&gt;
+With ev’ry action script I write&lt;br /&gt;
+But until my tests get green lights&lt;br /&gt;
+Let’s not do our demo live tonight&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://williamstome.github.io//the-five-stages-of-grief-an-hri-lab-christmas-carol/&quot;&gt;The Five Stages of Grief: An HRI Lab Christmas Carol&lt;/a&gt; was originally published by Tom Williams at &lt;a href=&quot;http://williamstome.github.io/&quot;&gt;williamstome&lt;/a&gt; on December 18, 2015.&lt;/p&gt;</content>
+</entry>
 
 
   
@@ -164,20 +1080,22 @@ programmers, or elect not to continue in computer science at all.&lt;/p&gt;
 I also strive to promote student understanding by providing concrete
 groundings to theoretical concepts whenever possible. In the classroom
 this is effected through exercises which demystify
-concepts by showing them to be straightforward and intuitive. For example, in the Artificial
-Intelligence course I will be co-designing and co-teaching, students will
-learn about Constraint Satisfaction Problems (CSP) by designing crossword
+concepts by showing them to be straightforward and intuitive. For
+example, in the Artificial 
+Intelligence course I co-designed and co-taught, students 
+learned about Constraint Satisfaction Problems (CSP) by designing crossword
 puzzles and then analyzing the strategies they used in that
-process. Students will learn about approximate inference by playing a novel
-take on Clue which simulates Gibbs sampling. Outside the
-classroom, I assign students frequent programming assignments which provide
+process. Students learned about approximate inference by playing a novel
+take on Clue which simulated Gibbs sampling. Outside the
+classroom, I try to design programming assignments which provide
 concrete computational groundings without burdening students with
 busywork, i.e., coding for coding’s sake. For example, after the
-in-class crossword puzzle exercise, students will need to implement
+in-class crossword puzzle exercise, students were asked to to implement
 CSP heuristics to improve the performance of an automatic crossword
 creator.&lt;/p&gt;
 
-&lt;p&gt;In designing programming assignments, I try to find ways to apply
+&lt;p&gt;In designing both programming assignments and in-class exercisese, I
+try to find ways to apply 
 course material to domains beyond the sciences. Skills such as
 computational modeling are becoming important in suprisingly diverse areas, from
 literary analysis and sociology to history and
@@ -850,7 +1768,7 @@ While the comic is pretty short, it manages to touch on several issues that are 
 
 &lt;p&gt;In our panel, my labmates Willie, Gordon, and I each talked about one such issue. I talked about &lt;a href=&quot;http://williamstome.github.io//should-fully-autonomous-weapons-systems-be-banned/&quot;&gt;whether robots should be allowed to wield guns autonomously&lt;/a&gt;, Willie talked about the ethics of robots and sex and relationships in general, and Gordon talked about the general moral status of robots.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;&amp;lt;Disclaimer&amp;gt; While the three of us do research in the HRI Lab, our talk was given as private citizens, and we did not announce our shared affiliation during our talk; what we said in the panel constituted our own views, and doesn’t reflect the views of our employer or funding agencies. &amp;lt;/Disclaimer&amp;gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;lt;Disclaimer&amp;gt; While the three of us do research in the HRI Lab, our talk was given as private citizens, and we did not announce our shared affiliation during our talk; what we said in the panel constituted our own views, and doesn’t reflect the views of our employer or funding agencies. &amp;lt;/Disclaimer&amp;gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;For each issue, we first showed panels from the comic that illustrated how that issue is portrayed in Silverside, 
 then discussed that issue with respect to the current state of the art in robotics,
@@ -2638,7 +3556,7 @@ uncomfortable subject. Am I correct?&lt;br /&gt;
   <title type="html"><![CDATA[A Guided Tour of HRI]]></title>
   <link rel="alternate" type="text/html" href="http://williamstome.github.io//a-guided-tour-of-hri/" />
   <id>http://williamstome.github.io//a-guided-tour-of-hri</id>
-  <updated>2015-03-11T00:00:00-00:00</updated>
+  <updated>2016-02-05T00:00:00-00:00</updated>
   <published>2014-10-29T00:00:00-04:00</published>
   
   <author>
@@ -2679,14 +3597,18 @@ structure:&lt;/p&gt;
           &lt;li&gt;&lt;a href=&quot;http://williamstome.github.io//could-you-maybe-possibly-explain-indirect-speech-acts/&quot;&gt;Indirect Speech Act Understanding&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
-      &lt;li&gt;Natural Behavior&lt;/li&gt;
+      &lt;li&gt;Natural Behavior
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;http://williamstome.github.io/is-robot-telepathy-acceptable/&quot;&gt;Uncanny Actions&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
       &lt;li&gt;Natural Appearance&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Section 3: Ethical Considerations: What factors must be considered in ensuring the ethical behavior and usage of a robot?
     &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;http://williamstome.github.io//should-fully-autonomous-weapons-systems-be-banned/&quot;&gt;Robot on the battlefield&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;Robot in the bedroom&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://williamstome.github.io//love-and-sex-with-robots-a-retrospective-through-science-and-science-fiction/&quot;&gt;Robot in the bedroom&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;Robots at work&lt;/li&gt;
       &lt;li&gt;Home, Hospital, and School&lt;/li&gt;
     &lt;/ul&gt;
@@ -3494,79 +4416,6 @@ need to give up, as Nagel suggests, and wait until we discover some
 wonder tissue that ties everything together.&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://williamstome.github.io//is-there-a-place-for-the-mind-in-physics-response/&quot;&gt;"Is There A Place for The Mind in Physics" Response&lt;/a&gt; was originally published by Tom Williams at &lt;a href=&quot;http://williamstome.github.io/&quot;&gt;williamstome&lt;/a&gt; on January 31, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-  
-
-<entry>
-  <title type="html"><![CDATA[D.C.Dennett, B.F.Skinner and H.P.Lovecraft]]></title>
-  <link rel="alternate" type="text/html" href="http://williamstome.github.io//d-c-dennett-b-f-skinner-and-h-p-lovecraft/" />
-  <id>http://williamstome.github.io//d-c-dennett-b-f-skinner-and-h-p-lovecraft</id>
-  <updated>2014-10-19T00:00:00-00:00</updated>
-  <published>2012-12-04T00:00:00-05:00</published>
-  
-  <author>
-    <name>Tom Williams</name>
-    <uri>http://williamstome.github.io/</uri>
-    <email>williams@cs.tufts.edu</email>
-  </author>
-  <content type="html">&lt;p&gt;Today was my last lecture in the “Philosophical Foundations of Cognitive Science”
-class I took this semester with Dan Dennett.&lt;/p&gt;
-
-&lt;p&gt;In class, Dennett posited the following frame theory (to the best of
-my recollection): The mind, in a highly parallel fashion, is
-constantly evaluating a multitude of stories (i.e., frames) to
-determine which frame or combination of frames is most likely to
-generalize to the current context, thus determining what one’s
-response should be in its current scenario.&lt;/p&gt;
-
-&lt;p&gt;I pointed out that this would likely run into similar problems to
-Skinner’s radical behaviorism; Skinner believed that behaviors were
-generated in a stringent stimulus-response framework, and that any
-observed behavior was thus the result of some reinforcement in the
-agent’s past. If an agent was presented with a novel (i.e., never
-before experienced) stimulus, Skinner believed that the agent’s
-response was the result of reinforcement to &lt;em&gt;similar&lt;/em&gt; responses to
-&lt;em&gt;similar&lt;/em&gt; stimuli.&lt;/p&gt;
-
-&lt;p&gt;Unfortunately, Skinner is &lt;em&gt;begging the question&lt;/em&gt;, as any possible
-behavior is explained in the same manner: Skinner has only to say
-“It’s reinforcement!” and be done with it. This  merely &lt;em&gt;explains
-away&lt;/em&gt; the question. I’m sure Karl Popper would be equally unconvinced
-with this, as the approaches of Skinner and Dennett seem, at least at
-first inspection, to be unfalsifiable.&lt;/p&gt;
-
-&lt;p&gt;Or are they?&lt;/p&gt;
-
-&lt;p&gt;Could one concoct a scenario to which there is no sufficiently similar
-scenario experienced or heard of by the agent for which it to compare
-to, meaning the agent would have no way of selecting any appropriate
-behavior, as in Dennett’s case it would not find any appropriate frame
-with sufficient activation, and in Skinner’s case would not find any
-sufficiently reinforced response to execute?&lt;/p&gt;
-
-&lt;p&gt;This brings us to the third actor in our scene: H. P. Lovecraft.&lt;/p&gt;
-
-&lt;p&gt;In Lovecraft’s stories, characters encounter indescribable horrors,
-and go insane as a result. Viewed through the lens of Dennett’s
-theory, my intuition would be that as the beasts are inherently
-indescribable, they could not possibly have been described in a
-story. Viewed through the lens of Skinner’s theory, the indescribable
-aspect would similarly entail the lack of any sufficiently similar
-scenario with which to compare the encounter with.&lt;/p&gt;
-
-&lt;p&gt;As no frame or response would be choosable by the agent, they would
-have no way of responding to the encounter. In the world of
-H. P. Lovecraft, this would result in a rending of the poor soul’s
-mind, rendering them insane.&lt;/p&gt;
-
-&lt;p&gt;Of course, one is unable to put this mapping to the test, as (to my
-knowledge) there are no indescribable horrors lurking about for us to
-present to subjects, and even if there were, the IRB for the
-experiment would be a tough sell.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://williamstome.github.io//d-c-dennett-b-f-skinner-and-h-p-lovecraft/&quot;&gt;D.C.Dennett, B.F.Skinner and H.P.Lovecraft&lt;/a&gt; was originally published by Tom Williams at &lt;a href=&quot;http://williamstome.github.io/&quot;&gt;williamstome&lt;/a&gt; on December 04, 2012.&lt;/p&gt;</content>
 </entry>
 
 </feed>
