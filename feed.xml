@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://williamstome.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="http://williamstome.github.io//" rel="alternate" type="text/html" /><updated>2016-06-25T18:51:10+00:00</updated><id>http://williamstome.github.io//</id><title>williamstome</title><subtitle>A research blog focusing on artiicial intelligence and human-robot interacion.</subtitle><author><name>Tom Williams</name><email>williams@cs.tufts.edu</email><uri>http://hrilab.tufts.edu/~twilliam</uri></author><entry><title>Summer 2016: Visiting the University of Bremen Pt.2</title><link href="http://williamstome.github.io//summer-2016-visiting-the-university-of-bremen-part-2/" rel="alternate" type="text/html" title="Summer 2016: Visiting the University of Bremen Pt.2" /><published>2016-05-24T00:00:00+00:00</published><updated>2016-05-24T00:00:00+00:00</updated><id>http://williamstome.github.io//summer-2016-visiting-the-university-of-bremen-part-2</id><content type="html" xml:base="http://williamstome.github.io//summer-2016-visiting-the-university-of-bremen-part-2/">&lt;p&gt;For the past month, I’ve been visiting the Institute for Artificial
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://williamstome.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="http://williamstome.github.io//" rel="alternate" type="text/html" /><updated>2016-06-25T18:52:29+00:00</updated><id>http://williamstome.github.io//</id><title>williamstome</title><subtitle>A research blog focusing on artiicial intelligence and human-robot interacion.</subtitle><author><name>Tom Williams</name><email>williams@cs.tufts.edu</email><uri>http://hrilab.tufts.edu/~twilliam</uri></author><entry><title>Summer 2016: Visiting the University of Bremen Pt.2</title><link href="http://williamstome.github.io//summer-2016-visiting-the-university-of-bremen-part-2/" rel="alternate" type="text/html" title="Summer 2016: Visiting the University of Bremen Pt.2" /><published>2016-05-24T00:00:00+00:00</published><updated>2016-05-24T00:00:00+00:00</updated><id>http://williamstome.github.io//summer-2016-visiting-the-university-of-bremen-part-2</id><content type="html" xml:base="http://williamstome.github.io//summer-2016-visiting-the-university-of-bremen-part-2/">&lt;p&gt;For the past month, I’ve been visiting the Institute for Artificial
 Intelligence at the University (IAI) of Bremen. At Tufts, I (along with most
 other members of the HRI Lab) am enrolled in a joint Computer Science
 – Cognitive Science Ph.D. program, which has an extra-hefty course
@@ -48,17 +48,17 @@ sure about the choice to make it so obviously gendered.&lt;/it&gt;
 &lt;br /&gt;
 &lt;it&gt;A gosh-darned Transformer. Almost. This driverless car can change its
 pitch to take up less space, or rotate its wheels so that it can slide
-sideways into a parking space.&quot;&amp;gt;
+sideways into a parking space.&quot;&lt;/it&gt;
 &lt;br /&gt;&lt;br /&gt;
 &lt;img src=&quot;/images/bremen2/dfki3.jpg&quot; /&gt;
 &lt;it&gt;A mantis-like robot.&lt;/it&gt;
-&amp;lt;/p&amp;gt;
-&lt;br /&gt;&lt;br /&gt;
- 
-Continuing on the topic of mechanical marvels, I had the opportunity
-to visit the *Arithmeum* -- a fascinating museum in Bonn chronicling
+&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Continuing on the topic of mechanical marvels, I had the opportunity
+to visit the &lt;em&gt;Arithmeum&lt;/em&gt; – a fascinating museum in Bonn chronicling
 the history of calculation. Here are a few of the gorgeous machines on
-display there.
+display there.&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;
 &lt;img src=&quot;/images/bremen2/ar2.jpg&quot; /&gt;
@@ -77,47 +77,45 @@ display there.
 &lt;br /&gt;&lt;br /&gt;
 &lt;/p&gt;
 
-### Living in Germany ###
+&lt;h3 id=&quot;living-in-germany&quot;&gt;Living in Germany&lt;/h3&gt;
 
-Since I was pretty much working all the time, daily life was pretty ordinary. 
+&lt;p&gt;Since I was pretty much working all the time, daily life was pretty ordinary. 
 To be honest, the largest deviations from my expectations came when I
-had to purchase food. 
+had to purchase food.&lt;/p&gt;
 
-Purchasing groceries was... unpleasant. The closest grocery store
+&lt;p&gt;Purchasing groceries was… unpleasant. The closest grocery store
 nearest to me was massively overcrowded, with only two registers, and
-no baggers (perhaps because you&#39;re charged by-the-bag unless you&#39;re
+no baggers (perhaps because you’re charged by-the-bag unless you’re
 using a reusable bag). I thus had to try to stuff food into my
-backpack as quickly as it was being scanned so that I wouldn&#39;t cause a
+backpack as quickly as it was being scanned so that I wouldn’t cause a
 holdup for the next person. This is in stark contrast to our
 supermarket at home, with something like twenty registers. Half of
-which are self-scan, meaning you need to bag things yourself, but it&#39;s
+which are self-scan, meaning you need to bag things yourself, but it’s
 rare that you have more than a single person behind you in line, so
-the rush to bag isn&#39;t quite as frenzied.  
+the rush to bag isn’t quite as frenzied.&lt;/p&gt;
 
-My other option here for purchasing groceries was the mini-mart down
+&lt;p&gt;My other option here for purchasing groceries was the mini-mart down
 the street from my apartment. Once again, the unpleasantness here came
 on the bagging front. My first night in Bremen I visited the minimart
-to load up on essentials. At the register, the cashier asked if I&#39;d
+to load up on essentials. At the register, the cashier asked if I’d
 like a bag, and I responded that I was going to try to fit everything
 in my backpack. When I ended up needing a bag for my last few items,
-the cashier gave me a gloating look and said &quot;So *now* you need a bag. We can think!&quot; 
+the cashier gave me a gloating look and said “So &lt;em&gt;now&lt;/em&gt; you need a bag. We can think!”&lt;/p&gt;
 
-It wasn&#39;t all bad, of course. I originally intended to bring leftovers
+&lt;p&gt;It wasn’t all bad, of course. I originally intended to bring leftovers
 for lunch, but this ended up being unnecessary. Pretty much all the
-grad students in the lab ate at the university&#39;s dining hall, where
-you could get a nice lunch for \$2.35. This was fairly jaw-dropping
-given that at Tufts, if I don&#39;t bring my lunch, a burrito from the
-grocery store next to our lab costs over \$8. I also attended a free
+grad students in the lab ate at the university’s dining hall, where
+you could get a nice lunch for $2.35. This was fairly jaw-dropping
+given that at Tufts, if I don’t bring my lunch, a burrito from the
+grocery store next to our lab costs over $8. I also attended a free
 barbeque for international students, which was nice, although it felt
-odd to be considered an &quot;international student&quot;, due to my 27 years of
-exposure to ethnocentric US norms. 
+odd to be considered an “international student”, due to my 27 years of
+exposure to ethnocentric US norms.&lt;/p&gt;
 
-
-#container img {
+&lt;p&gt;#container img {
     vertical-align:middle;
     max-height:100%;
-}
-&lt;/it&gt;&lt;/p&gt;</content><author><name>Tom Williams</name><email>williams@cs.tufts.edu</email><uri>http://hrilab.tufts.edu/~twilliam</uri></author><category term="travel" /><summary>An American in Bremen</summary></entry><entry><title>Summer 2016: Visiting the University of Bremen</title><link href="http://williamstome.github.io//summer-2016-visiting-the-university-of-bremen-part-1/" rel="alternate" type="text/html" title="Summer 2016: Visiting the University of Bremen" /><published>2016-05-24T00:00:00+00:00</published><updated>2016-05-24T00:00:00+00:00</updated><id>http://williamstome.github.io//summer-2016-visiting-the-university-of-bremen-part-1</id><content type="html" xml:base="http://williamstome.github.io//summer-2016-visiting-the-university-of-bremen-part-1/">&lt;p&gt;In just a few short days, I’ll be traveling to Germany: land of
+}&lt;/p&gt;</content><author><name>Tom Williams</name><email>williams@cs.tufts.edu</email><uri>http://hrilab.tufts.edu/~twilliam</uri></author><category term="travel" /><summary>An American in Bremen</summary></entry><entry><title>Summer 2016: Visiting the University of Bremen</title><link href="http://williamstome.github.io//summer-2016-visiting-the-university-of-bremen-part-1/" rel="alternate" type="text/html" title="Summer 2016: Visiting the University of Bremen" /><published>2016-05-24T00:00:00+00:00</published><updated>2016-05-24T00:00:00+00:00</updated><id>http://williamstome.github.io//summer-2016-visiting-the-university-of-bremen-part-1</id><content type="html" xml:base="http://williamstome.github.io//summer-2016-visiting-the-university-of-bremen-part-1/">&lt;p&gt;In just a few short days, I’ll be traveling to Germany: land of
 lager, locomotives, and lederhosen, if American television is to be
 believed. 
 Last year, our lab had the pleasure of hosting Fereshta Yazdani, a PhD
