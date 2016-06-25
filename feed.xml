@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://williamstome.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="http://williamstome.github.io//" rel="alternate" type="text/html" /><updated>2016-06-25T18:03:01+00:00</updated><id>http://williamstome.github.io//</id><title>williamstome</title><subtitle>A research blog focusing on artiicial intelligence and human-robot interacion.</subtitle><author><name>Tom Williams</name><email>williams@cs.tufts.edu</email><uri>http://hrilab.tufts.edu/~twilliam</uri></author><entry><title>Summer 2016: Visiting the University of Bremen Pt.2</title><link href="http://williamstome.github.io//summer-2016-visiting-the-university-of-bremen-part-2/" rel="alternate" type="text/html" title="Summer 2016: Visiting the University of Bremen Pt.2" /><published>2016-05-24T00:00:00+00:00</published><updated>2016-05-24T00:00:00+00:00</updated><id>http://williamstome.github.io//summer-2016-visiting-the-university-of-bremen-part-2</id><content type="html" xml:base="http://williamstome.github.io//summer-2016-visiting-the-university-of-bremen-part-2/">&lt;p&gt;For the past month, I’ve been visiting the Institute for Artificial
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://williamstome.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="http://williamstome.github.io//" rel="alternate" type="text/html" /><updated>2016-06-25T18:31:34+00:00</updated><id>http://williamstome.github.io//</id><title>williamstome</title><subtitle>A research blog focusing on artiicial intelligence and human-robot interacion.</subtitle><author><name>Tom Williams</name><email>williams@cs.tufts.edu</email><uri>http://hrilab.tufts.edu/~twilliam</uri></author><entry><title>Summer 2016: Visiting the University of Bremen Pt.2</title><link href="http://williamstome.github.io//summer-2016-visiting-the-university-of-bremen-part-2/" rel="alternate" type="text/html" title="Summer 2016: Visiting the University of Bremen Pt.2" /><published>2016-05-24T00:00:00+00:00</published><updated>2016-05-24T00:00:00+00:00</updated><id>http://williamstome.github.io//summer-2016-visiting-the-university-of-bremen-part-2</id><content type="html" xml:base="http://williamstome.github.io//summer-2016-visiting-the-university-of-bremen-part-2/">&lt;p&gt;For the past month, I’ve been visiting the Institute for Artificial
 Intelligence at the University (IAI) of Bremen. At Tufts, I (along with most
 other members of the HRI Lab) am enrolled in a joint Computer Science
 – Cognitive Science Ph.D. program, which has an extra-hefty course
@@ -14,8 +14,10 @@ more generally integrating our robot architecture with the intelligent
 logging, reasoning, and visualization capabilities provided by their
 KnowRob and OpenEase frameworks.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/bremen2/pr2.jpg&quot; alt=&quot;pr2&quot; /&gt;&lt;br /&gt;
-&lt;em&gt;An IAI PR2 doing chemistry experiments for the local youth.&lt;/em&gt;&lt;/p&gt;
+&lt;center&gt;
+![pr2](/images/bremen2/pr2.jpg)&lt;br /&gt;
+*An IAI PR2 doing chemistry experiments for the local youth.*
+&lt;/center&gt;
 
 &lt;p&gt;In addition to this, however, I’ve had a variety of projects competing for my attention. 
 - Preparing a 1/2-hour research seminar that I presented for the IAI while I was here, and preparing a 1-hour research seminar that I’ll present at MITRE corporation when I return home.
@@ -28,6 +30,57 @@ KnowRob and OpenEase frameworks.&lt;/p&gt;
 was hard work, but it was also nice to dive so deeply into “focus
 mode”. Hopefully some interesting papers will come out of our collaboration,
 at which point I’ll be able to share more details of my work here.&lt;/p&gt;
+
+&lt;h3 id=&quot;dfki-and-the-arithmeum&quot;&gt;DFKI and the Arithmeum&lt;/h3&gt;
+&lt;p&gt;While I was here, the Robotics Innovation Center of the DFKI (the
+German Research Center for AI) had a rare open house – which meant I
+got to spend a morning checking out some incredible new
+technology. Here are a few photos from that event.&lt;/p&gt;
+
+&lt;center&gt;
+![pr2](/images/bremen2/dfki1.jpg)&lt;br /&gt;
+*A humanoid robot intended for use on the ISS. Looks cool, but not
+sure about the choice to make it so obviously gendered.*
+&lt;/center&gt;
+
+&lt;center&gt;
+![pr2](/images/bremen2/dfki2.jpg)&lt;br /&gt;
+*A gosh-darned Transformer. Almost. This driverless car can change its
+pitch to take up less space, or rotate its wheels so that it can slide
+sideways into a parking space.*
+&lt;/center&gt;
+
+&lt;center&gt;
+![pr2](/images/bremen2/dfki3.jpg)&lt;br /&gt;
+*A mantis-like robot.*
+&lt;/center&gt;
+
+&lt;p&gt;Continuing on the topic of mechanical marvels, I had the opportunity
+to visit the &lt;em&gt;Arithmeum&lt;/em&gt; – a fascinating museum in Bonn chronicling
+the history of calculation. Here are a few of the gorgeous machines on
+display there.&lt;/p&gt;
+
+&lt;center&gt;
+![pr2](/images/bremen2/ar2.jpg)&lt;br /&gt;
+*A model of Babbage&#39;s Difference Engine*
+&lt;/center&gt;
+
+&lt;center&gt;
+![pr2](/images/bremen2/ar3.jpg)&lt;br /&gt;
+*A model of Babbage&#39;s Analytical Engine*
+&lt;/center&gt;
+
+&lt;center&gt;
+![pr2](/images/bremen2/ar1.jpg)&lt;br /&gt;
+&lt;/center&gt;
+
+&lt;center&gt;
+![pr2](/images/bremen2/ar4.jpg)&lt;br /&gt;
+&lt;/center&gt;
+
+&lt;center&gt;
+![pr2](/images/bremen2/ar5.jpg)&lt;br /&gt;
+&lt;/center&gt;
 
 &lt;h3 id=&quot;living-in-germany&quot;&gt;Living in Germany&lt;/h3&gt;
 
