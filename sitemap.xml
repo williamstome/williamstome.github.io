@@ -1,257 +1,158 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>http://williamstome.github.io//summer-2016-visiting-the-university-of-bremen-part-1/</loc>
-    <lastmod>2016-05-24T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//love-and-sex-with-robots-a-retrospective-through-science-and-science-fiction/</loc>
-    <lastmod>2016-03-20T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//off-to-hri-2016/</loc>
-    <lastmod>2016-03-02T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//re-designing-an-introductory-ai-course-analysis/</loc>
-    <lastmod>2016-02-05T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//the-five-stages-of-grief-an-hri-lab-christmas-carol/</loc>
-    <lastmod>2015-12-18T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//is-robot-telepathy-acceptable/</loc>
-    <lastmod>2015-10-06T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//teaching-philosophy/</loc>
-    <lastmod>2015-07-04T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//learning-objectives-for-an-introductory-ai-course/</loc>
-    <lastmod>2015-06-01T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//brainstorming-the-ideal-class-rhythm/</loc>
-    <lastmod>2015-05-27T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//initial-thoughts-on-re-designing-an-introductory-ai-course/</loc>
-    <lastmod>2015-05-07T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//pax-east-2015-a-study-in-chrome-the-ethics-of-silverside/</loc>
-    <lastmod>2015-03-11T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//should-fully-autonomous-weapons-systems-be-banned/</loc>
-    <lastmod>2015-02-04T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//philadelphia-beerlytics-part-two-abv/</loc>
-    <lastmod>2014-12-17T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//philadelphia-beerlytics-part-one/</loc>
-    <lastmod>2014-12-11T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//could-you-maybe-possibly-explain-indirect-speech-acts/</loc>
-    <lastmod>2014-11-19T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//a-guided-tour-of-hri/</loc>
-    <lastmod>2014-10-29T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//book-and-article-recommendations/</loc>
-    <lastmod>2014-10-20T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//migration/</loc>
-    <lastmod>2014-10-18T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//beerlytics-bar-density/</loc>
-    <lastmod>2014-04-04T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//high-density-beerlytics-data-visualization-of-beer-neighborhoods/</loc>
-    <lastmod>2014-03-28T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//is-there-a-place-for-the-mind-in-physics-response/</loc>
-    <lastmod>2013-01-31T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//d-c-dennett-b-f-skinner-and-h-p-lovecraft/</loc>
-    <lastmod>2012-12-04T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//theme-setup/</loc>
-    <lastmod>2016-05-24T13:30:32-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//posts/</loc>
-    <lastmod>2016-05-24T13:30:32-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//</loc>
-    <lastmod>2016-05-24T13:30:32-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//about/</loc>
-    <lastmod>2016-05-24T13:30:32-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//tag/lovecraft/</loc>
-    <lastmod>2016-05-24T13:30:32-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//tag/philosophy/</loc>
-    <lastmod>2016-05-24T13:30:32-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//tag/beer/</loc>
-    <lastmod>2016-05-24T13:30:32-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//tag/data/</loc>
-    <lastmod>2016-05-24T13:30:32-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//tag/visualization/</loc>
-    <lastmod>2016-05-24T13:30:32-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//tag/jekyll/</loc>
-    <lastmod>2016-05-24T13:30:32-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//tag/blogging/</loc>
-    <lastmod>2016-05-24T13:30:32-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//tag/hri/</loc>
-    <lastmod>2016-05-24T13:30:32-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//tag/natural%20language/</loc>
-    <lastmod>2016-05-24T13:30:32-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//tag/dialog/</loc>
-    <lastmod>2016-05-24T13:30:32-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//tag/robotics/</loc>
-    <lastmod>2016-05-24T13:30:32-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//tag/books/</loc>
-    <lastmod>2016-05-24T13:30:32-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//tag/ai/</loc>
-    <lastmod>2016-05-24T13:30:32-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//tag/ethics/</loc>
-    <lastmod>2016-05-24T13:30:32-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//tag/outreach/</loc>
-    <lastmod>2016-05-24T13:30:32-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//tag/teaching/</loc>
-    <lastmod>2016-05-24T13:30:32-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//tag/pedagogy/</loc>
-    <lastmod>2016-05-24T13:30:32-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//tag/uncanny%20valley/</loc>
-    <lastmod>2016-05-24T13:30:32-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//tag/lab%20culture/</loc>
-    <lastmod>2016-05-24T13:30:32-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://williamstome.github.io//tag/travel/</loc>
-    <lastmod>2016-05-24T13:30:32-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
+<url>
+<loc>http://williamstome.github.io//summer-2016-visiting-the-university-of-bremen-part-2/</loc>
+<lastmod>2016-05-24T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://williamstome.github.io//summer-2016-visiting-the-university-of-bremen-part-1/</loc>
+<lastmod>2016-05-24T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://williamstome.github.io//love-and-sex-with-robots-a-retrospective-through-science-and-science-fiction/</loc>
+<lastmod>2016-03-20T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://williamstome.github.io//off-to-hri-2016/</loc>
+<lastmod>2016-03-02T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://williamstome.github.io//re-designing-an-introductory-ai-course-analysis/</loc>
+<lastmod>2016-02-05T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://williamstome.github.io//the-five-stages-of-grief-an-hri-lab-christmas-carol/</loc>
+<lastmod>2015-12-18T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://williamstome.github.io//is-robot-telepathy-acceptable/</loc>
+<lastmod>2015-10-06T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://williamstome.github.io//teaching-philosophy/</loc>
+<lastmod>2015-07-04T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://williamstome.github.io//learning-objectives-for-an-introductory-ai-course/</loc>
+<lastmod>2015-06-01T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://williamstome.github.io//brainstorming-the-ideal-class-rhythm/</loc>
+<lastmod>2015-05-27T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://williamstome.github.io//initial-thoughts-on-re-designing-an-introductory-ai-course/</loc>
+<lastmod>2015-05-07T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://williamstome.github.io//pax-east-2015-a-study-in-chrome-the-ethics-of-silverside/</loc>
+<lastmod>2015-03-11T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://williamstome.github.io//should-fully-autonomous-weapons-systems-be-banned/</loc>
+<lastmod>2015-02-04T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://williamstome.github.io//philadelphia-beerlytics-part-two-abv/</loc>
+<lastmod>2014-12-17T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://williamstome.github.io//philadelphia-beerlytics-part-one/</loc>
+<lastmod>2014-12-11T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://williamstome.github.io//could-you-maybe-possibly-explain-indirect-speech-acts/</loc>
+<lastmod>2014-11-19T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://williamstome.github.io//a-guided-tour-of-hri/</loc>
+<lastmod>2014-10-29T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://williamstome.github.io//book-and-article-recommendations/</loc>
+<lastmod>2014-10-20T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://williamstome.github.io//migration/</loc>
+<lastmod>2014-10-18T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://williamstome.github.io//beerlytics-bar-density/</loc>
+<lastmod>2014-04-04T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://williamstome.github.io//high-density-beerlytics-data-visualization-of-beer-neighborhoods/</loc>
+<lastmod>2014-03-28T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://williamstome.github.io//is-there-a-place-for-the-mind-in-physics-response/</loc>
+<lastmod>2013-01-31T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://williamstome.github.io//d-c-dennett-b-f-skinner-and-h-p-lovecraft/</loc>
+<lastmod>2012-12-04T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://williamstome.github.io//</loc>
+</url>
+<url>
+<loc>http://williamstome.github.io//tag/lovecraft/</loc>
+</url>
+<url>
+<loc>http://williamstome.github.io//tag/philosophy/</loc>
+</url>
+<url>
+<loc>http://williamstome.github.io//tag/beer/</loc>
+</url>
+<url>
+<loc>http://williamstome.github.io//tag/data/</loc>
+</url>
+<url>
+<loc>http://williamstome.github.io//tag/visualization/</loc>
+</url>
+<url>
+<loc>http://williamstome.github.io//tag/jekyll/</loc>
+</url>
+<url>
+<loc>http://williamstome.github.io//tag/blogging/</loc>
+</url>
+<url>
+<loc>http://williamstome.github.io//tag/hri/</loc>
+</url>
+<url>
+<loc>http://williamstome.github.io//tag/natural%2520language/</loc>
+</url>
+<url>
+<loc>http://williamstome.github.io//tag/dialog/</loc>
+</url>
+<url>
+<loc>http://williamstome.github.io//tag/robotics/</loc>
+</url>
+<url>
+<loc>http://williamstome.github.io//tag/books/</loc>
+</url>
+<url>
+<loc>http://williamstome.github.io//tag/ai/</loc>
+</url>
+<url>
+<loc>http://williamstome.github.io//tag/ethics/</loc>
+</url>
+<url>
+<loc>http://williamstome.github.io//tag/outreach/</loc>
+</url>
+<url>
+<loc>http://williamstome.github.io//tag/teaching/</loc>
+</url>
+<url>
+<loc>http://williamstome.github.io//tag/pedagogy/</loc>
+</url>
+<url>
+<loc>http://williamstome.github.io//tag/uncanny%2520valley/</loc>
+</url>
+<url>
+<loc>http://williamstome.github.io//tag/lab%2520culture/</loc>
+</url>
+<url>
+<loc>http://williamstome.github.io//tag/travel/</loc>
+</url>
 </urlset>
